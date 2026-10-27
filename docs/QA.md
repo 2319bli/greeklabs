@@ -52,6 +52,8 @@ Three additional Python tests verify that the static catalogue exactly matches t
 
 The GitHub Actions workflow repeats application checks, catalogue validation and all 28 tests before deploying the generated static site.
 
+The [first GitHub build and deployment](https://github.com/2319bli/greeklabs/actions/runs/40600616992) succeeded. HTTPS is enforced on [the live website](https://2319bli.github.io/greeklabs/). Live HTML, CSS, JavaScript and catalogue bytes match the tested export. Browser checks passed for direct reader-link reloads, Herodotus translation reveal, literature navigation, both empty new-text collections, language, unseen, composition, dashboard and unaccented Greek search. The 390 px mobile view has no horizontal overflow, and these live checks recorded no browser console errors. Section completion also survived a reload of the static local preview; the test completion was reverted afterwards.
+
 ## Limits
 
 Academic accuracy and provenance were not revalidated; existing translations remain as supplied. Electra needs separately supplied finer Greek/English alignment. New texts, verified grammar/exercises, annotations and exam questions still await import. Browser data requires exports for migration or recovery after deliberate deletion; there is no cloud sync. Testing is local and does not represent certification across every browser or real mobile device. The local testing server is stopped after handover; use the README run command to restart it.
