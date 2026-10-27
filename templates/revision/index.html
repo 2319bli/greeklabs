@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<div id="app" class="app-shell">
+  <aside id="sidebar" class="sidebar" aria-label="Primary navigation"></aside>
+  <div class="workspace">
+    <header id="topbar" class="topbar"></header>
+    <div id="storage-warning" class="storage-warning" role="alert" hidden></div>
+    <main id="main" tabindex="-1"><div class="loading"><span class="brand-mark">γ</span><p>Loading GreekLabs…</p></div></main>
+  </div>
+</div>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<input id="progress-file" type="file" accept="application/json,.json" hidden aria-label="Import a progress backup">
+<noscript><p class="notice">GreekLabs needs JavaScript for reading controls and local progress tracking. Enable it and reload.</p></noscript>
+<script type="module" src="{% static 'js/main.js' %}"></script>
+{% endblock %}

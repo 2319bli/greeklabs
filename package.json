@@ -1,0 +1,9 @@
+{
+  "name": "greeklabs-local",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "description": "Optional dependency-free frontend tests; Node is not needed to run the Django site."
+}

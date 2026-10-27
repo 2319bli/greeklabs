@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "texts": [],
+  "grammar": [
+    {
+      "id": "grammar-example",
+      "title": "[Topic title]",
+      "category": "[Grammar category]",
+      "status": "draft",
+      "difficulty": "developing",
+      "summary": "[Brief summary]",
+      "explanation": "[Reviewed explanation]",
+      "topic_ids": [],
+      "related_ids": [],
+      "examples": [
+        {
+          "greek": "[Supplied Greek example]",
+          "english": "[Supplied literal English]"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "exercise-1",
+          "prompt": "[Supplied practice prompt]",
+          "answer": "[Supplied answer and explanation]"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "odyssey-22-1",
+      "text_id": "odyssey-22",
+      "number": 1,
+      "title": "[Supplied section title]",
+      "reference": "22.1–5",
+      "status": "draft",
+      "source": "[Edition and attribution]",
+      "greek": "[Entire supplied Greek section]",
+      "translation": "[Entire supplied literal translation]",
+      "translation_type": "literal",
+      "alignment": "line",
+      "line_start": 1,
+      "line_end": 5,
+      "topic_ids": [
+        "grammar-example"
+      ],
+      "units": [
+        {
+          "id": "lines-1-5",
+          "reference": "22.1–5",
+          "line_start": 1,
+          "line_end": 5,
+          "greek": "[Supplied Greek for this exact range]",
+          "translation": "[Matching literal English for this exact range]",
+          "glosses": [
+            {
+              "greek": "[Headword]",
+              "english": "[Meaning]"
+            }
+          ],
+          "grammar_notes": [
+            {
+              "topic_id": "grammar-example",
+              "note": "[Reviewed annotation]"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vocabulary-example",
+      "title": "[Headword]",
+      "status": "draft",
+      "greek": "[Headword]",
+      "english": "[Meaning]",
+      "notes": "[Principal parts or usage]",
+      "topic_ids": [
+        "grammar-example"
+      ]
+    }
+  ],
+  "unseen": [
+    {
+      "id": "unseen-001",
+      "number": 101,
+      "title": "[Passage title]",
+      "status": "draft",
+      "author": "[Author or composer]",
+      "genre": "Prose",
+      "difficulty": "developing",
+      "origin": "adapted",
+      "source": "[Original work, precise reference, edition; adaptation details]",
+      "topic_ids": [
+        "grammar-example"
+      ],
+      "greek": "[Reviewed passage]",
+      "translation": "[Reviewed literal model]",
+      "glosses": [
+        {
+          "greek": "[Headword]",
+          "english": "[Meaning]"
+        }
+      ],
+      "hints": [
+        "[Optional reviewed hint]"
+      ]
+    }
+  ],
+  "compositions": [
+    {
+      "id": "composition-001",
+      "number": 101,
+      "title": "[Exercise title]",
+      "status": "draft",
+      "format": "sentences",
+      "difficulty": "foundation",
+      "topic_ids": [
+        "grammar-example"
+      ],
+      "english": "[Supplied English prompt]",
+      "model_greek": "[Reviewed Greek model]",
+      "vocabulary": [
+        {
+          "greek": "[Headword]",
+          "english": "[Meaning]"
+        }
+      ],
+      "hints": [
+        "[Optional syntax hint]"
+      ],
+      "alternatives": [
+        "[Acceptable Greek construction]"
+      ],
+      "notes": "[Reviewed explanation]"
+    }
+  ],
+  "annotations": [
+    {
+      "id": "odyssey-22-annotation-1",
+      "status": "draft",
+      "text_id": "odyssey-22",
+      "section_id": "odyssey-22-1",
+      "unit_id": "lines-1-5",
+      "reference": "22.1–5",
+      "quote": "[Exact verified Greek quotation]",
+      "technique": "[Technique]",
+      "effect": "[Effect explained from this quotation]",
+      "context": "[Themes, characterisation or dramatic context]"
+    }
+  ],
+  "questions": [
+    {
+      "id": "odyssey-22-question-1",
+      "title": "[Question bank label]",
+      "status": "draft",
+      "text_id": "odyssey-22",
+      "section_ids": [
+        "odyssey-22-1"
+      ],
+      "reference": "22.1–5",
+      "question": "[Supplied essay question]",
+      "quotations": [
+        "[Verified relevant Greek quotation]"
+      ],
+      "points": [
+        "[Reviewed analytical point]"
+      ],
+      "guidance": "[Supplied plan or answer guidance]"
+    }
+  ]
+}

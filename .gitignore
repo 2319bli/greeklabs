@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+db.sqlite3*
+backups/
+staticfiles/
+.qa/
+
+GreekLabs-2.0.zip
+data/content/*.lock
+_site/

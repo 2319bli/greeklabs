@@ -1,0 +1,2795 @@
+{
+  "schema_version": 1,
+  "texts": [
+    {
+      "id": "electra",
+      "title": "Electra",
+      "author": "Sophocles",
+      "genre": "Tragedy",
+      "scope": "Lines 1–85 & 254–416",
+      "description": "",
+      "status": "published"
+    },
+    {
+      "id": "herodotus",
+      "title": "Histories · Book 7",
+      "author": "Herodotus",
+      "genre": "History",
+      "scope": "Chapters 207–226",
+      "description": "",
+      "status": "published"
+    },
+    {
+      "id": "odyssey-22",
+      "title": "Odyssey · Book 22",
+      "author": "Homer",
+      "genre": "Epic",
+      "scope": "Lines 1–238",
+      "description": "",
+      "status": "draft"
+    },
+    {
+      "id": "herodotus-8",
+      "title": "Histories · Book 8",
+      "author": "Herodotus",
+      "genre": "History",
+      "scope": "Chapters 6–26",
+      "description": "",
+      "status": "draft"
+    }
+  ],
+  "sections": [
+    {
+      "id": "electra-1",
+      "text_id": "electra",
+      "number": 1,
+      "title": "Section 1",
+      "reference": "Lines 1–14",
+      "status": "published",
+      "greek": "Παιδαγωγός\nὦ τοῦ στρατηγήσαντος ἐν Τροίᾳ ποτὲ\nἈγαμέμνονος παῖ, νῦν ἐκεῖνʼ ἔξεστί σοι\nπαρόντι λεύσσειν, ὧν πρόθυμος ἦσθʼ ἀεί.\nτὸ γὰρ παλαιὸν Ἄργος οὑπόθεις τόδε,\nτῆς οἰστροπλῆγος ἄλσος Ἰνάχου κόρης·\nαὕτη δʼ, Ὀρέστα, τοῦ λυκοκτόνου θεοῦ\nἀγορὰ Λύκειος· οὑξ ἀριστερᾶς δʼ ὅδε\nἭρας ὁ κλεινὸς ναός· οἷ δʼ ἱκάνομεν,\nφάσκειν Μυκήνας τὰς πολυχρύσους ὁρᾶν\nπολύφθορόν τε δῶμα Πελοπιδῶν τόδε,\nὅθεν σε πατρὸς ἐκ φονῶν ἐγώ ποτε\nπρὸς σῆς ὁμαίμου καὶ κασιγνήτης λαβὼν\nἤνεγκα κἀξέσωσα κἀξεθρεψάμην\nτοσόνδʼ ἐς ἥβης, πατρὶ τιμωρὸν φόνου.",
+      "translation": "Paidagogos ​\nO child of Agamemnon, who once commanded at Troy, ​\nnow at last you may look upon what you have always longed to see. ​\nFor this is that ancient Argos you have desired, ​\nthe grove of Inachus’ daughter, stung by madness.\nThis, Orestes, is the marketplace of the wolf-slaying god, Apollo Lykeios; ​\nto the left is the glorious temple of Hera. ​\nAnd here, where we have come, they say are the gold-rich Mycenae, ​\nand this is the ruinous house of the Pelopids, ​\nfrom where I once took you away after your father’s murder\nand carried you to the side of your sister and brother, ​\nsaving and raising you until you reached this youth, ​\nso that you might become your father’s avenger. ​",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 1–14",
+          "greek": "Παιδαγωγός\nὦ τοῦ στρατηγήσαντος ἐν Τροίᾳ ποτὲ\nἈγαμέμνονος παῖ, νῦν ἐκεῖνʼ ἔξεστί σοι\nπαρόντι λεύσσειν, ὧν πρόθυμος ἦσθʼ ἀεί.\nτὸ γὰρ παλαιὸν Ἄργος οὑπόθεις τόδε,\nτῆς οἰστροπλῆγος ἄλσος Ἰνάχου κόρης·\nαὕτη δʼ, Ὀρέστα, τοῦ λυκοκτόνου θεοῦ\nἀγορὰ Λύκειος· οὑξ ἀριστερᾶς δʼ ὅδε\nἭρας ὁ κλεινὸς ναός· οἷ δʼ ἱκάνομεν,\nφάσκειν Μυκήνας τὰς πολυχρύσους ὁρᾶν\nπολύφθορόν τε δῶμα Πελοπιδῶν τόδε,\nὅθεν σε πατρὸς ἐκ φονῶν ἐγώ ποτε\nπρὸς σῆς ὁμαίμου καὶ κασιγνήτης λαβὼν\nἤνεγκα κἀξέσωσα κἀξεθρεψάμην\nτοσόνδʼ ἐς ἥβης, πατρὶ τιμωρὸν φόνου.",
+          "translation": "Paidagogos ​\nO child of Agamemnon, who once commanded at Troy, ​\nnow at last you may look upon what you have always longed to see. ​\nFor this is that ancient Argos you have desired, ​\nthe grove of Inachus’ daughter, stung by madness.\nThis, Orestes, is the marketplace of the wolf-slaying god, Apollo Lykeios; ​\nto the left is the glorious temple of Hera. ​\nAnd here, where we have come, they say are the gold-rich Mycenae, ​\nand this is the ruinous house of the Pelopids, ​\nfrom where I once took you away after your father’s murder\nand carried you to the side of your sister and brother, ​\nsaving and raising you until you reached this youth, ​\nso that you might become your father’s avenger. ​",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 1,
+      "line_end": 14,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l1",
+          "number": 1,
+          "text": "ὦ τοῦ στρατηγήσαντος ἐν Τροίᾳ ποτὲ",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l2",
+          "number": 2,
+          "text": "Ἀγαμέμνονος παῖ, νῦν ἐκεῖνʼ ἔξεστί σοι",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l3",
+          "number": 3,
+          "text": "παρόντι λεύσσειν, ὧν πρόθυμος ἦσθʼ ἀεί.",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l4",
+          "number": 4,
+          "text": "τὸ γὰρ παλαιὸν Ἄργος οὑπόθεις τόδε,",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l5",
+          "number": 5,
+          "text": "τῆς οἰστροπλῆγος ἄλσος Ἰνάχου κόρης·",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l6",
+          "number": 6,
+          "text": "αὕτη δʼ, Ὀρέστα, τοῦ λυκοκτόνου θεοῦ",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l7",
+          "number": 7,
+          "text": "ἀγορὰ Λύκειος· οὑξ ἀριστερᾶς δʼ ὅδε",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l8",
+          "number": 8,
+          "text": "Ἥρας ὁ κλεινὸς ναός· οἷ δʼ ἱκάνομεν,",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l9",
+          "number": 9,
+          "text": "φάσκειν Μυκήνας τὰς πολυχρύσους ὁρᾶν",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l10",
+          "number": 10,
+          "text": "πολύφθορόν τε δῶμα Πελοπιδῶν τόδε,",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l11",
+          "number": 11,
+          "text": "ὅθεν σε πατρὸς ἐκ φονῶν ἐγώ ποτε",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l12",
+          "number": 12,
+          "text": "πρὸς σῆς ὁμαίμου καὶ κασιγνήτης λαβὼν",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l13",
+          "number": 13,
+          "text": "ἤνεγκα κἀξέσωσα κἀξεθρεψάμην",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l14",
+          "number": 14,
+          "text": "τοσόνδʼ ἐς ἥβης, πατρὶ τιμωρὸν φόνου.",
+          "speaker": "Παιδαγωγός"
+        }
+      ]
+    },
+    {
+      "id": "electra-2",
+      "text_id": "electra",
+      "number": 2,
+      "title": "Section 2",
+      "reference": "Lines 15–31",
+      "status": "published",
+      "greek": "νῦν οὖν, Ὀρέστα καὶ σὺ φίλτατε ξένων\nΠυλάδη, τί χρὴ δρᾶν ἐν τάχει βουλευτέον·\nὡς ἡμὶν ἤδη λαμπρὸν ἡλίου σέλας\nἑῷα κινεῖ φθέγματʼ ὀρνίθων σαφῆ\nμέλαινά τʼ ἄστρων ἐκλέλοιπεν εὐφρόνη.\nπρὶν οὖν τινʼ ἀνδρῶν ἐξοδοιπορεῖν στέγης,\nξυνάπτετον λόγοισιν· ὡς ἐνταῦθʼ ἐμέν,\nἵνʼ οὐκέτʼ ὀκνεῖν καιρός, ἀλλʼ ἔργων ἀκμή.\n\nὈρέστης\nὦ φίλτατʼ ἀνδρῶν προσπόλων, ὥς μοι σαφῆ\nσημεῖα φαίνεις ἐσθλὸς εἰς ἡμᾶς γεγώς.\nὥσπερ γὰρ ἵππος εὐγενής, κἂν ᾖ γέρων,\nἐν τοῖσι δεινοῖς θυμὸν οὐκ ἀπώλεσεν,\nἀλλʼ ὀρθὸν οὖς ἵστησιν, ὡσαύτως δὲ σὺ\nἡμᾶς τʼ ὀτρύνεις καὐτὸς ἐν πρώτοις ἕπει.\nτοιγὰρ τὰ μὲν δόξαντα δηλώσω, σὺ δὲ\nὀξεῖαν ἀκοὴν τοῖς ἐμοῖς λόγοις διδούς,\nεἰ μή τι καιροῦ τυγχάνω, μεθάρμοσον.",
+      "translation": "Now then, Orestes, dearest of men, and you, beloved Pylades,\nwe must quickly decide what is to be done. ​\nFor already the bright light of the sun is moving, ​\nthe morning cries of birds are clear, ​\nand the dark night has left the sky. ​\nBefore any of the household come forth,\ntake counsel together; for now is no time to delay, but the moment for action.​\n\nOrestes \n\nDearest of servants, how plainly you show your loyalty to us! ​\nFor just as a noble horse, though old, ​\ndoes not lose his spirit in danger,\nbut pricks up his ears, ​\nso you urge us on and yourself take the lead. ​\nI will now set out my plan; and you, listening keenly, ​\nif I miss the mark, correct me. ​",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 15–31",
+          "greek": "νῦν οὖν, Ὀρέστα καὶ σὺ φίλτατε ξένων\nΠυλάδη, τί χρὴ δρᾶν ἐν τάχει βουλευτέον·\nὡς ἡμὶν ἤδη λαμπρὸν ἡλίου σέλας\nἑῷα κινεῖ φθέγματʼ ὀρνίθων σαφῆ\nμέλαινά τʼ ἄστρων ἐκλέλοιπεν εὐφρόνη.\nπρὶν οὖν τινʼ ἀνδρῶν ἐξοδοιπορεῖν στέγης,\nξυνάπτετον λόγοισιν· ὡς ἐνταῦθʼ ἐμέν,\nἵνʼ οὐκέτʼ ὀκνεῖν καιρός, ἀλλʼ ἔργων ἀκμή.\n\nὈρέστης\nὦ φίλτατʼ ἀνδρῶν προσπόλων, ὥς μοι σαφῆ\nσημεῖα φαίνεις ἐσθλὸς εἰς ἡμᾶς γεγώς.\nὥσπερ γὰρ ἵππος εὐγενής, κἂν ᾖ γέρων,\nἐν τοῖσι δεινοῖς θυμὸν οὐκ ἀπώλεσεν,\nἀλλʼ ὀρθὸν οὖς ἵστησιν, ὡσαύτως δὲ σὺ\nἡμᾶς τʼ ὀτρύνεις καὐτὸς ἐν πρώτοις ἕπει.\nτοιγὰρ τὰ μὲν δόξαντα δηλώσω, σὺ δὲ\nὀξεῖαν ἀκοὴν τοῖς ἐμοῖς λόγοις διδούς,\nεἰ μή τι καιροῦ τυγχάνω, μεθάρμοσον.",
+          "translation": "Now then, Orestes, dearest of men, and you, beloved Pylades,\nwe must quickly decide what is to be done. ​\nFor already the bright light of the sun is moving, ​\nthe morning cries of birds are clear, ​\nand the dark night has left the sky. ​\nBefore any of the household come forth,\ntake counsel together; for now is no time to delay, but the moment for action.​\n\nOrestes \n\nDearest of servants, how plainly you show your loyalty to us! ​\nFor just as a noble horse, though old, ​\ndoes not lose his spirit in danger,\nbut pricks up his ears, ​\nso you urge us on and yourself take the lead. ​\nI will now set out my plan; and you, listening keenly, ​\nif I miss the mark, correct me. ​",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 15,
+      "line_end": 31,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l15",
+          "number": 15,
+          "text": "νῦν οὖν, Ὀρέστα καὶ σὺ φίλτατε ξένων",
+          "speaker": ""
+        },
+        {
+          "id": "l16",
+          "number": 16,
+          "text": "Πυλάδη, τί χρὴ δρᾶν ἐν τάχει βουλευτέον·",
+          "speaker": ""
+        },
+        {
+          "id": "l17",
+          "number": 17,
+          "text": "ὡς ἡμὶν ἤδη λαμπρὸν ἡλίου σέλας",
+          "speaker": ""
+        },
+        {
+          "id": "l18",
+          "number": 18,
+          "text": "ἑῷα κινεῖ φθέγματʼ ὀρνίθων σαφῆ",
+          "speaker": ""
+        },
+        {
+          "id": "l19",
+          "number": 19,
+          "text": "μέλαινά τʼ ἄστρων ἐκλέλοιπεν εὐφρόνη.",
+          "speaker": ""
+        },
+        {
+          "id": "l20",
+          "number": 20,
+          "text": "πρὶν οὖν τινʼ ἀνδρῶν ἐξοδοιπορεῖν στέγης,",
+          "speaker": ""
+        },
+        {
+          "id": "l21",
+          "number": 21,
+          "text": "ξυνάπτετον λόγοισιν· ὡς ἐνταῦθʼ ἐμέν,",
+          "speaker": ""
+        },
+        {
+          "id": "l22",
+          "number": 22,
+          "text": "ἵνʼ οὐκέτʼ ὀκνεῖν καιρός, ἀλλʼ ἔργων ἀκμή.",
+          "speaker": ""
+        },
+        {
+          "id": "l23",
+          "number": 23,
+          "text": "ὦ φίλτατʼ ἀνδρῶν προσπόλων, ὥς μοι σαφῆ",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l24",
+          "number": 24,
+          "text": "σημεῖα φαίνεις ἐσθλὸς εἰς ἡμᾶς γεγώς.",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l25",
+          "number": 25,
+          "text": "ὥσπερ γὰρ ἵππος εὐγενής, κἂν ᾖ γέρων,",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l26",
+          "number": 26,
+          "text": "ἐν τοῖσι δεινοῖς θυμὸν οὐκ ἀπώλεσεν,",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l27",
+          "number": 27,
+          "text": "ἀλλʼ ὀρθὸν οὖς ἵστησιν, ὡσαύτως δὲ σὺ",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l28",
+          "number": 28,
+          "text": "ἡμᾶς τʼ ὀτρύνεις καὐτὸς ἐν πρώτοις ἕπει.",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l29",
+          "number": 29,
+          "text": "τοιγὰρ τὰ μὲν δόξαντα δηλώσω, σὺ δὲ",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l30",
+          "number": 30,
+          "text": "ὀξεῖαν ἀκοὴν τοῖς ἐμοῖς λόγοις διδούς,",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l31",
+          "number": 31,
+          "text": "εἰ μή τι καιροῦ τυγχάνω, μεθάρμοσον.",
+          "speaker": "Ὀρέστης"
+        }
+      ]
+    },
+    {
+      "id": "electra-3",
+      "text_id": "electra",
+      "number": 3,
+      "title": "Section 3",
+      "reference": "Lines 32–50",
+      "status": "published",
+      "greek": "ἐγὼ γὰρ ἡνίχʼ ἱκόμην τὸ Πυθικὸν\nμαντεῖον, ὡς μάθοιμʼ ὅτῳ τρόπῳ πατρὶ\nδίκας ἀροίμην τῶν φονευσάντων πάρα,\nχρῇ μοι τοιαῦθʼ ὁ Φοῖβος ὧν πεύσει τάχα·\nἄσκευον αὐτὸν ἀσπίδων τε καὶ στρατοῦ\nδόλοισι κλέψαι χειρὸς ἐνδίκους σφαγάς.\nὅτʼ οὖν τοιόνδε χρησμὸν εἰσηκούσαμεν,\nσὺ μὲν μολών, ὅταν σε καιρὸς εἰσάγῃ,\nδόμων ἔσω τῶνδʼ, ἴσθι πᾶν τὸ δρώμενον,\nὅπως ἂν εἰδὼς ἡμὶν ἀγγείλῃς σαφῆ.\nοὐ γάρ σε μὴ γήρᾳ τε καὶ χρόνῳ μακρῷ\nγνῶσʼ, οὐδʼ ὑποπτεύσουσιν ὧδʼ ἠνθισμένον.\nλόγῳ δὲ χρῶ τοιῷδʼ, ὅτι ξένος μὲν εἶ\nΦωκέως παρʼ ἀνδρὸς Φανοτέως ἥκων· ὃ γὰρ\nμέγιστος αὐτοῖς τυγχάνει δορυξένων.\nἄγγελλε δʼ ὅρκον προστιθεὶς ὁθούνεκα\nτέθνηκʼ Ὀρέστης ἐξ ἀναγκαίας τύχης,\nἄθλοισι Πυθικοῖσιν ἐκ τροχηλάτων\nδίφρων κυλισθείς· ὧδʼ ὁ μῦθος ἑστάτω.",
+      "translation": "When I came to the Pythian oracle,\nto learn how I might avenge my father’s murderers, ​\nPhoebus gave me this command, as you shall hear: ​\nwithout shield or army, by deceit, ​\nI must carry out the just slaughter with my own hand.\nSince such was the oracle, ​\nyou, old man, shall enter the house when the time comes, ​\nlearn everything that happens, ​\nand report it clearly to us.​\nYour old age will protect you,\nand they will not suspect you, so grey and harmless. ​\nSay this: that you are a stranger from Phocis, ​\nsent by Phanoteus (their closest ally),\nand swear that Orestes is dead, ​\nkilled in a chariot race at the Pythian games.\nLet this story stand firm. ​",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 32–50",
+          "greek": "ἐγὼ γὰρ ἡνίχʼ ἱκόμην τὸ Πυθικὸν\nμαντεῖον, ὡς μάθοιμʼ ὅτῳ τρόπῳ πατρὶ\nδίκας ἀροίμην τῶν φονευσάντων πάρα,\nχρῇ μοι τοιαῦθʼ ὁ Φοῖβος ὧν πεύσει τάχα·\nἄσκευον αὐτὸν ἀσπίδων τε καὶ στρατοῦ\nδόλοισι κλέψαι χειρὸς ἐνδίκους σφαγάς.\nὅτʼ οὖν τοιόνδε χρησμὸν εἰσηκούσαμεν,\nσὺ μὲν μολών, ὅταν σε καιρὸς εἰσάγῃ,\nδόμων ἔσω τῶνδʼ, ἴσθι πᾶν τὸ δρώμενον,\nὅπως ἂν εἰδὼς ἡμὶν ἀγγείλῃς σαφῆ.\nοὐ γάρ σε μὴ γήρᾳ τε καὶ χρόνῳ μακρῷ\nγνῶσʼ, οὐδʼ ὑποπτεύσουσιν ὧδʼ ἠνθισμένον.\nλόγῳ δὲ χρῶ τοιῷδʼ, ὅτι ξένος μὲν εἶ\nΦωκέως παρʼ ἀνδρὸς Φανοτέως ἥκων· ὃ γὰρ\nμέγιστος αὐτοῖς τυγχάνει δορυξένων.\nἄγγελλε δʼ ὅρκον προστιθεὶς ὁθούνεκα\nτέθνηκʼ Ὀρέστης ἐξ ἀναγκαίας τύχης,\nἄθλοισι Πυθικοῖσιν ἐκ τροχηλάτων\nδίφρων κυλισθείς· ὧδʼ ὁ μῦθος ἑστάτω.",
+          "translation": "When I came to the Pythian oracle,\nto learn how I might avenge my father’s murderers, ​\nPhoebus gave me this command, as you shall hear: ​\nwithout shield or army, by deceit, ​\nI must carry out the just slaughter with my own hand.\nSince such was the oracle, ​\nyou, old man, shall enter the house when the time comes, ​\nlearn everything that happens, ​\nand report it clearly to us.​\nYour old age will protect you,\nand they will not suspect you, so grey and harmless. ​\nSay this: that you are a stranger from Phocis, ​\nsent by Phanoteus (their closest ally),\nand swear that Orestes is dead, ​\nkilled in a chariot race at the Pythian games.\nLet this story stand firm. ​",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 32,
+      "line_end": 50,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l32",
+          "number": 32,
+          "text": "ἐγὼ γὰρ ἡνίχʼ ἱκόμην τὸ Πυθικὸν",
+          "speaker": ""
+        },
+        {
+          "id": "l33",
+          "number": 33,
+          "text": "μαντεῖον, ὡς μάθοιμʼ ὅτῳ τρόπῳ πατρὶ",
+          "speaker": ""
+        },
+        {
+          "id": "l34",
+          "number": 34,
+          "text": "δίκας ἀροίμην τῶν φονευσάντων πάρα,",
+          "speaker": ""
+        },
+        {
+          "id": "l35",
+          "number": 35,
+          "text": "χρῇ μοι τοιαῦθʼ ὁ Φοῖβος ὧν πεύσει τάχα·",
+          "speaker": ""
+        },
+        {
+          "id": "l36",
+          "number": 36,
+          "text": "ἄσκευον αὐτὸν ἀσπίδων τε καὶ στρατοῦ",
+          "speaker": ""
+        },
+        {
+          "id": "l37",
+          "number": 37,
+          "text": "δόλοισι κλέψαι χειρὸς ἐνδίκους σφαγάς.",
+          "speaker": ""
+        },
+        {
+          "id": "l38",
+          "number": 38,
+          "text": "ὅτʼ οὖν τοιόνδε χρησμὸν εἰσηκούσαμεν,",
+          "speaker": ""
+        },
+        {
+          "id": "l39",
+          "number": 39,
+          "text": "σὺ μὲν μολών, ὅταν σε καιρὸς εἰσάγῃ,",
+          "speaker": ""
+        },
+        {
+          "id": "l40",
+          "number": 40,
+          "text": "δόμων ἔσω τῶνδʼ, ἴσθι πᾶν τὸ δρώμενον,",
+          "speaker": ""
+        },
+        {
+          "id": "l41",
+          "number": 41,
+          "text": "ὅπως ἂν εἰδὼς ἡμὶν ἀγγείλῃς σαφῆ.",
+          "speaker": ""
+        },
+        {
+          "id": "l42",
+          "number": 42,
+          "text": "οὐ γάρ σε μὴ γήρᾳ τε καὶ χρόνῳ μακρῷ",
+          "speaker": ""
+        },
+        {
+          "id": "l43",
+          "number": 43,
+          "text": "γνῶσʼ, οὐδʼ ὑποπτεύσουσιν ὧδʼ ἠνθισμένον.",
+          "speaker": ""
+        },
+        {
+          "id": "l44",
+          "number": 44,
+          "text": "λόγῳ δὲ χρῶ τοιῷδʼ, ὅτι ξένος μὲν εἶ",
+          "speaker": ""
+        },
+        {
+          "id": "l45",
+          "number": 45,
+          "text": "Φωκέως παρʼ ἀνδρὸς Φανοτέως ἥκων· ὃ γὰρ",
+          "speaker": ""
+        },
+        {
+          "id": "l46",
+          "number": 46,
+          "text": "μέγιστος αὐτοῖς τυγχάνει δορυξένων.",
+          "speaker": ""
+        },
+        {
+          "id": "l47",
+          "number": 47,
+          "text": "ἄγγελλε δʼ ὅρκον προστιθεὶς ὁθούνεκα",
+          "speaker": ""
+        },
+        {
+          "id": "l48",
+          "number": 48,
+          "text": "τέθνηκʼ Ὀρέστης ἐξ ἀναγκαίας τύχης,",
+          "speaker": ""
+        },
+        {
+          "id": "l49",
+          "number": 49,
+          "text": "ἄθλοισι Πυθικοῖσιν ἐκ τροχηλάτων",
+          "speaker": ""
+        },
+        {
+          "id": "l50",
+          "number": 50,
+          "text": "δίφρων κυλισθείς· ὧδʼ ὁ μῦθος ἑστάτω.",
+          "speaker": ""
+        }
+      ]
+    },
+    {
+      "id": "electra-4",
+      "text_id": "electra",
+      "number": 4,
+      "title": "Section 4",
+      "reference": "Lines 51–66",
+      "status": "published",
+      "greek": "Ὀρέστης\nἡμεῖς δὲ πατρὸς τύμβον, ὡς ἐφίετο,\nλοιβαῖσι πρῶτον καὶ καρατόμοις χλιδαῖς\nστέψαντες εἶτʼ ἄψορρον ἥξομεν πάλιν,\nτύπωμα χαλκόπλευρον ἠρμένοι χεροῖν,\nὃ καὶ σὺ θάμνοις οἶσθά που κεκρυμμένον,\nὅπως λόγῳ κλέπτοντες ἡδεῖαν φάτιν\nφέρωμεν αὐτοῖς, τοὐμὸν ὡς ἔρρει δέμας\nφλογιστὸν ἤδη καὶ κατηνθρακωμένον.\nτί γάρ με λυπεῖ τοῦθʼ, ὅταν λόγῳ θανὼν\nἔργοισι σωθῶ κἀξενέγκωμαι κλέος;\nδοκῶ μέν, οὐδὲν ῥῆμα σὺν κέρδει κακόν.\nἤδη γὰρ εἶδον πολλάκις καὶ τοὺς σοφοὺς\nλόγῳ μάτην θνῄσκοντας· εἶθʼ, ὅταν δόμους\nἔλθωσιν αὖθις, ἐκτετίμηνται πλέον·\nὡς κἄμʼ ἐπαυχῶ τῆσδε τῆς φήμης ἄπο\nδεδορκότʼ ἐχθροῖς ἄστρον ὣς λάμψειν ἔτι.",
+      "translation": "Meanwhile, we shall crown our father’s tomb,\npour libations and cut locks of hair,\nthen return again,\ncarrying a bronze urn,\nwhich you know is hidden in the bushes,\nso that we may confirm the tale that my body​\nhas been consumed by fire and ashes.\nWhy should I grieve at this, if by a tale of death\nI am saved in deed, and win glory?\nI think that there is no word that brings advantage is bad.\nI have often seen even wise men die in words in vain,\nand when they return home, they are honoured the more.\nSo too I trust that from this rumour\nI shall shine upon my enemies like a star.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 51–66",
+          "greek": "Ὀρέστης\nἡμεῖς δὲ πατρὸς τύμβον, ὡς ἐφίετο,\nλοιβαῖσι πρῶτον καὶ καρατόμοις χλιδαῖς\nστέψαντες εἶτʼ ἄψορρον ἥξομεν πάλιν,\nτύπωμα χαλκόπλευρον ἠρμένοι χεροῖν,\nὃ καὶ σὺ θάμνοις οἶσθά που κεκρυμμένον,\nὅπως λόγῳ κλέπτοντες ἡδεῖαν φάτιν\nφέρωμεν αὐτοῖς, τοὐμὸν ὡς ἔρρει δέμας\nφλογιστὸν ἤδη καὶ κατηνθρακωμένον.\nτί γάρ με λυπεῖ τοῦθʼ, ὅταν λόγῳ θανὼν\nἔργοισι σωθῶ κἀξενέγκωμαι κλέος;\nδοκῶ μέν, οὐδὲν ῥῆμα σὺν κέρδει κακόν.\nἤδη γὰρ εἶδον πολλάκις καὶ τοὺς σοφοὺς\nλόγῳ μάτην θνῄσκοντας· εἶθʼ, ὅταν δόμους\nἔλθωσιν αὖθις, ἐκτετίμηνται πλέον·\nὡς κἄμʼ ἐπαυχῶ τῆσδε τῆς φήμης ἄπο\nδεδορκότʼ ἐχθροῖς ἄστρον ὣς λάμψειν ἔτι.",
+          "translation": "Meanwhile, we shall crown our father’s tomb,\npour libations and cut locks of hair,\nthen return again,\ncarrying a bronze urn,\nwhich you know is hidden in the bushes,\nso that we may confirm the tale that my body​\nhas been consumed by fire and ashes.\nWhy should I grieve at this, if by a tale of death\nI am saved in deed, and win glory?\nI think that there is no word that brings advantage is bad.\nI have often seen even wise men die in words in vain,\nand when they return home, they are honoured the more.\nSo too I trust that from this rumour\nI shall shine upon my enemies like a star.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 51,
+      "line_end": 66,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l51",
+          "number": 51,
+          "text": "ἡμεῖς δὲ πατρὸς τύμβον, ὡς ἐφίετο,",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l52",
+          "number": 52,
+          "text": "λοιβαῖσι πρῶτον καὶ καρατόμοις χλιδαῖς",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l53",
+          "number": 53,
+          "text": "στέψαντες εἶτʼ ἄψορρον ἥξομεν πάλιν,",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l54",
+          "number": 54,
+          "text": "τύπωμα χαλκόπλευρον ἠρμένοι χεροῖν,",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l55",
+          "number": 55,
+          "text": "ὃ καὶ σὺ θάμνοις οἶσθά που κεκρυμμένον,",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l56",
+          "number": 56,
+          "text": "ὅπως λόγῳ κλέπτοντες ἡδεῖαν φάτιν",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l57",
+          "number": 57,
+          "text": "φέρωμεν αὐτοῖς, τοὐμὸν ὡς ἔρρει δέμας",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l58",
+          "number": 58,
+          "text": "φλογιστὸν ἤδη καὶ κατηνθρακωμένον.",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l59",
+          "number": 59,
+          "text": "τί γάρ με λυπεῖ τοῦθʼ, ὅταν λόγῳ θανὼν",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l60",
+          "number": 60,
+          "text": "ἔργοισι σωθῶ κἀξενέγκωμαι κλέος;",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l61",
+          "number": 61,
+          "text": "δοκῶ μέν, οὐδὲν ῥῆμα σὺν κέρδει κακόν.",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l62",
+          "number": 62,
+          "text": "ἤδη γὰρ εἶδον πολλάκις καὶ τοὺς σοφοὺς",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l63",
+          "number": 63,
+          "text": "λόγῳ μάτην θνῄσκοντας· εἶθʼ, ὅταν δόμους",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l64",
+          "number": 64,
+          "text": "ἔλθωσιν αὖθις, ἐκτετίμηνται πλέον·",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l65",
+          "number": 65,
+          "text": "ὡς κἄμʼ ἐπαυχῶ τῆσδε τῆς φήμης ἄπο",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l66",
+          "number": 66,
+          "text": "δεδορκότʼ ἐχθροῖς ἄστρον ὣς λάμψειν ἔτι.",
+          "speaker": "Ὀρέστης"
+        }
+      ]
+    },
+    {
+      "id": "electra-5",
+      "text_id": "electra",
+      "number": 5,
+      "title": "Section 5",
+      "reference": "Lines 67–85",
+      "status": "published",
+      "greek": "ἀλλʼ, ὦ πατρῴα γῆ θεοί τʼ ἐγχώριοι,\nδέξασθέ μʼ εὐτυχοῦντα ταῖσδε ταῖς ὁδοῖς,\nσύ τʼ, ὦ πατρῷον δῶμα· σοῦ γὰρ ἔρχομαι\nδίκῃ καθαρτὴς πρὸς θεῶν ὡρμημένος·\nκαὶ μή μʼ ἄτιμον τῆσδʼ ἀποστείλητε γῆς,\nἀλλʼ ἀρχέπλουτον καὶ καταστάτην δόμων.\nεἴρηκα μέν νυν ταῦτα· σοὶ δʼ ἤδη, γέρον,\nτὸ σὸν μελέσθω βάντι φρουρῆσαι χρέος.\nνὼ δʼ ἔξιμεν· καιρὸς γάρ, ὅσπερ ἀνδράσιν\nμέγιστος ἔργου παντός ἐστʼ ἐπιστάτης.\n\nἨλέκτρα\nἰώ μοί μοι δύστηνος.\n\nΠαιδαγωγός\nκαὶ μὴν θυρῶν ἔδοξα προσπόλων τινὸς\nὑποστενούσης ἔνδον αἰσθέσθαι, τέκνον.\n\nὈρέστης\nἆρʼ ἐστὶν ἡ δύστηνος Ἠλέκτρα· θέλεις\nμείνωμεν αὐτοῦ κἀπακούσωμεν γόων;\n\nΠαιδαγωγός\nἥκιστα· μηδὲν πρόσθεν ἢ τὰ Λοξίου\nπειρώμεθʼ ἔρδειν κἀπὸ τῶνδʼ ἀρχηγετεῖν,\nπατρὸς χέοντες λουτρά· ταῦτα γὰρ φέρει\nνίκην τʼ ἐφʼ ἡμῖν καὶ κράτος τῶν δρωμένων.",
+      "translation": "But, O land of my father and local gods,\nreceive me having good fortune on these paths,\nand you, O home of my father; for I have come\nto cleanse you with justice rousing by the gods;\nand don't send me dishonoured from this land,\nbut as a master of one's wealth and a restorer of my homes.\nNow I have said these things; and already, old man,\nsee to it that you are going to make sure of your obligation.\nWe should go; for it is the right time,\nthe greatest master of any deed for the men.\n\nElectra\n\nOh wretched me!\n\nPaidagogos\n\nAh, I think I hear a servant moaning softly within the door, child.\n\nOrestes\n\nIs it the wretched Electra; shall we wait here\nand listen to her wailing?\n\nPaidagogus\n\nNo; lets not try anything earlier than Loxias' deeds\nand start by doing this,\npouring libations for your father; for these things bring\nvictory to us and power over the doings.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 67–85",
+          "greek": "ἀλλʼ, ὦ πατρῴα γῆ θεοί τʼ ἐγχώριοι,\nδέξασθέ μʼ εὐτυχοῦντα ταῖσδε ταῖς ὁδοῖς,\nσύ τʼ, ὦ πατρῷον δῶμα· σοῦ γὰρ ἔρχομαι\nδίκῃ καθαρτὴς πρὸς θεῶν ὡρμημένος·\nκαὶ μή μʼ ἄτιμον τῆσδʼ ἀποστείλητε γῆς,\nἀλλʼ ἀρχέπλουτον καὶ καταστάτην δόμων.\nεἴρηκα μέν νυν ταῦτα· σοὶ δʼ ἤδη, γέρον,\nτὸ σὸν μελέσθω βάντι φρουρῆσαι χρέος.\nνὼ δʼ ἔξιμεν· καιρὸς γάρ, ὅσπερ ἀνδράσιν\nμέγιστος ἔργου παντός ἐστʼ ἐπιστάτης.\n\nἨλέκτρα\nἰώ μοί μοι δύστηνος.\n\nΠαιδαγωγός\nκαὶ μὴν θυρῶν ἔδοξα προσπόλων τινὸς\nὑποστενούσης ἔνδον αἰσθέσθαι, τέκνον.\n\nὈρέστης\nἆρʼ ἐστὶν ἡ δύστηνος Ἠλέκτρα· θέλεις\nμείνωμεν αὐτοῦ κἀπακούσωμεν γόων;\n\nΠαιδαγωγός\nἥκιστα· μηδὲν πρόσθεν ἢ τὰ Λοξίου\nπειρώμεθʼ ἔρδειν κἀπὸ τῶνδʼ ἀρχηγετεῖν,\nπατρὸς χέοντες λουτρά· ταῦτα γὰρ φέρει\nνίκην τʼ ἐφʼ ἡμῖν καὶ κράτος τῶν δρωμένων.",
+          "translation": "But, O land of my father and local gods,\nreceive me having good fortune on these paths,\nand you, O home of my father; for I have come\nto cleanse you with justice rousing by the gods;\nand don't send me dishonoured from this land,\nbut as a master of one's wealth and a restorer of my homes.\nNow I have said these things; and already, old man,\nsee to it that you are going to make sure of your obligation.\nWe should go; for it is the right time,\nthe greatest master of any deed for the men.\n\nElectra\n\nOh wretched me!\n\nPaidagogos\n\nAh, I think I hear a servant moaning softly within the door, child.\n\nOrestes\n\nIs it the wretched Electra; shall we wait here\nand listen to her wailing?\n\nPaidagogus\n\nNo; lets not try anything earlier than Loxias' deeds\nand start by doing this,\npouring libations for your father; for these things bring\nvictory to us and power over the doings.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 67,
+      "line_end": 85,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l67",
+          "number": 67,
+          "text": "ἀλλʼ, ὦ πατρῴα γῆ θεοί τʼ ἐγχώριοι,",
+          "speaker": ""
+        },
+        {
+          "id": "l68",
+          "number": 68,
+          "text": "δέξασθέ μʼ εὐτυχοῦντα ταῖσδε ταῖς ὁδοῖς,",
+          "speaker": ""
+        },
+        {
+          "id": "l69",
+          "number": 69,
+          "text": "σύ τʼ, ὦ πατρῷον δῶμα· σοῦ γὰρ ἔρχομαι",
+          "speaker": ""
+        },
+        {
+          "id": "l70",
+          "number": 70,
+          "text": "δίκῃ καθαρτὴς πρὸς θεῶν ὡρμημένος·",
+          "speaker": ""
+        },
+        {
+          "id": "l71",
+          "number": 71,
+          "text": "καὶ μή μʼ ἄτιμον τῆσδʼ ἀποστείλητε γῆς,",
+          "speaker": ""
+        },
+        {
+          "id": "l72",
+          "number": 72,
+          "text": "ἀλλʼ ἀρχέπλουτον καὶ καταστάτην δόμων.",
+          "speaker": ""
+        },
+        {
+          "id": "l73",
+          "number": 73,
+          "text": "εἴρηκα μέν νυν ταῦτα· σοὶ δʼ ἤδη, γέρον,",
+          "speaker": ""
+        },
+        {
+          "id": "l74",
+          "number": 74,
+          "text": "τὸ σὸν μελέσθω βάντι φρουρῆσαι χρέος.",
+          "speaker": ""
+        },
+        {
+          "id": "l75",
+          "number": 75,
+          "text": "νὼ δʼ ἔξιμεν· καιρὸς γάρ, ὅσπερ ἀνδράσιν",
+          "speaker": ""
+        },
+        {
+          "id": "l76",
+          "number": 76,
+          "text": "μέγιστος ἔργου παντός ἐστʼ ἐπιστάτης.",
+          "speaker": ""
+        },
+        {
+          "id": "l77",
+          "number": 77,
+          "text": "ἰώ μοί μοι δύστηνος.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l78",
+          "number": 78,
+          "text": "καὶ μὴν θυρῶν ἔδοξα προσπόλων τινὸς",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l79",
+          "number": 79,
+          "text": "ὑποστενούσης ἔνδον αἰσθέσθαι, τέκνον.",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l80",
+          "number": 80,
+          "text": "ἆρʼ ἐστὶν ἡ δύστηνος Ἠλέκτρα· θέλεις",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l81",
+          "number": 81,
+          "text": "μείνωμεν αὐτοῦ κἀπακούσωμεν γόων;",
+          "speaker": "Ὀρέστης"
+        },
+        {
+          "id": "l82",
+          "number": 82,
+          "text": "ἥκιστα· μηδὲν πρόσθεν ἢ τὰ Λοξίου",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l83",
+          "number": 83,
+          "text": "πειρώμεθʼ ἔρδειν κἀπὸ τῶνδʼ ἀρχηγετεῖν,",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l84",
+          "number": 84,
+          "text": "πατρὸς χέοντες λουτρά· ταῦτα γὰρ φέρει",
+          "speaker": "Παιδαγωγός"
+        },
+        {
+          "id": "l85",
+          "number": 85,
+          "text": "νίκην τʼ ἐφʼ ἡμῖν καὶ κράτος τῶν δρωμένων.",
+          "speaker": "Παιδαγωγός"
+        }
+      ]
+    },
+    {
+      "id": "electra-6",
+      "text_id": "electra",
+      "number": 6,
+      "title": "Section 6",
+      "reference": "Lines 254–274",
+      "status": "published",
+      "greek": "αἰσχύνομαι μέν, ὦ γυναῖκες, εἰ δοκῶ\nπολλοῖσι θρήνοις δυσφορεῖν ὑμῖν ἄγαν.\nἀλλʼ ἡ βία γὰρ ταῦτʼ ἀναγκάζει με δρᾶν,\nσύγγνωτε· πῶς γὰρ ἥτις εὐγενὴς γυνή,\nπατρῷʼ ὁρῶσα πήματʼ, οὐ δρῴη τάδʼ ἄν;\nἁγὼ κατʼ ἦμαρ καὶ κατʼ εὐφρόνην ἀεὶ\nθάλλοντα μᾶλλον ἢ καταφθίνονθʼ ὁρῶ·\nᾗ πρῶτα μὲν τὰ μητρός, ἥ μʼ ἐγείνατο,\nἔχθιστα συμβέβηκεν· εἶτα δώμασιν\nἐν τοῖς ἐμαυτῆς τοῖς φονεῦσι τοῦ πατρὸς\nξύνειμι, κἀκ τῶνδʼ ἄρχομαι κἀκ τῶνδέ μοι\nλαβεῖν θʼ ὁμοίως καὶ τὸ τητᾶσθαι πέλει.\nἔπειτα ποίας ἡμέρας δοκεῖς μʼ ἄγειν,\nὅταν θρόνοις Αἴγισθον ἐνθακοῦντʼ ἴδω\nτοῖσιν πατρῴοις, εἰσίδω δʼ ἐσθήματα\nφοροῦντʼ ἐκείνῳ ταὐτὰ καὶ παρεστίους\nσπένδοντα λοιβὰς ἔνθʼ ἐκεῖνον ὤλεσεν,\nἴδω δὲ τούτων τὴν τελευταίαν ὕβριν,\nτὸν αὐτοέντην ἡμὶν ἐν κοίτῃ πατρὸς\nξὺν τῇ ταλαίνῃ μητρί, μητέρʼ εἰ χρεὼν\nταύτην προσαυδᾶν τῷδε συγκοιμωμένην.",
+      "translation": "Electra\n\nI feel shame, O women, if I seem to you\nto be excessively vexed with many laments.\nBut the force forces me to do this,\nforgive me; for how, someone who was a noble woman,\nsee so much suffering of one's father, would not do these things?\nAre there things which I see by day and night always\nthriving rather than decaying?\nFirst the things about my mother, who gave birth to me,\nturned out the most hostile; then I live together in the house,\nwith the murderers of my own father,\nand I am ruled at the dictates of them and by the dictates of them\nI must take similarly what is in want.\nThen what sort of days do you think I spend,\nwhen I see Aegisthus sitting on the throne\nof my father, and I look at him wearing\nan item of clothing the same as him and at the hearth\npouring libations on where he destroyed him,\nand I see the final insult of these people,\nthe perpetrator to us is sleeping with the wretched\nmother, if it is necessary to address her as a mother,\nin the marriage bed of my father.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 254–274",
+          "greek": "αἰσχύνομαι μέν, ὦ γυναῖκες, εἰ δοκῶ\nπολλοῖσι θρήνοις δυσφορεῖν ὑμῖν ἄγαν.\nἀλλʼ ἡ βία γὰρ ταῦτʼ ἀναγκάζει με δρᾶν,\nσύγγνωτε· πῶς γὰρ ἥτις εὐγενὴς γυνή,\nπατρῷʼ ὁρῶσα πήματʼ, οὐ δρῴη τάδʼ ἄν;\nἁγὼ κατʼ ἦμαρ καὶ κατʼ εὐφρόνην ἀεὶ\nθάλλοντα μᾶλλον ἢ καταφθίνονθʼ ὁρῶ·\nᾗ πρῶτα μὲν τὰ μητρός, ἥ μʼ ἐγείνατο,\nἔχθιστα συμβέβηκεν· εἶτα δώμασιν\nἐν τοῖς ἐμαυτῆς τοῖς φονεῦσι τοῦ πατρὸς\nξύνειμι, κἀκ τῶνδʼ ἄρχομαι κἀκ τῶνδέ μοι\nλαβεῖν θʼ ὁμοίως καὶ τὸ τητᾶσθαι πέλει.\nἔπειτα ποίας ἡμέρας δοκεῖς μʼ ἄγειν,\nὅταν θρόνοις Αἴγισθον ἐνθακοῦντʼ ἴδω\nτοῖσιν πατρῴοις, εἰσίδω δʼ ἐσθήματα\nφοροῦντʼ ἐκείνῳ ταὐτὰ καὶ παρεστίους\nσπένδοντα λοιβὰς ἔνθʼ ἐκεῖνον ὤλεσεν,\nἴδω δὲ τούτων τὴν τελευταίαν ὕβριν,\nτὸν αὐτοέντην ἡμὶν ἐν κοίτῃ πατρὸς\nξὺν τῇ ταλαίνῃ μητρί, μητέρʼ εἰ χρεὼν\nταύτην προσαυδᾶν τῷδε συγκοιμωμένην.",
+          "translation": "Electra\n\nI feel shame, O women, if I seem to you\nto be excessively vexed with many laments.\nBut the force forces me to do this,\nforgive me; for how, someone who was a noble woman,\nsee so much suffering of one's father, would not do these things?\nAre there things which I see by day and night always\nthriving rather than decaying?\nFirst the things about my mother, who gave birth to me,\nturned out the most hostile; then I live together in the house,\nwith the murderers of my own father,\nand I am ruled at the dictates of them and by the dictates of them\nI must take similarly what is in want.\nThen what sort of days do you think I spend,\nwhen I see Aegisthus sitting on the throne\nof my father, and I look at him wearing\nan item of clothing the same as him and at the hearth\npouring libations on where he destroyed him,\nand I see the final insult of these people,\nthe perpetrator to us is sleeping with the wretched\nmother, if it is necessary to address her as a mother,\nin the marriage bed of my father.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 254,
+      "line_end": 274,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l254",
+          "number": 254,
+          "text": "αἰσχύνομαι μέν, ὦ γυναῖκες, εἰ δοκῶ",
+          "speaker": ""
+        },
+        {
+          "id": "l255",
+          "number": 255,
+          "text": "πολλοῖσι θρήνοις δυσφορεῖν ὑμῖν ἄγαν.",
+          "speaker": ""
+        },
+        {
+          "id": "l256",
+          "number": 256,
+          "text": "ἀλλʼ ἡ βία γὰρ ταῦτʼ ἀναγκάζει με δρᾶν,",
+          "speaker": ""
+        },
+        {
+          "id": "l257",
+          "number": 257,
+          "text": "σύγγνωτε· πῶς γὰρ ἥτις εὐγενὴς γυνή,",
+          "speaker": ""
+        },
+        {
+          "id": "l258",
+          "number": 258,
+          "text": "πατρῷʼ ὁρῶσα πήματʼ, οὐ δρῴη τάδʼ ἄν;",
+          "speaker": ""
+        },
+        {
+          "id": "l259",
+          "number": 259,
+          "text": "ἁγὼ κατʼ ἦμαρ καὶ κατʼ εὐφρόνην ἀεὶ",
+          "speaker": ""
+        },
+        {
+          "id": "l260",
+          "number": 260,
+          "text": "θάλλοντα μᾶλλον ἢ καταφθίνονθʼ ὁρῶ·",
+          "speaker": ""
+        },
+        {
+          "id": "l261",
+          "number": 261,
+          "text": "ᾗ πρῶτα μὲν τὰ μητρός, ἥ μʼ ἐγείνατο,",
+          "speaker": ""
+        },
+        {
+          "id": "l262",
+          "number": 262,
+          "text": "ἔχθιστα συμβέβηκεν· εἶτα δώμασιν",
+          "speaker": ""
+        },
+        {
+          "id": "l263",
+          "number": 263,
+          "text": "ἐν τοῖς ἐμαυτῆς τοῖς φονεῦσι τοῦ πατρὸς",
+          "speaker": ""
+        },
+        {
+          "id": "l264",
+          "number": 264,
+          "text": "ξύνειμι, κἀκ τῶνδʼ ἄρχομαι κἀκ τῶνδέ μοι",
+          "speaker": ""
+        },
+        {
+          "id": "l265",
+          "number": 265,
+          "text": "λαβεῖν θʼ ὁμοίως καὶ τὸ τητᾶσθαι πέλει.",
+          "speaker": ""
+        },
+        {
+          "id": "l266",
+          "number": 266,
+          "text": "ἔπειτα ποίας ἡμέρας δοκεῖς μʼ ἄγειν,",
+          "speaker": ""
+        },
+        {
+          "id": "l267",
+          "number": 267,
+          "text": "ὅταν θρόνοις Αἴγισθον ἐνθακοῦντʼ ἴδω",
+          "speaker": ""
+        },
+        {
+          "id": "l268",
+          "number": 268,
+          "text": "τοῖσιν πατρῴοις, εἰσίδω δʼ ἐσθήματα",
+          "speaker": ""
+        },
+        {
+          "id": "l269",
+          "number": 269,
+          "text": "φοροῦντʼ ἐκείνῳ ταὐτὰ καὶ παρεστίους",
+          "speaker": ""
+        },
+        {
+          "id": "l270",
+          "number": 270,
+          "text": "σπένδοντα λοιβὰς ἔνθʼ ἐκεῖνον ὤλεσεν,",
+          "speaker": ""
+        },
+        {
+          "id": "l271",
+          "number": 271,
+          "text": "ἴδω δὲ τούτων τὴν τελευταίαν ὕβριν,",
+          "speaker": ""
+        },
+        {
+          "id": "l272",
+          "number": 272,
+          "text": "τὸν αὐτοέντην ἡμὶν ἐν κοίτῃ πατρὸς",
+          "speaker": ""
+        },
+        {
+          "id": "l273",
+          "number": 273,
+          "text": "ξὺν τῇ ταλαίνῃ μητρί, μητέρʼ εἰ χρεὼν",
+          "speaker": ""
+        },
+        {
+          "id": "l274",
+          "number": 274,
+          "text": "ταύτην προσαυδᾶν τῷδε συγκοιμωμένην.",
+          "speaker": ""
+        }
+      ]
+    },
+    {
+      "id": "electra-7",
+      "text_id": "electra",
+      "number": 7,
+      "title": "Section 7",
+      "reference": "Lines 275–292",
+      "status": "published",
+      "greek": "ἡ δʼ ὧδε τλήμων ὥστε τῷ μιάστορι\nξύνεστʼ, ἐρινὺν οὔτινʼ ἐκφοβουμένη·\nἀλλʼ ὥσπερ ἐγγελῶσα τοῖς ποιουμένοις,\nεὑροῦσʼ ἐκείνην ἡμέραν, ἐν ᾗ τότε\nπατέρα τὸν ἀμὸν ἐκ δόλου κατέκτανεν,\nταύτῃ χοροὺς ἵστησι καὶ μηλοσφαγεῖ\nθεοῖσιν ἔμμηνʼ ἱερὰ τοῖς σωτηρίοις.\nἐγὼ δʼ ὁρῶσʼ ἡ δύσμορος κατὰ στέγας\nκλαίω, τέτηκα, κἀπικωκύω πατρὸς\nτὴν δυστάλαιναν δαῖτʼ ἐπωνομασμένην\nαὐτὴ πρὸς αὑτήν. οὐδὲ γὰρ κλαῦσαι πάρα\nτοσόνδʼ ὅσον μοι θυμὸς ἡδονὴν φέρει.\nαὕτη γὰρ ἡ λόγοισι γενναία γυνὴ\nφωνοῦσα τοιάδʼ ἐξονειδίζει κακά·\nὦ δύσθεον μίσημα, σοὶ μόνῃ πατὴρ\nτέθνηκεν; ἄλλος δʼ οὔτις ἐν πένθει βροτῶν;\nκακῶς ὄλοιο, μηδέ σʼ ἐκ γόων ποτὲ\nτῶν νῦν ἀπαλλάξειαν οἱ κάτω θεοί.",
+      "translation": "She is so reckless that she lives with the polluted man,\nfearing no avenging Fury;\nbut, as though laughing at what she is doing,\nobserving that day, on which once\nshe murdered my father through trickery,\non this day she sets up dances and sacrifices\nto the gods of deliverance in month-long festivals.\nAnd I, seeing (all this), in my misfortune cry along the\nrooftops, I waste away, and I lament over my father’s\nmost wretched banquet, named after him,\nmyself to myself; for it is not possible to cry\nso much that my heart brings me pleasure.\nFor this so-called noble lady,\nas she speaks, throws such wicked words back in my face:\n“O godless pollution, have you alone suffered the death\nof a father? Is no other mortal in sorrow?\nMay you perish cruelly, and may the gods below never\nrelease you from these current lamentations.”",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 275–292",
+          "greek": "ἡ δʼ ὧδε τλήμων ὥστε τῷ μιάστορι\nξύνεστʼ, ἐρινὺν οὔτινʼ ἐκφοβουμένη·\nἀλλʼ ὥσπερ ἐγγελῶσα τοῖς ποιουμένοις,\nεὑροῦσʼ ἐκείνην ἡμέραν, ἐν ᾗ τότε\nπατέρα τὸν ἀμὸν ἐκ δόλου κατέκτανεν,\nταύτῃ χοροὺς ἵστησι καὶ μηλοσφαγεῖ\nθεοῖσιν ἔμμηνʼ ἱερὰ τοῖς σωτηρίοις.\nἐγὼ δʼ ὁρῶσʼ ἡ δύσμορος κατὰ στέγας\nκλαίω, τέτηκα, κἀπικωκύω πατρὸς\nτὴν δυστάλαιναν δαῖτʼ ἐπωνομασμένην\nαὐτὴ πρὸς αὑτήν. οὐδὲ γὰρ κλαῦσαι πάρα\nτοσόνδʼ ὅσον μοι θυμὸς ἡδονὴν φέρει.\nαὕτη γὰρ ἡ λόγοισι γενναία γυνὴ\nφωνοῦσα τοιάδʼ ἐξονειδίζει κακά·\nὦ δύσθεον μίσημα, σοὶ μόνῃ πατὴρ\nτέθνηκεν; ἄλλος δʼ οὔτις ἐν πένθει βροτῶν;\nκακῶς ὄλοιο, μηδέ σʼ ἐκ γόων ποτὲ\nτῶν νῦν ἀπαλλάξειαν οἱ κάτω θεοί.",
+          "translation": "She is so reckless that she lives with the polluted man,\nfearing no avenging Fury;\nbut, as though laughing at what she is doing,\nobserving that day, on which once\nshe murdered my father through trickery,\non this day she sets up dances and sacrifices\nto the gods of deliverance in month-long festivals.\nAnd I, seeing (all this), in my misfortune cry along the\nrooftops, I waste away, and I lament over my father’s\nmost wretched banquet, named after him,\nmyself to myself; for it is not possible to cry\nso much that my heart brings me pleasure.\nFor this so-called noble lady,\nas she speaks, throws such wicked words back in my face:\n“O godless pollution, have you alone suffered the death\nof a father? Is no other mortal in sorrow?\nMay you perish cruelly, and may the gods below never\nrelease you from these current lamentations.”",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 275,
+      "line_end": 292,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l275",
+          "number": 275,
+          "text": "ἡ δʼ ὧδε τλήμων ὥστε τῷ μιάστορι",
+          "speaker": ""
+        },
+        {
+          "id": "l276",
+          "number": 276,
+          "text": "ξύνεστʼ, ἐρινὺν οὔτινʼ ἐκφοβουμένη·",
+          "speaker": ""
+        },
+        {
+          "id": "l277",
+          "number": 277,
+          "text": "ἀλλʼ ὥσπερ ἐγγελῶσα τοῖς ποιουμένοις,",
+          "speaker": ""
+        },
+        {
+          "id": "l278",
+          "number": 278,
+          "text": "εὑροῦσʼ ἐκείνην ἡμέραν, ἐν ᾗ τότε",
+          "speaker": ""
+        },
+        {
+          "id": "l279",
+          "number": 279,
+          "text": "πατέρα τὸν ἀμὸν ἐκ δόλου κατέκτανεν,",
+          "speaker": ""
+        },
+        {
+          "id": "l280",
+          "number": 280,
+          "text": "ταύτῃ χοροὺς ἵστησι καὶ μηλοσφαγεῖ",
+          "speaker": ""
+        },
+        {
+          "id": "l281",
+          "number": 281,
+          "text": "θεοῖσιν ἔμμηνʼ ἱερὰ τοῖς σωτηρίοις.",
+          "speaker": ""
+        },
+        {
+          "id": "l282",
+          "number": 282,
+          "text": "ἐγὼ δʼ ὁρῶσʼ ἡ δύσμορος κατὰ στέγας",
+          "speaker": ""
+        },
+        {
+          "id": "l283",
+          "number": 283,
+          "text": "κλαίω, τέτηκα, κἀπικωκύω πατρὸς",
+          "speaker": ""
+        },
+        {
+          "id": "l284",
+          "number": 284,
+          "text": "τὴν δυστάλαιναν δαῖτʼ ἐπωνομασμένην",
+          "speaker": ""
+        },
+        {
+          "id": "l285",
+          "number": 285,
+          "text": "αὐτὴ πρὸς αὑτήν. οὐδὲ γὰρ κλαῦσαι πάρα",
+          "speaker": ""
+        },
+        {
+          "id": "l286",
+          "number": 286,
+          "text": "τοσόνδʼ ὅσον μοι θυμὸς ἡδονὴν φέρει.",
+          "speaker": ""
+        },
+        {
+          "id": "l287",
+          "number": 287,
+          "text": "αὕτη γὰρ ἡ λόγοισι γενναία γυνὴ",
+          "speaker": ""
+        },
+        {
+          "id": "l288",
+          "number": 288,
+          "text": "φωνοῦσα τοιάδʼ ἐξονειδίζει κακά·",
+          "speaker": ""
+        },
+        {
+          "id": "l289",
+          "number": 289,
+          "text": "ὦ δύσθεον μίσημα, σοὶ μόνῃ πατὴρ",
+          "speaker": ""
+        },
+        {
+          "id": "l290",
+          "number": 290,
+          "text": "τέθνηκεν; ἄλλος δʼ οὔτις ἐν πένθει βροτῶν;",
+          "speaker": ""
+        },
+        {
+          "id": "l291",
+          "number": 291,
+          "text": "κακῶς ὄλοιο, μηδέ σʼ ἐκ γόων ποτὲ",
+          "speaker": ""
+        },
+        {
+          "id": "l292",
+          "number": 292,
+          "text": "τῶν νῦν ἀπαλλάξειαν οἱ κάτω θεοί.",
+          "speaker": ""
+        }
+      ]
+    },
+    {
+      "id": "electra-8",
+      "text_id": "electra",
+      "number": 8,
+      "title": "Section 8",
+      "reference": "Lines 293–304",
+      "status": "published",
+      "greek": "τάδʼ ἐξυβρίζει· πλὴν ὅταν κλύῃ τινὸς\nἥξοντʼ Ὀρέστην· τηνικαῦτα δʼ ἐμμανὴς\nβοᾷ παραστᾶσʼ· οὐ σύ μοι τῶνδʼ αἰτία;\nοὐ σὸν τόδʼ ἐστὶ τοὔργον, ἥτις ἐκ χερῶν\nκλέψασʼ Ὀρέστην τῶν ἐμῶν ὑπεξέθου;\nἀλλʼ ἴσθι τοι τίσουσά γʼ ἀξίαν δίκην.\nτοιαῦθʼ ὑλακτεῖ, σὺν δʼ ἐποτρύνει πέλας\nὁ κλεινὸς αὐτῇ ταὐτὰ νυμφίος παρών,\nὁ πάντʼ ἄναλκις οὗτος, ἡ πᾶσα βλάβη,\nὁ σὺν γυναιξὶ τὰς μάχας ποιούμενος.\nἐγὼ δʼ Ὀρέστην τῶνδε προσμένουσʼ ἀεὶ\nπαυστῆρʼ ἐφήξειν ἡ τάλαινʼ ἀπόλλυμαι.",
+      "translation": "She insults these things with arrogance; except when she hears\nfrom someone that Orestes has come; and then madly\nshe shouts, \"Are you not the cause of these things for me?\nIs this deed not yours, you who having stolen\nOrestes from my hands, smuggled him away?\nBut know, I tell you, that you will pay the deserved penalty.\"\nShe barks such things, in company nearby, she urges you on,\nher famous bridegroom present with her,\nthis man is in all respects feeble, the total disaster,\nthe one who fights battle together with women.\nBut I always waiting again for Orestes against them\nto arrive as someone who puts an end to it.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 293–304",
+          "greek": "τάδʼ ἐξυβρίζει· πλὴν ὅταν κλύῃ τινὸς\nἥξοντʼ Ὀρέστην· τηνικαῦτα δʼ ἐμμανὴς\nβοᾷ παραστᾶσʼ· οὐ σύ μοι τῶνδʼ αἰτία;\nοὐ σὸν τόδʼ ἐστὶ τοὔργον, ἥτις ἐκ χερῶν\nκλέψασʼ Ὀρέστην τῶν ἐμῶν ὑπεξέθου;\nἀλλʼ ἴσθι τοι τίσουσά γʼ ἀξίαν δίκην.\nτοιαῦθʼ ὑλακτεῖ, σὺν δʼ ἐποτρύνει πέλας\nὁ κλεινὸς αὐτῇ ταὐτὰ νυμφίος παρών,\nὁ πάντʼ ἄναλκις οὗτος, ἡ πᾶσα βλάβη,\nὁ σὺν γυναιξὶ τὰς μάχας ποιούμενος.\nἐγὼ δʼ Ὀρέστην τῶνδε προσμένουσʼ ἀεὶ\nπαυστῆρʼ ἐφήξειν ἡ τάλαινʼ ἀπόλλυμαι.",
+          "translation": "She insults these things with arrogance; except when she hears\nfrom someone that Orestes has come; and then madly\nshe shouts, \"Are you not the cause of these things for me?\nIs this deed not yours, you who having stolen\nOrestes from my hands, smuggled him away?\nBut know, I tell you, that you will pay the deserved penalty.\"\nShe barks such things, in company nearby, she urges you on,\nher famous bridegroom present with her,\nthis man is in all respects feeble, the total disaster,\nthe one who fights battle together with women.\nBut I always waiting again for Orestes against them\nto arrive as someone who puts an end to it.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 293,
+      "line_end": 304,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l293",
+          "number": 293,
+          "text": "τάδʼ ἐξυβρίζει· πλὴν ὅταν κλύῃ τινὸς",
+          "speaker": ""
+        },
+        {
+          "id": "l294",
+          "number": 294,
+          "text": "ἥξοντʼ Ὀρέστην· τηνικαῦτα δʼ ἐμμανὴς",
+          "speaker": ""
+        },
+        {
+          "id": "l295",
+          "number": 295,
+          "text": "βοᾷ παραστᾶσʼ· οὐ σύ μοι τῶνδʼ αἰτία;",
+          "speaker": ""
+        },
+        {
+          "id": "l296",
+          "number": 296,
+          "text": "οὐ σὸν τόδʼ ἐστὶ τοὔργον, ἥτις ἐκ χερῶν",
+          "speaker": ""
+        },
+        {
+          "id": "l297",
+          "number": 297,
+          "text": "κλέψασʼ Ὀρέστην τῶν ἐμῶν ὑπεξέθου;",
+          "speaker": ""
+        },
+        {
+          "id": "l298",
+          "number": 298,
+          "text": "ἀλλʼ ἴσθι τοι τίσουσά γʼ ἀξίαν δίκην.",
+          "speaker": ""
+        },
+        {
+          "id": "l299",
+          "number": 299,
+          "text": "τοιαῦθʼ ὑλακτεῖ, σὺν δʼ ἐποτρύνει πέλας",
+          "speaker": ""
+        },
+        {
+          "id": "l300",
+          "number": 300,
+          "text": "ὁ κλεινὸς αὐτῇ ταὐτὰ νυμφίος παρών,",
+          "speaker": ""
+        },
+        {
+          "id": "l301",
+          "number": 301,
+          "text": "ὁ πάντʼ ἄναλκις οὗτος, ἡ πᾶσα βλάβη,",
+          "speaker": ""
+        },
+        {
+          "id": "l302",
+          "number": 302,
+          "text": "ὁ σὺν γυναιξὶ τὰς μάχας ποιούμενος.",
+          "speaker": ""
+        },
+        {
+          "id": "l303",
+          "number": 303,
+          "text": "ἐγὼ δʼ Ὀρέστην τῶνδε προσμένουσʼ ἀεὶ",
+          "speaker": ""
+        },
+        {
+          "id": "l304",
+          "number": 304,
+          "text": "παυστῆρʼ ἐφήξειν ἡ τάλαινʼ ἀπόλλυμαι.",
+          "speaker": ""
+        }
+      ]
+    },
+    {
+      "id": "electra-9",
+      "text_id": "electra",
+      "number": 9,
+      "title": "Section 9",
+      "reference": "Lines 305–327",
+      "status": "published",
+      "greek": "μέλλων γὰρ ἀεὶ δρᾶν τι τὰς οὔσας τέ μου\nκαὶ τὰς ἀπούσας ἐλπίδας διέφθορεν.\nἐν οὖν τοιούτοις οὔτε σωφρονεῖν, φίλαι,\nοὔτʼ εὐσεβεῖν πάρεστιν· ἀλλʼ ἔν τοι κακοῖς\nπολλή ʼστʼ ἀνάγκη κἀπιτηδεύειν κακά.\n\nΧορός\nφέρʼ εἰπέ, πότερον ὄντος Αἰγίσθου πέλας\nλέγεις τάδʼ ἡμῖν ἢ βεβῶτος ἐκ δόμων;\n\nἨλέκτρα\nἦ κάρτα· μὴ δόκει μʼ ἄν, εἴπερ ἦν πέλας,\nθυραῖον οἰχνεῖν· νῦν δʼ ἀγροῖσι τυγχάνει.\n\nΧορός\nἦ κἂν ἐγὼ θαρσοῦσα μᾶλλον ἐς λόγους\nτοὺς σοὺς ἱκοίμην, εἴπερ ὧδε ταῦτʼ ἔχει;\n\nἨλέκτρα\nὡς νῦν ἀπόντος ἱστόρει· τί σοι φίλον;\n\nΧορός\nκαὶ δή σʼ ἐρωτῶ· τοῦ κασιγνήτου τί φής,\nἥξοντος ἢ μέλλοντος; εἰδέναι θέλω.\n\nἨλέκτρα\nφησίν γε· φάσκων δʼ οὐδὲν ὧν λέγει ποεῖ.\n\nΧορός\nφιλεῖ γὰρ ὀκνεῖν πρᾶγμʼ ἀνὴρ πράσσων μέγα.\n\nἨλέκτρα\nκαὶ μὴν ἔγωγʼ ἔσωσʼ ἐκεῖνον οὐκ ὄκνῳ.\n\nΧορός\nθάρσει· πέφυκεν ἐσθλός, ὥστʼ ἀρκεῖν φίλοις.\n\nἨλέκτρα\nπέποιθʼ, ἐπεί τἂν οὐ μακρὰν ἔζων ἐγώ.\n\nΧορός\nμὴ νῦν ἔτʼ εἴπῃς μηδέν· ὡς δόμων ὁρῶ\nτὴν σὴν ὅμαιμον ἐκ πατρὸς ταὐτοῦ φύσιν,\nΧρυσόθεμιν, ἔκ τε μητρός, ἐντάφια χεροῖν\nφέρουσαν, οἷα τοῖς κάτω νομίζεται.",
+      "translation": "For by always being about to do something,\nhe has destroyed both the hopes I have and those I did not yet have.\nSo in such circumstances, friends,\nit is possible neither to be self-controlled\nnor to be pious; but in troubles\nthere is great necessity even to practice bad actions.\n\nChorus\n\nCome tell us; are you saying these things\nwhile Aegisthus is nearby, or after he has left the house?\n\nElectra\n\nCertainly; for I would not think, if he were nearby,\nto wander outside the doors; but now he happens to be in the fields.\n\nChorus\n\nIndeed then I would approach your words\nwith greater confidence, if matters are really like this.\n\nElectra\n\nQuestion me now, since he is away; what do you wish?\n\nChorus\n\nAnd indeed I ask you, what do you say about your brother-\nthat he is coming, or delaying? I want to know.\n\nElectra\n\nHe says he is coming; but while saying it he does nothing of what he says.\n\nChorus\n\nFor a man engaged in a great task is accustomed to hesitate.\n\nElectra\n\nAnd yet I saved him without hesitation.\n\nChorus\n\nBe confident; he is noble by nature, so as to help his friends.\n\nElectra\n\nI trust this – otherwise I would not have lived long.\n\nChorus\n\nSay nothing further now; for see coming from the house,\nyour sister of the same father and same birth,\nChrysothemmis, and from the same mother,\ncarrying funeral offerings in her hands, such as are customary for the dead.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 305–327",
+          "greek": "μέλλων γὰρ ἀεὶ δρᾶν τι τὰς οὔσας τέ μου\nκαὶ τὰς ἀπούσας ἐλπίδας διέφθορεν.\nἐν οὖν τοιούτοις οὔτε σωφρονεῖν, φίλαι,\nοὔτʼ εὐσεβεῖν πάρεστιν· ἀλλʼ ἔν τοι κακοῖς\nπολλή ʼστʼ ἀνάγκη κἀπιτηδεύειν κακά.\n\nΧορός\nφέρʼ εἰπέ, πότερον ὄντος Αἰγίσθου πέλας\nλέγεις τάδʼ ἡμῖν ἢ βεβῶτος ἐκ δόμων;\n\nἨλέκτρα\nἦ κάρτα· μὴ δόκει μʼ ἄν, εἴπερ ἦν πέλας,\nθυραῖον οἰχνεῖν· νῦν δʼ ἀγροῖσι τυγχάνει.\n\nΧορός\nἦ κἂν ἐγὼ θαρσοῦσα μᾶλλον ἐς λόγους\nτοὺς σοὺς ἱκοίμην, εἴπερ ὧδε ταῦτʼ ἔχει;\n\nἨλέκτρα\nὡς νῦν ἀπόντος ἱστόρει· τί σοι φίλον;\n\nΧορός\nκαὶ δή σʼ ἐρωτῶ· τοῦ κασιγνήτου τί φής,\nἥξοντος ἢ μέλλοντος; εἰδέναι θέλω.\n\nἨλέκτρα\nφησίν γε· φάσκων δʼ οὐδὲν ὧν λέγει ποεῖ.\n\nΧορός\nφιλεῖ γὰρ ὀκνεῖν πρᾶγμʼ ἀνὴρ πράσσων μέγα.\n\nἨλέκτρα\nκαὶ μὴν ἔγωγʼ ἔσωσʼ ἐκεῖνον οὐκ ὄκνῳ.\n\nΧορός\nθάρσει· πέφυκεν ἐσθλός, ὥστʼ ἀρκεῖν φίλοις.\n\nἨλέκτρα\nπέποιθʼ, ἐπεί τἂν οὐ μακρὰν ἔζων ἐγώ.\n\nΧορός\nμὴ νῦν ἔτʼ εἴπῃς μηδέν· ὡς δόμων ὁρῶ\nτὴν σὴν ὅμαιμον ἐκ πατρὸς ταὐτοῦ φύσιν,\nΧρυσόθεμιν, ἔκ τε μητρός, ἐντάφια χεροῖν\nφέρουσαν, οἷα τοῖς κάτω νομίζεται.",
+          "translation": "For by always being about to do something,\nhe has destroyed both the hopes I have and those I did not yet have.\nSo in such circumstances, friends,\nit is possible neither to be self-controlled\nnor to be pious; but in troubles\nthere is great necessity even to practice bad actions.\n\nChorus\n\nCome tell us; are you saying these things\nwhile Aegisthus is nearby, or after he has left the house?\n\nElectra\n\nCertainly; for I would not think, if he were nearby,\nto wander outside the doors; but now he happens to be in the fields.\n\nChorus\n\nIndeed then I would approach your words\nwith greater confidence, if matters are really like this.\n\nElectra\n\nQuestion me now, since he is away; what do you wish?\n\nChorus\n\nAnd indeed I ask you, what do you say about your brother-\nthat he is coming, or delaying? I want to know.\n\nElectra\n\nHe says he is coming; but while saying it he does nothing of what he says.\n\nChorus\n\nFor a man engaged in a great task is accustomed to hesitate.\n\nElectra\n\nAnd yet I saved him without hesitation.\n\nChorus\n\nBe confident; he is noble by nature, so as to help his friends.\n\nElectra\n\nI trust this – otherwise I would not have lived long.\n\nChorus\n\nSay nothing further now; for see coming from the house,\nyour sister of the same father and same birth,\nChrysothemmis, and from the same mother,\ncarrying funeral offerings in her hands, such as are customary for the dead.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 305,
+      "line_end": 327,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l305",
+          "number": 305,
+          "text": "μέλλων γὰρ ἀεὶ δρᾶν τι τὰς οὔσας τέ μου",
+          "speaker": ""
+        },
+        {
+          "id": "l306",
+          "number": 306,
+          "text": "καὶ τὰς ἀπούσας ἐλπίδας διέφθορεν.",
+          "speaker": ""
+        },
+        {
+          "id": "l307",
+          "number": 307,
+          "text": "ἐν οὖν τοιούτοις οὔτε σωφρονεῖν, φίλαι,",
+          "speaker": ""
+        },
+        {
+          "id": "l308",
+          "number": 308,
+          "text": "οὔτʼ εὐσεβεῖν πάρεστιν· ἀλλʼ ἔν τοι κακοῖς",
+          "speaker": ""
+        },
+        {
+          "id": "l309",
+          "number": 309,
+          "text": "πολλή ʼστʼ ἀνάγκη κἀπιτηδεύειν κακά.",
+          "speaker": ""
+        },
+        {
+          "id": "l310",
+          "number": 310,
+          "text": "φέρʼ εἰπέ, πότερον ὄντος Αἰγίσθου πέλας",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l311",
+          "number": 311,
+          "text": "λέγεις τάδʼ ἡμῖν ἢ βεβῶτος ἐκ δόμων;",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l312",
+          "number": 312,
+          "text": "ἦ κάρτα· μὴ δόκει μʼ ἄν, εἴπερ ἦν πέλας,",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l313",
+          "number": 313,
+          "text": "θυραῖον οἰχνεῖν· νῦν δʼ ἀγροῖσι τυγχάνει.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l314",
+          "number": 314,
+          "text": "ἦ κἂν ἐγὼ θαρσοῦσα μᾶλλον ἐς λόγους",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l315",
+          "number": 315,
+          "text": "τοὺς σοὺς ἱκοίμην, εἴπερ ὧδε ταῦτʼ ἔχει;",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l316",
+          "number": 316,
+          "text": "ὡς νῦν ἀπόντος ἱστόρει· τί σοι φίλον;",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l317",
+          "number": 317,
+          "text": "καὶ δή σʼ ἐρωτῶ· τοῦ κασιγνήτου τί φής,",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l318",
+          "number": 318,
+          "text": "ἥξοντος ἢ μέλλοντος; εἰδέναι θέλω.",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l319",
+          "number": 319,
+          "text": "φησίν γε· φάσκων δʼ οὐδὲν ὧν λέγει ποεῖ.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l320",
+          "number": 320,
+          "text": "φιλεῖ γὰρ ὀκνεῖν πρᾶγμʼ ἀνὴρ πράσσων μέγα.",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l321",
+          "number": 321,
+          "text": "καὶ μὴν ἔγωγʼ ἔσωσʼ ἐκεῖνον οὐκ ὄκνῳ.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l322",
+          "number": 322,
+          "text": "θάρσει· πέφυκεν ἐσθλός, ὥστʼ ἀρκεῖν φίλοις.",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l323",
+          "number": 323,
+          "text": "πέποιθʼ, ἐπεί τἂν οὐ μακρὰν ἔζων ἐγώ.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l324",
+          "number": 324,
+          "text": "μὴ νῦν ἔτʼ εἴπῃς μηδέν· ὡς δόμων ὁρῶ",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l325",
+          "number": 325,
+          "text": "τὴν σὴν ὅμαιμον ἐκ πατρὸς ταὐτοῦ φύσιν,",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l326",
+          "number": 326,
+          "text": "Χρυσόθεμιν, ἔκ τε μητρός, ἐντάφια χεροῖν",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l327",
+          "number": 327,
+          "text": "φέρουσαν, οἷα τοῖς κάτω νομίζεται.",
+          "speaker": "Χορός"
+        }
+      ]
+    },
+    {
+      "id": "electra-10",
+      "text_id": "electra",
+      "number": 10,
+      "title": "Section 10",
+      "reference": "Lines 328–340",
+      "status": "published",
+      "greek": "τίνʼ αὖ σὺ τήνδε πρὸς θυρῶνος ἐξόδοις\nἐλθοῦσα φωνεῖς, ὦ κασιγνήτη, φάτιν,\nκοὐδʼ ἐν χρόνῳ μακρῷ διδαχθῆναι θέλεις\nθυμῷ ματαίῳ μὴ χαρίζεσθαι κενά;\nκαίτοι τοσοῦτόν γʼ οἶδα κἀμαυτήν, ὅτι\nἀλγῶ ʼπὶ τοῖς παροῦσιν· ὥστʼ ἄν, εἰ σθένος\nλάβοιμι, δηλώσαιμʼ ἂν οἷʼ αὐτοῖς φρονῶ.\nνῦν δʼ ἐν κακοῖς μοι πλεῖν ὑφειμένῃ δοκεῖ,\nκαὶ μὴ δοκεῖν μὲν δρᾶν τι, πημαίνειν δὲ μή·\nτοιαῦτα δʼ ἄλλα καὶ σὲ βούλομαι ποεῖν.\nκαίτοι τὸ μὲν δίκαιον οὐχ ᾗ ʼγὼ λέγω,\nἀλλʼ ᾗ σὺ κρίνεις· εἰ δʼ ἐλευθέραν με δεῖ\nζῆν, τῶν κρατούντων ἐστὶ πάντʼ ἀκουστέα.",
+      "translation": "Chrysothemis\n\nWhy again do you at the exit of this doorway,\nhaving come out cry out this speech, O sister,\nand not even over a long time do you wish to be taught\nnot to indulge emptiness with pointless anger?\nAnd yet I know this much at least about myself,\nthat I grieve at our present situation; so that, if\nI were to gain power, I would make clear to the people what I think.\nBut now in bad times it seems good to me to sail with a lowered mast,\nand not yet to seem to do anything, but not to do harm.\nBut I want you to also do such things.\nAnd yet what is just is not as I say,\nbut as you judge. But if I must live free,\neverything belonging to those in power must be listened to.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 328–340",
+          "greek": "τίνʼ αὖ σὺ τήνδε πρὸς θυρῶνος ἐξόδοις\nἐλθοῦσα φωνεῖς, ὦ κασιγνήτη, φάτιν,\nκοὐδʼ ἐν χρόνῳ μακρῷ διδαχθῆναι θέλεις\nθυμῷ ματαίῳ μὴ χαρίζεσθαι κενά;\nκαίτοι τοσοῦτόν γʼ οἶδα κἀμαυτήν, ὅτι\nἀλγῶ ʼπὶ τοῖς παροῦσιν· ὥστʼ ἄν, εἰ σθένος\nλάβοιμι, δηλώσαιμʼ ἂν οἷʼ αὐτοῖς φρονῶ.\nνῦν δʼ ἐν κακοῖς μοι πλεῖν ὑφειμένῃ δοκεῖ,\nκαὶ μὴ δοκεῖν μὲν δρᾶν τι, πημαίνειν δὲ μή·\nτοιαῦτα δʼ ἄλλα καὶ σὲ βούλομαι ποεῖν.\nκαίτοι τὸ μὲν δίκαιον οὐχ ᾗ ʼγὼ λέγω,\nἀλλʼ ᾗ σὺ κρίνεις· εἰ δʼ ἐλευθέραν με δεῖ\nζῆν, τῶν κρατούντων ἐστὶ πάντʼ ἀκουστέα.",
+          "translation": "Chrysothemis\n\nWhy again do you at the exit of this doorway,\nhaving come out cry out this speech, O sister,\nand not even over a long time do you wish to be taught\nnot to indulge emptiness with pointless anger?\nAnd yet I know this much at least about myself,\nthat I grieve at our present situation; so that, if\nI were to gain power, I would make clear to the people what I think.\nBut now in bad times it seems good to me to sail with a lowered mast,\nand not yet to seem to do anything, but not to do harm.\nBut I want you to also do such things.\nAnd yet what is just is not as I say,\nbut as you judge. But if I must live free,\neverything belonging to those in power must be listened to.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 328,
+      "line_end": 340,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l328",
+          "number": 328,
+          "text": "τίνʼ αὖ σὺ τήνδε πρὸς θυρῶνος ἐξόδοις",
+          "speaker": ""
+        },
+        {
+          "id": "l329",
+          "number": 329,
+          "text": "ἐλθοῦσα φωνεῖς, ὦ κασιγνήτη, φάτιν,",
+          "speaker": ""
+        },
+        {
+          "id": "l330",
+          "number": 330,
+          "text": "κοὐδʼ ἐν χρόνῳ μακρῷ διδαχθῆναι θέλεις",
+          "speaker": ""
+        },
+        {
+          "id": "l331",
+          "number": 331,
+          "text": "θυμῷ ματαίῳ μὴ χαρίζεσθαι κενά;",
+          "speaker": ""
+        },
+        {
+          "id": "l332",
+          "number": 332,
+          "text": "καίτοι τοσοῦτόν γʼ οἶδα κἀμαυτήν, ὅτι",
+          "speaker": ""
+        },
+        {
+          "id": "l333",
+          "number": 333,
+          "text": "ἀλγῶ ʼπὶ τοῖς παροῦσιν· ὥστʼ ἄν, εἰ σθένος",
+          "speaker": ""
+        },
+        {
+          "id": "l334",
+          "number": 334,
+          "text": "λάβοιμι, δηλώσαιμʼ ἂν οἷʼ αὐτοῖς φρονῶ.",
+          "speaker": ""
+        },
+        {
+          "id": "l335",
+          "number": 335,
+          "text": "νῦν δʼ ἐν κακοῖς μοι πλεῖν ὑφειμένῃ δοκεῖ,",
+          "speaker": ""
+        },
+        {
+          "id": "l336",
+          "number": 336,
+          "text": "καὶ μὴ δοκεῖν μὲν δρᾶν τι, πημαίνειν δὲ μή·",
+          "speaker": ""
+        },
+        {
+          "id": "l337",
+          "number": 337,
+          "text": "τοιαῦτα δʼ ἄλλα καὶ σὲ βούλομαι ποεῖν.",
+          "speaker": ""
+        },
+        {
+          "id": "l338",
+          "number": 338,
+          "text": "καίτοι τὸ μὲν δίκαιον οὐχ ᾗ ʼγὼ λέγω,",
+          "speaker": ""
+        },
+        {
+          "id": "l339",
+          "number": 339,
+          "text": "ἀλλʼ ᾗ σὺ κρίνεις· εἰ δʼ ἐλευθέραν με δεῖ",
+          "speaker": ""
+        },
+        {
+          "id": "l340",
+          "number": 340,
+          "text": "ζῆν, τῶν κρατούντων ἐστὶ πάντʼ ἀκουστέα.",
+          "speaker": ""
+        }
+      ]
+    },
+    {
+      "id": "electra-11",
+      "text_id": "electra",
+      "number": 11,
+      "title": "Section 11",
+      "reference": "Lines 341–354",
+      "status": "published",
+      "greek": "δεινόν γέ σʼ οὖσαν πατρὸς οὗ σὺ παῖς ἔφυς,\nκείνου λελῆσθαι, τῆς δὲ τικτούσης μέλειν.\nἅπαντα γάρ σοι τἀμὰ νουθετήματα\nκείνης διδακτά, κοὐδὲν ἐκ σαυτῆς λέγεις.\nἔπειθʼ ἑλοῦ γε θάτερʼ, ἢ φρονεῖν κακῶς\nἢ τῶν φίλων φρονοῦσα μὴ μνήμην ἔχειν·\nἥτις λέγεις μὲν ἀρτίως ὡς, εἰ λάβοις\nσθένος, τὸ τούτων μῖσος ἐκδείξειας ἄν,\nἐμοῦ δὲ πατρὶ πάντα τιμωρουμένης\nοὔτε ξυνέρδεις τήν τε δρῶσαν ἐκτρέπεις.\nοὐ ταῦτα πρὸς κακοῖσι δειλίαν ἔχει;\nἐπεὶ δίδαξον, ἢ μάθʼ ἐξ ἐμοῦ, τί μοι\nκέρδος γένοιτʼ ἂν τῶνδε ληξάσῃ γόων.\nοὐ ζῶ; κακῶς μέν, οἶδʼ, ἐπαρκούντως δʼ ἐμοί.",
+      "translation": "Electra\n\nIt is terrible at any rate that you being the child the father from of whom you are born,\nto have forgotten him, but to care about the woman that bore you.\nFor all your warnings to me are\ntaught by her, and you say nothing from yourself.\nFor choose one of two things, either to think badly,\nor, while thinking, not to have memory of dear ones.\nFor you are one who says just now, that if you\nwere to gain power, then you would show hatred to them - \nand while exacting vengeance on behalf of my father in every way,\nyou are not cooperating and deter the one acting.\nDoes acting like this not involve cowardice in addition to bad things?\nFor teach me, or learn from me, what advantage\nmight come to me from stopping these lamentations.\nDo I not live? Badly, I know, but well enough for me.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 341–354",
+          "greek": "δεινόν γέ σʼ οὖσαν πατρὸς οὗ σὺ παῖς ἔφυς,\nκείνου λελῆσθαι, τῆς δὲ τικτούσης μέλειν.\nἅπαντα γάρ σοι τἀμὰ νουθετήματα\nκείνης διδακτά, κοὐδὲν ἐκ σαυτῆς λέγεις.\nἔπειθʼ ἑλοῦ γε θάτερʼ, ἢ φρονεῖν κακῶς\nἢ τῶν φίλων φρονοῦσα μὴ μνήμην ἔχειν·\nἥτις λέγεις μὲν ἀρτίως ὡς, εἰ λάβοις\nσθένος, τὸ τούτων μῖσος ἐκδείξειας ἄν,\nἐμοῦ δὲ πατρὶ πάντα τιμωρουμένης\nοὔτε ξυνέρδεις τήν τε δρῶσαν ἐκτρέπεις.\nοὐ ταῦτα πρὸς κακοῖσι δειλίαν ἔχει;\nἐπεὶ δίδαξον, ἢ μάθʼ ἐξ ἐμοῦ, τί μοι\nκέρδος γένοιτʼ ἂν τῶνδε ληξάσῃ γόων.\nοὐ ζῶ; κακῶς μέν, οἶδʼ, ἐπαρκούντως δʼ ἐμοί.",
+          "translation": "Electra\n\nIt is terrible at any rate that you being the child the father from of whom you are born,\nto have forgotten him, but to care about the woman that bore you.\nFor all your warnings to me are\ntaught by her, and you say nothing from yourself.\nFor choose one of two things, either to think badly,\nor, while thinking, not to have memory of dear ones.\nFor you are one who says just now, that if you\nwere to gain power, then you would show hatred to them - \nand while exacting vengeance on behalf of my father in every way,\nyou are not cooperating and deter the one acting.\nDoes acting like this not involve cowardice in addition to bad things?\nFor teach me, or learn from me, what advantage\nmight come to me from stopping these lamentations.\nDo I not live? Badly, I know, but well enough for me.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 341,
+      "line_end": 354,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l341",
+          "number": 341,
+          "text": "δεινόν γέ σʼ οὖσαν πατρὸς οὗ σὺ παῖς ἔφυς,",
+          "speaker": ""
+        },
+        {
+          "id": "l342",
+          "number": 342,
+          "text": "κείνου λελῆσθαι, τῆς δὲ τικτούσης μέλειν.",
+          "speaker": ""
+        },
+        {
+          "id": "l343",
+          "number": 343,
+          "text": "ἅπαντα γάρ σοι τἀμὰ νουθετήματα",
+          "speaker": ""
+        },
+        {
+          "id": "l344",
+          "number": 344,
+          "text": "κείνης διδακτά, κοὐδὲν ἐκ σαυτῆς λέγεις.",
+          "speaker": ""
+        },
+        {
+          "id": "l345",
+          "number": 345,
+          "text": "ἔπειθʼ ἑλοῦ γε θάτερʼ, ἢ φρονεῖν κακῶς",
+          "speaker": ""
+        },
+        {
+          "id": "l346",
+          "number": 346,
+          "text": "ἢ τῶν φίλων φρονοῦσα μὴ μνήμην ἔχειν·",
+          "speaker": ""
+        },
+        {
+          "id": "l347",
+          "number": 347,
+          "text": "ἥτις λέγεις μὲν ἀρτίως ὡς, εἰ λάβοις",
+          "speaker": ""
+        },
+        {
+          "id": "l348",
+          "number": 348,
+          "text": "σθένος, τὸ τούτων μῖσος ἐκδείξειας ἄν,",
+          "speaker": ""
+        },
+        {
+          "id": "l349",
+          "number": 349,
+          "text": "ἐμοῦ δὲ πατρὶ πάντα τιμωρουμένης",
+          "speaker": ""
+        },
+        {
+          "id": "l350",
+          "number": 350,
+          "text": "οὔτε ξυνέρδεις τήν τε δρῶσαν ἐκτρέπεις.",
+          "speaker": ""
+        },
+        {
+          "id": "l351",
+          "number": 351,
+          "text": "οὐ ταῦτα πρὸς κακοῖσι δειλίαν ἔχει;",
+          "speaker": ""
+        },
+        {
+          "id": "l352",
+          "number": 352,
+          "text": "ἐπεὶ δίδαξον, ἢ μάθʼ ἐξ ἐμοῦ, τί μοι",
+          "speaker": ""
+        },
+        {
+          "id": "l353",
+          "number": 353,
+          "text": "κέρδος γένοιτʼ ἂν τῶνδε ληξάσῃ γόων.",
+          "speaker": ""
+        },
+        {
+          "id": "l354",
+          "number": 354,
+          "text": "οὐ ζῶ; κακῶς μέν, οἶδʼ, ἐπαρκούντως δʼ ἐμοί.",
+          "speaker": ""
+        }
+      ]
+    },
+    {
+      "id": "electra-12",
+      "text_id": "electra",
+      "number": 12,
+      "title": "Section 12",
+      "reference": "Lines 355–371",
+      "status": "published",
+      "greek": "λυπῶ δὲ τούτους, ὥστε τῷ τεθνηκότι\nτιμὰς προσάπτειν, εἴ τις ἔστʼ ἐκεῖ χάρις.\nσὺ δʼ ἡμὶν ἡ μισοῦσα μισεῖς μὲν λόγῳ,\nἔργῳ δὲ τοῖς φονεῦσι τοῦ πατρὸς ξύνει.\nἐγὼ μὲν οὖν οὐκ ἄν ποτʼ, οὐδʼ εἴ μοι τὰ σὰ\nμέλλοι τις οἴσειν δῶρʼ, ἐφʼ οἷσι νῦν χλιδᾷς,\nτούτοις ὑπεικάθοιμι· σοὶ δὲ πλουσία\nτράπεζα κείσθω καὶ περιρρείτω βίος.\nἐμοὶ γὰρ ἔστω τοὐμὲ μὴ λυπεῖν μόνον\nβόσκημα· τῆς σῆς δʼ οὐκ ἐρῶ τιμῆς τυχεῖν,\nοὐδʼ ἂν σύ, σώφρων γʼ οὖσα. νῦν δʼ ἐξὸν πατρὸς\nπάντων ἀρίστου παῖδα κεκλῆσθαι, καλοῦ\nτῆς μητρός· οὕτω γὰρ φανεῖ πλείστοις κακή,\nθανόντα πατέρα καὶ φίλους προδοῦσα σούς.\n\nΧορός\nμηδὲν πρὸς ὀργήν, πρὸς θεῶν· ὡς τοῖς λόγοις\nἔνεστιν ἀμφοῖν κέρδος, εἰ σὺ μὲν μάθοις\nτοῖς τῆσδε χρῆσθαι, τοῖς δὲ σοῖς αὕτη πάλιν.",
+      "translation": "I hurt these people, I attach honours\nto the dead man, if there is some gratitude there.\nAnd you, who hates us, you hate in word,\nin deed you join the murderers of your father.\nI would never, not even if someone intends to bring to me\nthe gifts you get, over which you now revel,\nyield to these people; and for you let rich\ntables lie and let life flow around you [in luxuries].\nFor let my only nourishment be not to cause pain;\nand I do not desire to obtain your honour,\nnor should you, if you were sensible. And now although it is possible\nto be called a child of the best father of all, you are called\na child of your mother. For in this way you will appear bad to very many people,\nhaving betrayed your dead father and your friends.\n\nChorus\n\nDo nothing in anger by the gods; for with these words\nthere is an advantage for both of you; if you learn\n[how] to use her arguments, and she in turn uses yours.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 355–371",
+          "greek": "λυπῶ δὲ τούτους, ὥστε τῷ τεθνηκότι\nτιμὰς προσάπτειν, εἴ τις ἔστʼ ἐκεῖ χάρις.\nσὺ δʼ ἡμὶν ἡ μισοῦσα μισεῖς μὲν λόγῳ,\nἔργῳ δὲ τοῖς φονεῦσι τοῦ πατρὸς ξύνει.\nἐγὼ μὲν οὖν οὐκ ἄν ποτʼ, οὐδʼ εἴ μοι τὰ σὰ\nμέλλοι τις οἴσειν δῶρʼ, ἐφʼ οἷσι νῦν χλιδᾷς,\nτούτοις ὑπεικάθοιμι· σοὶ δὲ πλουσία\nτράπεζα κείσθω καὶ περιρρείτω βίος.\nἐμοὶ γὰρ ἔστω τοὐμὲ μὴ λυπεῖν μόνον\nβόσκημα· τῆς σῆς δʼ οὐκ ἐρῶ τιμῆς τυχεῖν,\nοὐδʼ ἂν σύ, σώφρων γʼ οὖσα. νῦν δʼ ἐξὸν πατρὸς\nπάντων ἀρίστου παῖδα κεκλῆσθαι, καλοῦ\nτῆς μητρός· οὕτω γὰρ φανεῖ πλείστοις κακή,\nθανόντα πατέρα καὶ φίλους προδοῦσα σούς.\n\nΧορός\nμηδὲν πρὸς ὀργήν, πρὸς θεῶν· ὡς τοῖς λόγοις\nἔνεστιν ἀμφοῖν κέρδος, εἰ σὺ μὲν μάθοις\nτοῖς τῆσδε χρῆσθαι, τοῖς δὲ σοῖς αὕτη πάλιν.",
+          "translation": "I hurt these people, I attach honours\nto the dead man, if there is some gratitude there.\nAnd you, who hates us, you hate in word,\nin deed you join the murderers of your father.\nI would never, not even if someone intends to bring to me\nthe gifts you get, over which you now revel,\nyield to these people; and for you let rich\ntables lie and let life flow around you [in luxuries].\nFor let my only nourishment be not to cause pain;\nand I do not desire to obtain your honour,\nnor should you, if you were sensible. And now although it is possible\nto be called a child of the best father of all, you are called\na child of your mother. For in this way you will appear bad to very many people,\nhaving betrayed your dead father and your friends.\n\nChorus\n\nDo nothing in anger by the gods; for with these words\nthere is an advantage for both of you; if you learn\n[how] to use her arguments, and she in turn uses yours.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 355,
+      "line_end": 371,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l355",
+          "number": 355,
+          "text": "λυπῶ δὲ τούτους, ὥστε τῷ τεθνηκότι",
+          "speaker": ""
+        },
+        {
+          "id": "l356",
+          "number": 356,
+          "text": "τιμὰς προσάπτειν, εἴ τις ἔστʼ ἐκεῖ χάρις.",
+          "speaker": ""
+        },
+        {
+          "id": "l357",
+          "number": 357,
+          "text": "σὺ δʼ ἡμὶν ἡ μισοῦσα μισεῖς μὲν λόγῳ,",
+          "speaker": ""
+        },
+        {
+          "id": "l358",
+          "number": 358,
+          "text": "ἔργῳ δὲ τοῖς φονεῦσι τοῦ πατρὸς ξύνει.",
+          "speaker": ""
+        },
+        {
+          "id": "l359",
+          "number": 359,
+          "text": "ἐγὼ μὲν οὖν οὐκ ἄν ποτʼ, οὐδʼ εἴ μοι τὰ σὰ",
+          "speaker": ""
+        },
+        {
+          "id": "l360",
+          "number": 360,
+          "text": "μέλλοι τις οἴσειν δῶρʼ, ἐφʼ οἷσι νῦν χλιδᾷς,",
+          "speaker": ""
+        },
+        {
+          "id": "l361",
+          "number": 361,
+          "text": "τούτοις ὑπεικάθοιμι· σοὶ δὲ πλουσία",
+          "speaker": ""
+        },
+        {
+          "id": "l362",
+          "number": 362,
+          "text": "τράπεζα κείσθω καὶ περιρρείτω βίος.",
+          "speaker": ""
+        },
+        {
+          "id": "l363",
+          "number": 363,
+          "text": "ἐμοὶ γὰρ ἔστω τοὐμὲ μὴ λυπεῖν μόνον",
+          "speaker": ""
+        },
+        {
+          "id": "l364",
+          "number": 364,
+          "text": "βόσκημα· τῆς σῆς δʼ οὐκ ἐρῶ τιμῆς τυχεῖν,",
+          "speaker": ""
+        },
+        {
+          "id": "l365",
+          "number": 365,
+          "text": "οὐδʼ ἂν σύ, σώφρων γʼ οὖσα. νῦν δʼ ἐξὸν πατρὸς",
+          "speaker": ""
+        },
+        {
+          "id": "l366",
+          "number": 366,
+          "text": "πάντων ἀρίστου παῖδα κεκλῆσθαι, καλοῦ",
+          "speaker": ""
+        },
+        {
+          "id": "l367",
+          "number": 367,
+          "text": "τῆς μητρός· οὕτω γὰρ φανεῖ πλείστοις κακή,",
+          "speaker": ""
+        },
+        {
+          "id": "l368",
+          "number": 368,
+          "text": "θανόντα πατέρα καὶ φίλους προδοῦσα σούς.",
+          "speaker": ""
+        },
+        {
+          "id": "l369",
+          "number": 369,
+          "text": "μηδὲν πρὸς ὀργήν, πρὸς θεῶν· ὡς τοῖς λόγοις",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l370",
+          "number": 370,
+          "text": "ἔνεστιν ἀμφοῖν κέρδος, εἰ σὺ μὲν μάθοις",
+          "speaker": "Χορός"
+        },
+        {
+          "id": "l371",
+          "number": 371,
+          "text": "τοῖς τῆσδε χρῆσθαι, τοῖς δὲ σοῖς αὕτη πάλιν.",
+          "speaker": "Χορός"
+        }
+      ]
+    },
+    {
+      "id": "electra-13",
+      "text_id": "electra",
+      "number": 13,
+      "title": "Section 13",
+      "reference": "Lines 372–386",
+      "status": "published",
+      "greek": "ἐγὼ μέν, ὦ γυναῖκες, ἠθάς εἰμί πως\nτῶν τῆσδε μύθων· οὐδʼ ἂν ἐμνήσθην ποτέ,\nεἰ μὴ κακὸν μέγιστον εἰς αὐτὴν ἰὸν\nἤκουσʼ, ὃ ταύτην τῶν μακρῶν σχήσει γόων.\n\nἨλέκτρα\nφέρʼ εἰπὲ δὴ τὸ δεινόν· εἰ γὰρ τῶνδέ μοι\nμεῖζόν τι λέξεις, οὐκ ἂν ἀντείποιμʼ ἔτι.\n\nΧρυσόθεμις\nἀλλʼ ἐξερῶ σοι πᾶν ὅσον κάτοιδʼ ἐγώ.\nμέλλουσι γάρ σʼ, εἰ τῶνδε μὴ λήξεις γόων,\nἐνταῦθα πέμψειν ἔνθα μή ποθʼ ἡλίου\nφέγγος προσόψει, ζῶσα δʼ ἐν κατηρεφεῖ\nστέγῃ χθονὸς τῆσδʼ ἐκτὸς ὑμνήσεις κακά.\nπρὸς ταῦτα φράζου καί με μή ποθʼ ὕστερον\nπαθοῦσα μέμψῃ· νῦν γὰρ ἐν καλῷ φρονεῖν.\n\nἨλέκτρα\nἦ ταῦτα δή με καὶ βεβούλευνται ποεῖν;\n\nΧρυσόθεμις\nμάλισθʼ· ὅταν περ οἴκαδʼ Αἴγισθος μόλῃ.",
+      "translation": "Chrysothemis\n\nI, O women, am somehow accustomed to\nthe words of her; nor would I ever mention them,\nif I did not hear that the greatest evil is coming\nagainst her, which will stop her from long laments.\n\nElectra\n\nCome tell the terrible indeed. For if say\nsomething greater to me of this, then I would no longer protest.\n\nChrysothemis\n\nBut I will tell you all that I know.\nFor they intend to send you from here,\nif you don't stop the weeping, where you will never\nlook at the light of the sun, and living in a \nsealed roof outside of this land you will sing bad things.\nConsider these things, and don't ever blame me\nlater while suffering. For it is now a good time to show sense.\n\nElectra\n\nHave they really planned to do these things to me?\n\n\nChrysothemis\n\nCertainly; whenever Aegisthus comes home.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 372–386",
+          "greek": "ἐγὼ μέν, ὦ γυναῖκες, ἠθάς εἰμί πως\nτῶν τῆσδε μύθων· οὐδʼ ἂν ἐμνήσθην ποτέ,\nεἰ μὴ κακὸν μέγιστον εἰς αὐτὴν ἰὸν\nἤκουσʼ, ὃ ταύτην τῶν μακρῶν σχήσει γόων.\n\nἨλέκτρα\nφέρʼ εἰπὲ δὴ τὸ δεινόν· εἰ γὰρ τῶνδέ μοι\nμεῖζόν τι λέξεις, οὐκ ἂν ἀντείποιμʼ ἔτι.\n\nΧρυσόθεμις\nἀλλʼ ἐξερῶ σοι πᾶν ὅσον κάτοιδʼ ἐγώ.\nμέλλουσι γάρ σʼ, εἰ τῶνδε μὴ λήξεις γόων,\nἐνταῦθα πέμψειν ἔνθα μή ποθʼ ἡλίου\nφέγγος προσόψει, ζῶσα δʼ ἐν κατηρεφεῖ\nστέγῃ χθονὸς τῆσδʼ ἐκτὸς ὑμνήσεις κακά.\nπρὸς ταῦτα φράζου καί με μή ποθʼ ὕστερον\nπαθοῦσα μέμψῃ· νῦν γὰρ ἐν καλῷ φρονεῖν.\n\nἨλέκτρα\nἦ ταῦτα δή με καὶ βεβούλευνται ποεῖν;\n\nΧρυσόθεμις\nμάλισθʼ· ὅταν περ οἴκαδʼ Αἴγισθος μόλῃ.",
+          "translation": "Chrysothemis\n\nI, O women, am somehow accustomed to\nthe words of her; nor would I ever mention them,\nif I did not hear that the greatest evil is coming\nagainst her, which will stop her from long laments.\n\nElectra\n\nCome tell the terrible indeed. For if say\nsomething greater to me of this, then I would no longer protest.\n\nChrysothemis\n\nBut I will tell you all that I know.\nFor they intend to send you from here,\nif you don't stop the weeping, where you will never\nlook at the light of the sun, and living in a \nsealed roof outside of this land you will sing bad things.\nConsider these things, and don't ever blame me\nlater while suffering. For it is now a good time to show sense.\n\nElectra\n\nHave they really planned to do these things to me?\n\n\nChrysothemis\n\nCertainly; whenever Aegisthus comes home.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 372,
+      "line_end": 386,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l372",
+          "number": 372,
+          "text": "ἐγὼ μέν, ὦ γυναῖκες, ἠθάς εἰμί πως",
+          "speaker": ""
+        },
+        {
+          "id": "l373",
+          "number": 373,
+          "text": "τῶν τῆσδε μύθων· οὐδʼ ἂν ἐμνήσθην ποτέ,",
+          "speaker": ""
+        },
+        {
+          "id": "l374",
+          "number": 374,
+          "text": "εἰ μὴ κακὸν μέγιστον εἰς αὐτὴν ἰὸν",
+          "speaker": ""
+        },
+        {
+          "id": "l375",
+          "number": 375,
+          "text": "ἤκουσʼ, ὃ ταύτην τῶν μακρῶν σχήσει γόων.",
+          "speaker": ""
+        },
+        {
+          "id": "l376",
+          "number": 376,
+          "text": "φέρʼ εἰπὲ δὴ τὸ δεινόν· εἰ γὰρ τῶνδέ μοι",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l377",
+          "number": 377,
+          "text": "μεῖζόν τι λέξεις, οὐκ ἂν ἀντείποιμʼ ἔτι.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l378",
+          "number": 378,
+          "text": "ἀλλʼ ἐξερῶ σοι πᾶν ὅσον κάτοιδʼ ἐγώ.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l379",
+          "number": 379,
+          "text": "μέλλουσι γάρ σʼ, εἰ τῶνδε μὴ λήξεις γόων,",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l380",
+          "number": 380,
+          "text": "ἐνταῦθα πέμψειν ἔνθα μή ποθʼ ἡλίου",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l381",
+          "number": 381,
+          "text": "φέγγος προσόψει, ζῶσα δʼ ἐν κατηρεφεῖ",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l382",
+          "number": 382,
+          "text": "στέγῃ χθονὸς τῆσδʼ ἐκτὸς ὑμνήσεις κακά.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l383",
+          "number": 383,
+          "text": "πρὸς ταῦτα φράζου καί με μή ποθʼ ὕστερον",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l384",
+          "number": 384,
+          "text": "παθοῦσα μέμψῃ· νῦν γὰρ ἐν καλῷ φρονεῖν.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l385",
+          "number": 385,
+          "text": "ἦ ταῦτα δή με καὶ βεβούλευνται ποεῖν;",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l386",
+          "number": 386,
+          "text": "μάλισθʼ· ὅταν περ οἴκαδʼ Αἴγισθος μόλῃ.",
+          "speaker": "Χρυσόθεμις"
+        }
+      ]
+    },
+    {
+      "id": "electra-14",
+      "text_id": "electra",
+      "number": 14,
+      "title": "Section 14",
+      "reference": "Lines 387–400",
+      "status": "published",
+      "greek": "Ἠλέκτρα\nἀλλʼ ἐξίκοιτο τοῦδέ γʼ οὕνεκʼ ἐν τάχει.\n\nΧρυσόθεμις\nτίνʼ, ὦ τάλαινα, τόνδʼ ἐπηράσω λόγον;\n\nἨλέκτρα\nἐλθεῖν ἐκεῖνον, εἴ τι τῶνδε δρᾶν νοεῖ.\n\nΧρυσόθεμις\nὅπως πάθῃς τί χρῆμα; ποῦ ποτʼ εἶ φρενῶν;\n\nἨλέκτρα\nὅπως ἀφʼ ὑμῶν ὡς προσωτάτω φύγω.\n\nΧρυσόθεμις\nβίου δὲ τοῦ παρόντος οὐ μνείαν ἔχεις;\n\nἨλέκτρα\nκαλὸς γὰρ οὑμὸς βίοτος ὥστε θαυμάσαι.\n\nΧρυσόθεμις\nἀλλʼ ἦν ἄν, εἰ σύ γʼ εὖ φρονεῖν ἠπίστασο.\n\nἨλέκτρα\nμή μʼ ἐκδίδασκε τοῖς φίλοις εἶναι κακήν.\n\nΧρυσόθεμις\nἀλλʼ οὐ διδάσκω· τοῖς κρατοῦσι δʼ εἰκαθεῖν.\n\nἨλέκτρα\nσὺ ταῦτα θώπευʼ· οὐκ ἐμοὺς τρόπους λέγεις.\n\nΧρυσόθεμις\nκαλόν γε μέντοι μὴ ʼξ ἀβουλίας πεσεῖν.\n\nἨλέκτρα\nπεσούμεθʼ, εἰ χρή, πατρὶ τιμωρούμενοι.\n\nΧρυσόθεμις\nπατὴρ δὲ τούτων, οἶδα, συγγνώμην ἔχει.",
+      "translation": "Electra\n\nBut may he come because of this at speed.\n\nChrysothemis\n\nWhom did you curse, O wretched woman, with this word?\n\n\nElectra\nI pray that he come, if he intends to do something of these things.\n\nChrysothemis\n\nIn order that you suffer what? Where are you in your mind?\n\nElectra\n\nIn order that I escape from you as far as possible.\n\nChrysothemis\n\nAnd you don't have any consideration for your present life?\n\nElectra\n\nFor my way of life is fine as to admire it.\n\nChrysothemis\n\nBut it would be, if you knew at least to have good sense.\n\nElectra\n\nAnd don't teach me thoroughly to be wicked to those dear to me.\n\nChrysothemis\n\nBut I don't teach that; but to yield to those in power.\n\nElectra\n\nYou flatter these things; you are not choosing my ways.\n\nChrysothemis\n\nIt is fine however to not fall from lack of sense.\n\nElectra\n\nWe will fall, if it is necessary, in order to avenge a father.\n\nChrysothemis\n\nBut our father has a pardon of these things, I know.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 387–400",
+          "greek": "Ἠλέκτρα\nἀλλʼ ἐξίκοιτο τοῦδέ γʼ οὕνεκʼ ἐν τάχει.\n\nΧρυσόθεμις\nτίνʼ, ὦ τάλαινα, τόνδʼ ἐπηράσω λόγον;\n\nἨλέκτρα\nἐλθεῖν ἐκεῖνον, εἴ τι τῶνδε δρᾶν νοεῖ.\n\nΧρυσόθεμις\nὅπως πάθῃς τί χρῆμα; ποῦ ποτʼ εἶ φρενῶν;\n\nἨλέκτρα\nὅπως ἀφʼ ὑμῶν ὡς προσωτάτω φύγω.\n\nΧρυσόθεμις\nβίου δὲ τοῦ παρόντος οὐ μνείαν ἔχεις;\n\nἨλέκτρα\nκαλὸς γὰρ οὑμὸς βίοτος ὥστε θαυμάσαι.\n\nΧρυσόθεμις\nἀλλʼ ἦν ἄν, εἰ σύ γʼ εὖ φρονεῖν ἠπίστασο.\n\nἨλέκτρα\nμή μʼ ἐκδίδασκε τοῖς φίλοις εἶναι κακήν.\n\nΧρυσόθεμις\nἀλλʼ οὐ διδάσκω· τοῖς κρατοῦσι δʼ εἰκαθεῖν.\n\nἨλέκτρα\nσὺ ταῦτα θώπευʼ· οὐκ ἐμοὺς τρόπους λέγεις.\n\nΧρυσόθεμις\nκαλόν γε μέντοι μὴ ʼξ ἀβουλίας πεσεῖν.\n\nἨλέκτρα\nπεσούμεθʼ, εἰ χρή, πατρὶ τιμωρούμενοι.\n\nΧρυσόθεμις\nπατὴρ δὲ τούτων, οἶδα, συγγνώμην ἔχει.",
+          "translation": "Electra\n\nBut may he come because of this at speed.\n\nChrysothemis\n\nWhom did you curse, O wretched woman, with this word?\n\n\nElectra\nI pray that he come, if he intends to do something of these things.\n\nChrysothemis\n\nIn order that you suffer what? Where are you in your mind?\n\nElectra\n\nIn order that I escape from you as far as possible.\n\nChrysothemis\n\nAnd you don't have any consideration for your present life?\n\nElectra\n\nFor my way of life is fine as to admire it.\n\nChrysothemis\n\nBut it would be, if you knew at least to have good sense.\n\nElectra\n\nAnd don't teach me thoroughly to be wicked to those dear to me.\n\nChrysothemis\n\nBut I don't teach that; but to yield to those in power.\n\nElectra\n\nYou flatter these things; you are not choosing my ways.\n\nChrysothemis\n\nIt is fine however to not fall from lack of sense.\n\nElectra\n\nWe will fall, if it is necessary, in order to avenge a father.\n\nChrysothemis\n\nBut our father has a pardon of these things, I know.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 387,
+      "line_end": 400,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l387",
+          "number": 387,
+          "text": "ἀλλʼ ἐξίκοιτο τοῦδέ γʼ οὕνεκʼ ἐν τάχει.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l388",
+          "number": 388,
+          "text": "τίνʼ, ὦ τάλαινα, τόνδʼ ἐπηράσω λόγον;",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l389",
+          "number": 389,
+          "text": "ἐλθεῖν ἐκεῖνον, εἴ τι τῶνδε δρᾶν νοεῖ.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l390",
+          "number": 390,
+          "text": "ὅπως πάθῃς τί χρῆμα; ποῦ ποτʼ εἶ φρενῶν;",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l391",
+          "number": 391,
+          "text": "ὅπως ἀφʼ ὑμῶν ὡς προσωτάτω φύγω.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l392",
+          "number": 392,
+          "text": "βίου δὲ τοῦ παρόντος οὐ μνείαν ἔχεις;",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l393",
+          "number": 393,
+          "text": "καλὸς γὰρ οὑμὸς βίοτος ὥστε θαυμάσαι.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l394",
+          "number": 394,
+          "text": "ἀλλʼ ἦν ἄν, εἰ σύ γʼ εὖ φρονεῖν ἠπίστασο.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l395",
+          "number": 395,
+          "text": "μή μʼ ἐκδίδασκε τοῖς φίλοις εἶναι κακήν.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l396",
+          "number": 396,
+          "text": "ἀλλʼ οὐ διδάσκω· τοῖς κρατοῦσι δʼ εἰκαθεῖν.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l397",
+          "number": 397,
+          "text": "σὺ ταῦτα θώπευʼ· οὐκ ἐμοὺς τρόπους λέγεις.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l398",
+          "number": 398,
+          "text": "καλόν γε μέντοι μὴ ʼξ ἀβουλίας πεσεῖν.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l399",
+          "number": 399,
+          "text": "πεσούμεθʼ, εἰ χρή, πατρὶ τιμωρούμενοι.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l400",
+          "number": 400,
+          "text": "πατὴρ δὲ τούτων, οἶδα, συγγνώμην ἔχει.",
+          "speaker": "Χρυσόθεμις"
+        }
+      ]
+    },
+    {
+      "id": "electra-15",
+      "text_id": "electra",
+      "number": 15,
+      "title": "Section 15",
+      "reference": "Lines 401–416",
+      "status": "published",
+      "greek": "Ἠλέκτρα\nταῦτʼ ἐστὶ τἄπη πρὸς κακῶν ἐπαινέσαι.\n\nΧρυσόθεμις\nσὺ δʼ οὐχὶ πείσει καὶ συναινέσεις ἐμοί;\n\nἨλέκτρα\nοὐ δῆτα· μή πω νοῦ τοσόνδʼ εἴην κενή.\n\nΧρυσόθεμις\nχωρήσομαί τἄρʼ οἷπερ ἐστάλην ὁδοῦ.\n\nἨλέκτρα\nποῖ δʼ ἐμπορεύει; τῷ φέρεις τάδʼ ἔμπυρα;\n\nΧρυσόθεμις\nμήτηρ με πέμπει πατρὶ τυμβεῦσαι χοάς.\n\nἨλέκτρα\nπῶς εἶπας; ἦ τῷ δυσμενεστάτῳ βροτῶν;\n\nΧρυσόθεμις\nὃν ἔκτανʼ αὐτή· τοῦτο γὰρ λέξαι θέλεις.\n\nἨλέκτρα\nἐκ τοῦ φίλων πεισθεῖσα; τῷ τοῦτʼ ἤρεσεν;\n\nΧρυσόθεμις\nἐκ δείματός του νυκτέρου, δοκεῖν ἐμοί;\n\nἨλέκτρα\nὦ θεοὶ πατρῷοι, συγγένεσθέ γʼ ἀλλὰ νῦν.\n\nΧρυσόθεμις\nἔχεις τι θάρσος τοῦδε τοῦ τάρβους πέρι;\n\nἨλέκτρα\nεἴ μοι λέγοις τὴν ὄψιν, εἴποιμʼ ἂν τότε.\n\nΧρυσόθεμις\nἀλλʼ οὐ κάτοιδα πλὴν ἐπὶ σμικρὸν φράσαι.\n\nἨλέκτρα\nλέγʼ ἀλλὰ τοῦτο· πολλά τοι σμικροὶ λόγοι\nἔσφηλαν ἤδη καὶ κατώρθωσαν βροτούς.",
+      "translation": "Electra\n\nThese things are praised in the nature of evil.\n\nChrysothemis\n\nBut do you not obey and agree with me?\n\nElectra\n\nCertainly not; I would never be so empty-headed.\n\nChrysothemis\n\nThen I will go to where I am sent on a journey.\n\nElectra\n\nWhere are you travelling to? For whom do you bring these burnt sacrifices?\n\nChrysothemis\n\nOur father sends me to pour libations for our father.\n\nElectra\n\nHow did you say this? Really on behalf of those who is the most hostile of the mortals?\n\nChrysothemis\n\nShe herself killed him; for you mean to say these things.\n\nElectra\n\nHaving been persuaded by one of the loved ones? Did these things meet his approval?\n\nChrysothemis\n\nFrom fear of the night time, in my opinion.\n\nElectra\n\nO ancestral gods, be an ally [for me] now.\n\nChrysothemis\n\nDo you have some courage about this fright?\n\n\nElectra\n\nIf you were to tell me the dream, I would have spoken then.\n\nChrysothemis\n\nBut I do not know to say except to the extent of already small things.\n\nElectra\n\nBut tell me this; often small words already trip up and set upright mortals.",
+      "translation_type": "supplied",
+      "source": "Original project: electragr.txt / electratrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "section",
+          "reference": "Lines 401–416",
+          "greek": "Ἠλέκτρα\nταῦτʼ ἐστὶ τἄπη πρὸς κακῶν ἐπαινέσαι.\n\nΧρυσόθεμις\nσὺ δʼ οὐχὶ πείσει καὶ συναινέσεις ἐμοί;\n\nἨλέκτρα\nοὐ δῆτα· μή πω νοῦ τοσόνδʼ εἴην κενή.\n\nΧρυσόθεμις\nχωρήσομαί τἄρʼ οἷπερ ἐστάλην ὁδοῦ.\n\nἨλέκτρα\nποῖ δʼ ἐμπορεύει; τῷ φέρεις τάδʼ ἔμπυρα;\n\nΧρυσόθεμις\nμήτηρ με πέμπει πατρὶ τυμβεῦσαι χοάς.\n\nἨλέκτρα\nπῶς εἶπας; ἦ τῷ δυσμενεστάτῳ βροτῶν;\n\nΧρυσόθεμις\nὃν ἔκτανʼ αὐτή· τοῦτο γὰρ λέξαι θέλεις.\n\nἨλέκτρα\nἐκ τοῦ φίλων πεισθεῖσα; τῷ τοῦτʼ ἤρεσεν;\n\nΧρυσόθεμις\nἐκ δείματός του νυκτέρου, δοκεῖν ἐμοί;\n\nἨλέκτρα\nὦ θεοὶ πατρῷοι, συγγένεσθέ γʼ ἀλλὰ νῦν.\n\nΧρυσόθεμις\nἔχεις τι θάρσος τοῦδε τοῦ τάρβους πέρι;\n\nἨλέκτρα\nεἴ μοι λέγοις τὴν ὄψιν, εἴποιμʼ ἂν τότε.\n\nΧρυσόθεμις\nἀλλʼ οὐ κάτοιδα πλὴν ἐπὶ σμικρὸν φράσαι.\n\nἨλέκτρα\nλέγʼ ἀλλὰ τοῦτο· πολλά τοι σμικροὶ λόγοι\nἔσφηλαν ἤδη καὶ κατώρθωσαν βροτούς.",
+          "translation": "Electra\n\nThese things are praised in the nature of evil.\n\nChrysothemis\n\nBut do you not obey and agree with me?\n\nElectra\n\nCertainly not; I would never be so empty-headed.\n\nChrysothemis\n\nThen I will go to where I am sent on a journey.\n\nElectra\n\nWhere are you travelling to? For whom do you bring these burnt sacrifices?\n\nChrysothemis\n\nOur father sends me to pour libations for our father.\n\nElectra\n\nHow did you say this? Really on behalf of those who is the most hostile of the mortals?\n\nChrysothemis\n\nShe herself killed him; for you mean to say these things.\n\nElectra\n\nHaving been persuaded by one of the loved ones? Did these things meet his approval?\n\nChrysothemis\n\nFrom fear of the night time, in my opinion.\n\nElectra\n\nO ancestral gods, be an ally [for me] now.\n\nChrysothemis\n\nDo you have some courage about this fright?\n\n\nElectra\n\nIf you were to tell me the dream, I would have spoken then.\n\nChrysothemis\n\nBut I do not know to say except to the extent of already small things.\n\nElectra\n\nBut tell me this; often small words already trip up and set upright mortals.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "section",
+      "line_start": 401,
+      "line_end": 416,
+      "alignment_note": "The supplied English is aligned to this section, not to individual verses. Verified smaller reading units can be imported later.",
+      "lines": [
+        {
+          "id": "l401",
+          "number": 401,
+          "text": "ταῦτʼ ἐστὶ τἄπη πρὸς κακῶν ἐπαινέσαι.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l402",
+          "number": 402,
+          "text": "σὺ δʼ οὐχὶ πείσει καὶ συναινέσεις ἐμοί;",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l403",
+          "number": 403,
+          "text": "οὐ δῆτα· μή πω νοῦ τοσόνδʼ εἴην κενή.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l404",
+          "number": 404,
+          "text": "χωρήσομαί τἄρʼ οἷπερ ἐστάλην ὁδοῦ.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l405",
+          "number": 405,
+          "text": "ποῖ δʼ ἐμπορεύει; τῷ φέρεις τάδʼ ἔμπυρα;",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l406",
+          "number": 406,
+          "text": "μήτηρ με πέμπει πατρὶ τυμβεῦσαι χοάς.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l407",
+          "number": 407,
+          "text": "πῶς εἶπας; ἦ τῷ δυσμενεστάτῳ βροτῶν;",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l408",
+          "number": 408,
+          "text": "ὃν ἔκτανʼ αὐτή· τοῦτο γὰρ λέξαι θέλεις.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l409",
+          "number": 409,
+          "text": "ἐκ τοῦ φίλων πεισθεῖσα; τῷ τοῦτʼ ἤρεσεν;",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l410",
+          "number": 410,
+          "text": "ἐκ δείματός του νυκτέρου, δοκεῖν ἐμοί;",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l411",
+          "number": 411,
+          "text": "ὦ θεοὶ πατρῷοι, συγγένεσθέ γʼ ἀλλὰ νῦν.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l412",
+          "number": 412,
+          "text": "ἔχεις τι θάρσος τοῦδε τοῦ τάρβους πέρι;",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l413",
+          "number": 413,
+          "text": "εἴ μοι λέγοις τὴν ὄψιν, εἴποιμʼ ἂν τότε.",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l414",
+          "number": 414,
+          "text": "ἀλλʼ οὐ κάτοιδα πλὴν ἐπὶ σμικρὸν φράσαι.",
+          "speaker": "Χρυσόθεμις"
+        },
+        {
+          "id": "l415",
+          "number": 415,
+          "text": "λέγʼ ἀλλὰ τοῦτο· πολλά τοι σμικροὶ λόγοι",
+          "speaker": "Ἠλέκτρα"
+        },
+        {
+          "id": "l416",
+          "number": 416,
+          "text": "ἔσφηλαν ἤδη καὶ κατώρθωσαν βροτούς.",
+          "speaker": "Ἠλέκτρα"
+        }
+      ]
+    },
+    {
+      "id": "herodotus-207",
+      "text_id": "herodotus",
+      "number": 207,
+      "title": "Chapter 207",
+      "reference": "7.207",
+      "status": "published",
+      "greek": "οὗτοι μὲν δὴ οὕτω διενένωντο ποιήσειν· οἱ δὲ ἐν Θερμοπύλῃσι Ἕλληνες, ἐπειδὴ πέλας ἐγένετο τῆς ἐσβολῆς ὁ Πέρσης, καταρρωδέοντες ἐβουλεύοντο περὶ ἀπαλλαγῆς. τοῖσι μέν νυν ἄλλοισι Πελοποννησίοισι ἐδόκεε ἐλθοῦσι ἐς Πελοπόννησον τὸν Ἰσθμὸν ἔχειν ἐν φυλακῇ· Λεωνίδης δέ, Φωκέων καὶ Λοκρῶν περισπερχεόντων τῇ γνώμῃ ταύτῃ, αὐτοῦ τε μένειν ἐψηφίζετο πέμπειν τε ἀγγέλους ἐς τὰς πόλιας κελεύοντάς σφι ἐπιβοηθέειν, ὡς ἐόντων αὐτῶν ὀλίγων στρατὸν τὸν Μήδων ἀλέξασθαι.",
+      "translation": "Indeed, on the one hand, these men intended to do something in this way; but the Greeks in Thermopylae, since the Persians were near the entrance of the pass, in dread, they began to plan about withdrawal. It seemed a good idea for the other Peloponnesians, having gone to the Peloponnese to keep the isthmus under guard. But Leonidas, with the Phocians and Locrians angered by this plan, voted both to stay there and to send messengers to the cities, ordering them to come to help, as there were too few to ward off the army of the Medes.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.207.1",
+          "greek": "οὗτοι μὲν δὴ οὕτω διενένωντο ποιήσειν· οἱ δὲ ἐν Θερμοπύλῃσι Ἕλληνες, ἐπειδὴ πέλας ἐγένετο τῆς ἐσβολῆς ὁ Πέρσης, καταρρωδέοντες ἐβουλεύοντο περὶ ἀπαλλαγῆς. τοῖσι μέν νυν ἄλλοισι Πελοποννησίοισι ἐδόκεε ἐλθοῦσι ἐς Πελοπόννησον τὸν Ἰσθμὸν ἔχειν ἐν φυλακῇ· Λεωνίδης δέ, Φωκέων καὶ Λοκρῶν περισπερχεόντων τῇ γνώμῃ ταύτῃ, αὐτοῦ τε μένειν ἐψηφίζετο πέμπειν τε ἀγγέλους ἐς τὰς πόλιας κελεύοντάς σφι ἐπιβοηθέειν, ὡς ἐόντων αὐτῶν ὀλίγων στρατὸν τὸν Μήδων ἀλέξασθαι.",
+          "translation": "Indeed, on the one hand, these men intended to do something in this way; but the Greeks in Thermopylae, since the Persians were near the entrance of the pass, in dread, they began to plan about withdrawal. It seemed a good idea for the other Peloponnesians, having gone to the Peloponnese to keep the isthmus under guard. But Leonidas, with the Phocians and Locrians angered by this plan, voted both to stay there and to send messengers to the cities, ordering them to come to help, as there were too few to ward off the army of the Medes.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-208",
+      "text_id": "herodotus",
+      "number": 208,
+      "title": "Chapter 208",
+      "reference": "7.208",
+      "status": "published",
+      "greek": "ταῦτα βουλευομένων σφέων, ἔπεμπε Ξέρξης κατάσκοπον ἱππέα ἰδέσθαι ὁκόσοι εἰσὶ καὶ ὅ τι ποιέοιεν. ἀκηκόεε δὲ ἔτι ἐὼν ἐν Θεσσαλίῃ ὡς ἁλισμένη εἴη ταύτῃ στρατιὴ ὀλίγη, καὶ τοὺς ἡγεμόνας ὡς εἴησαν Λακεδαιμόνιοί τε καὶ Λεωνίδης ἐὼν γένος Ἡρακλείδης.\n[2] ὡς δὲ προσήλασε ὁ ἱππεὺς πρὸς τὸ στρατόπεδον, ἐθηεῖτό τε καὶ κατώρα πᾶν μὲν οὒ τὸ στρατόπεδον· τοὺς γὰρ ἔσω τεταγμένους τοῦ τείχεος, τὸ ἀνορθώσαντες εἶχον ἐν φυλακῇ, οὐκ οἷά τε ἦν κατιδέσθαι· ὁ δὲ τοὺς ἔξω ἐμάνθανε, τοῖσι πρὸ τοῦ τείχεος τὰ ὅπλα ἔκειτο· ἔτυχον δὲ τοῦτον τὸν χρόνον Λακεδαιμόνιοι ἔξω τεταγμένοι.\n[3] τοὺς μὲν δὴ ὥρα γυμναζομένους τῶν ἀνδρῶν, τοὺς δὲ τὰς κόμας κτενιζομένους. ταῦτα δὴ θεώμενος ἐθώμαζε καὶ τὸ πλῆθος ἐμάνθανε. μαθὼν δὲ πάντα ἀτρεκέως ἀπήλαυνε ὀπίσω κατ᾽ ἡσυχίην· οὔτε γάρ τις ἐδίωκε ἀλογίης τε ἐνεκύρησε πολλῆς· ἀπελθών τε ἔλεγε πρὸς Ξέρξην τά περ ὀπώπεε πάντα.",
+      "translation": "While they were planning these things, Xerxes was sending a mounted scout to see how many they were and what they were doing. While he was still in Thessaly, he had heard that a small army was assembled there and that its leaders were Spartans and Leonidas of the Heracleid clan.\n[2] As the horseman drove up to the camp, he started to observe but could not look down on all the camp, for it was not possible to look down on the men who were arranged inside the wall, which they had under guard, having restored it. He was observing the men outside, whose weapons were lying in front of the wall - and it happened, at that time, the Spartans were posted outside.\n\n[3] Indeed he saw some of the men exercising, and others combing their hair. Watching these things, he was amazed, and observed their large numbers. Having learnt everything exactly, he rode back at his leisure for no one pursued him or paid him much attention.  Having gone away he started to tell Xerxes everything he had seen.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.208.1",
+          "greek": "ταῦτα βουλευομένων σφέων, ἔπεμπε Ξέρξης κατάσκοπον ἱππέα ἰδέσθαι ὁκόσοι εἰσὶ καὶ ὅ τι ποιέοιεν. ἀκηκόεε δὲ ἔτι ἐὼν ἐν Θεσσαλίῃ ὡς ἁλισμένη εἴη ταύτῃ στρατιὴ ὀλίγη, καὶ τοὺς ἡγεμόνας ὡς εἴησαν Λακεδαιμόνιοί τε καὶ Λεωνίδης ἐὼν γένος Ἡρακλείδης.",
+          "translation": "While they were planning these things, Xerxes was sending a mounted scout to see how many they were and what they were doing. While he was still in Thessaly, he had heard that a small army was assembled there and that its leaders were Spartans and Leonidas of the Heracleid clan.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.208.2",
+          "greek": "ὡς δὲ προσήλασε ὁ ἱππεὺς πρὸς τὸ στρατόπεδον, ἐθηεῖτό τε καὶ κατώρα πᾶν μὲν οὒ τὸ στρατόπεδον· τοὺς γὰρ ἔσω τεταγμένους τοῦ τείχεος, τὸ ἀνορθώσαντες εἶχον ἐν φυλακῇ, οὐκ οἷά τε ἦν κατιδέσθαι· ὁ δὲ τοὺς ἔξω ἐμάνθανε, τοῖσι πρὸ τοῦ τείχεος τὰ ὅπλα ἔκειτο· ἔτυχον δὲ τοῦτον τὸν χρόνον Λακεδαιμόνιοι ἔξω τεταγμένοι.",
+          "translation": "As the horseman drove up to the camp, he started to observe but could not look down on all the camp, for it was not possible to look down on the men who were arranged inside the wall, which they had under guard, having restored it. He was observing the men outside, whose weapons were lying in front of the wall - and it happened, at that time, the Spartans were posted outside.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p3",
+          "reference": "7.208.3",
+          "greek": "τοὺς μὲν δὴ ὥρα γυμναζομένους τῶν ἀνδρῶν, τοὺς δὲ τὰς κόμας κτενιζομένους. ταῦτα δὴ θεώμενος ἐθώμαζε καὶ τὸ πλῆθος ἐμάνθανε. μαθὼν δὲ πάντα ἀτρεκέως ἀπήλαυνε ὀπίσω κατ᾽ ἡσυχίην· οὔτε γάρ τις ἐδίωκε ἀλογίης τε ἐνεκύρησε πολλῆς· ἀπελθών τε ἔλεγε πρὸς Ξέρξην τά περ ὀπώπεε πάντα.",
+          "translation": "Indeed he saw some of the men exercising, and others combing their hair. Watching these things, he was amazed, and observed their large numbers. Having learnt everything exactly, he rode back at his leisure for no one pursued him or paid him much attention.  Having gone away he started to tell Xerxes everything he had seen.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-209",
+      "text_id": "herodotus",
+      "number": 209,
+      "title": "Chapter 209",
+      "reference": "7.209",
+      "status": "published",
+      "greek": "ἀκούων δὲ Ξέρξης οὐκ εἶχε συμβαλέσθαι τὸ ἐόν, ὅτι παρασκευάζοιντο ὡς ἀπολεόμενοί τε καὶ ἀπολέοντες κατὰ δύναμιν· ἀλλ᾽ αὐτῷ γελοῖα γὰρ ἐφαίνοντο ποιέειν, μετεπέμψατο Δημάρητον τὸν Ἀρίστωνος ἐόντα ἐν τῷ στρατοπέδῳ·\n[2] ἀπικόμενον δέ μιν εἰρώτα Ξέρξης ἕκαστα τούτων, ἐθέλων μαθεῖν τὸ ποιεύμενον πρὸς τῶν Λακεδαιμονίων. ὁ δὲ εἶπε “Ἤκουσας μὲν καὶ πρότερόν μευ, εὖτε ὁρμῶμεν ἐπὶ τὴν Ἑλλάδα, περὶ τῶν ἀνδρῶν τούτων, ἀκούσας δὲ γέλωτά με ἔθευ λέγοντα τῇ περ ὥρων ἐκβησόμενα πρήγματα ταῦτα· ἐμοὶ γὰρ τὴν ἀληθείην ἀσκέειν ἀντία σεῦ βασιλεῦ ἀγὼν μέγιστος ἐστί.\n[3] ἄκουσον δὲ καὶ νῦν· οἱ ἄνδρες οὗτοι ἀπίκαται μαχησόμενοι ἡμῖν περὶ τῆς ἐσόδου, καὶ ταῦτα παρασκευάζονται. νόμος γάρ σφι ἔχων οὕτω ἐστί· ἐπεὰν μέλλωσι κινδυνεύειν τῇ ψυχῇ, τότε τὰς κεφαλὰς κοσμέονται.\n[4] ἐπίστασο δέ, εἰ τούτους γε καὶ τὸ ὑπομένον ἐν Σπάρτῃ καταστρέψεαι, ἔστι οὐδὲν ἄλλο ἔθνος ἀνθρώπων τὸ σὲ βασιλεῦ ὑπομενέει χεῖρας ἀνταειρόμενον· νῦν γὰρ πρὸς βασιληίην τε καὶ καλλίστην πόλιν τῶν ἐν Ἕλλησι προσφέρεαι καὶ ἄνδρας ἀρίστους”.\n[5] κάρτα τε δὴ Ξέρξῃ ἄπιστα ἐφαίνετο τὰ λεγόμενα εἶναι, καὶ δεύτερα ἐπειρώτα ὅντινα τρόπον τοσοῦτοι ἐόντες τῇ ἑωυτοῦ στρατιῇ μαχήσονται. ὁ δὲ εἶπε “ὦ βασιλεῦ, ἐμοὶ χρᾶσθαι ὡς ἀνδρὶ ψεύστῃ, ἢν μὴ ταῦτά τοι ταύτῃ ἐκβῇ τῇ ἐγὼ λέγω”.",
+      "translation": "On hearing this, Xerxes was not able to work out the reality of the situation, that they were preparing both to perish and to deal death to the best of their ability. But since they seem to be acting ludicrously, he sent for Demartus, son of Ariston, who was in camp.\n[2] Xerxes asked him when he had arrived about each of these things, wishing to learn what was being done by the Spartans. He said:\n\"While you have heard from me before when we were setting out for Greece, about those men, when you heard, you made me a laughing stock for saying how I saw these events would turn out. For it is my priority, O king, to tell the truth in your presence.\"\n[3] Listen now too - these men have arrived to fight us over the pass and they are preparing [with] these things. For their custom is as follows - when they are going to put their life in danger, they pay attention to the heads.\n[4] But know, if you subdue both those men and what is left behind in Sparta, there is no other race of men which will raise its head and withstand you, O king. For now you are attacking both the finest royal power and city of those in Greece and the best men.\"\n[5] What he said seemed to be completely unbelievable to Xerxes, and he asked for a second time, in what way they would fight his army. And he [Demartus] said: \"O king, consider me a liar, if these things do not turn out in the way in which I say.\"",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.209.1",
+          "greek": "ἀκούων δὲ Ξέρξης οὐκ εἶχε συμβαλέσθαι τὸ ἐόν, ὅτι παρασκευάζοιντο ὡς ἀπολεόμενοί τε καὶ ἀπολέοντες κατὰ δύναμιν· ἀλλ᾽ αὐτῷ γελοῖα γὰρ ἐφαίνοντο ποιέειν, μετεπέμψατο Δημάρητον τὸν Ἀρίστωνος ἐόντα ἐν τῷ στρατοπέδῳ·",
+          "translation": "On hearing this, Xerxes was not able to work out the reality of the situation, that they were preparing both to perish and to deal death to the best of their ability. But since they seem to be acting ludicrously, he sent for Demartus, son of Ariston, who was in camp.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.209.2",
+          "greek": "ἀπικόμενον δέ μιν εἰρώτα Ξέρξης ἕκαστα τούτων, ἐθέλων μαθεῖν τὸ ποιεύμενον πρὸς τῶν Λακεδαιμονίων. ὁ δὲ εἶπε “Ἤκουσας μὲν καὶ πρότερόν μευ, εὖτε ὁρμῶμεν ἐπὶ τὴν Ἑλλάδα, περὶ τῶν ἀνδρῶν τούτων, ἀκούσας δὲ γέλωτά με ἔθευ λέγοντα τῇ περ ὥρων ἐκβησόμενα πρήγματα ταῦτα· ἐμοὶ γὰρ τὴν ἀληθείην ἀσκέειν ἀντία σεῦ βασιλεῦ ἀγὼν μέγιστος ἐστί.",
+          "translation": "Xerxes asked him when he had arrived about each of these things, wishing to learn what was being done by the Spartans. He said:\n\"While you have heard from me before when we were setting out for Greece, about those men, when you heard, you made me a laughing stock for saying how I saw these events would turn out. For it is my priority, O king, to tell the truth in your presence.\"",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p3",
+          "reference": "7.209.3",
+          "greek": "ἄκουσον δὲ καὶ νῦν· οἱ ἄνδρες οὗτοι ἀπίκαται μαχησόμενοι ἡμῖν περὶ τῆς ἐσόδου, καὶ ταῦτα παρασκευάζονται. νόμος γάρ σφι ἔχων οὕτω ἐστί· ἐπεὰν μέλλωσι κινδυνεύειν τῇ ψυχῇ, τότε τὰς κεφαλὰς κοσμέονται.",
+          "translation": "Listen now too - these men have arrived to fight us over the pass and they are preparing [with] these things. For their custom is as follows - when they are going to put their life in danger, they pay attention to the heads.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p4",
+          "reference": "7.209.4",
+          "greek": "ἐπίστασο δέ, εἰ τούτους γε καὶ τὸ ὑπομένον ἐν Σπάρτῃ καταστρέψεαι, ἔστι οὐδὲν ἄλλο ἔθνος ἀνθρώπων τὸ σὲ βασιλεῦ ὑπομενέει χεῖρας ἀνταειρόμενον· νῦν γὰρ πρὸς βασιληίην τε καὶ καλλίστην πόλιν τῶν ἐν Ἕλλησι προσφέρεαι καὶ ἄνδρας ἀρίστους”.",
+          "translation": "But know, if you subdue both those men and what is left behind in Sparta, there is no other race of men which will raise its head and withstand you, O king. For now you are attacking both the finest royal power and city of those in Greece and the best men.\"",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p5",
+          "reference": "7.209.5",
+          "greek": "κάρτα τε δὴ Ξέρξῃ ἄπιστα ἐφαίνετο τὰ λεγόμενα εἶναι, καὶ δεύτερα ἐπειρώτα ὅντινα τρόπον τοσοῦτοι ἐόντες τῇ ἑωυτοῦ στρατιῇ μαχήσονται. ὁ δὲ εἶπε “ὦ βασιλεῦ, ἐμοὶ χρᾶσθαι ὡς ἀνδρὶ ψεύστῃ, ἢν μὴ ταῦτά τοι ταύτῃ ἐκβῇ τῇ ἐγὼ λέγω”.",
+          "translation": "What he said seemed to be completely unbelievable to Xerxes, and he asked for a second time, in what way they would fight his army. And he [Demartus] said: \"O king, consider me a liar, if these things do not turn out in the way in which I say.\"",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-210",
+      "text_id": "herodotus",
+      "number": 210,
+      "title": "Chapter 210",
+      "reference": "7.210",
+      "status": "published",
+      "greek": "ταῦτα λέγων οὐκ ἔπειθε τὸν Ξέρξην τέσσερας μὲν δὴ παρεξῆκε ἡμέρας, ἐλπίζων αἰεί σφεας ἀποδρήσεσθαι· πέμπτῃ δέ, ὡς οὐκ ἀπαλλάσσοντο ἀλλά οἱ ἐφαίνοντο ἀναιδείῃ τε καὶ ἀβουλίῃ διαχρεώμενοι μένειν, πέμπει ἐπ᾽ αὐτοὺς Μήδους τε καὶ Κισσίους θυμωθείς, ἐντειλάμενος σφέας ζωγρήσαντας ἄγειν ἐς ὄψιν τὴν ἑωυτοῦ.\n[2] ὡς δ᾽ ἐσέπεσον φερόμενοι ἐς τοὺς Ἕλληνας οἱ Μῆδοι, ἔπιπτον πολλοί, ἄλλοι δ᾽ ἐπεσήισαν, καὶ οὐκ ἀπηλαύνοντο, καίπερ μεγάλως προσπταίοντες. δῆλον δ᾽ ἐποίευν παντί τεῳ καὶ οὐκ ἥκιστα αὐτῷ βασιλέι, ὅτι πολλοὶ μὲν ἄνθρωποι εἶεν, ὀλίγοι δὲ ἄνδρες. ἐγίνετο δὲ ἡ συμβολὴ δι᾽ ἡμέρης.",
+      "translation": "Saying these things he did not persuade Xerxes. Indeed, he let four days go by, always hoping that they would run away. But on the fifth, since they were not withdrawing but seemed to him to stay through characteristics of utter recklessness and poor judgement, he became angry and sent both Medes and Cissians against them, commanding them to capture them alive and lead them into his presence.\n[2] The Medes fell upon the Greeks in a rush, many men were falling but others attacked in turn and they were not driven off, despite suffering great setbacks - they were making it clear to everyone and not least to the king himself that while there were many humans, there were few [real] men. The battle lasted throughout the day.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.210.1",
+          "greek": "ταῦτα λέγων οὐκ ἔπειθε τὸν Ξέρξην τέσσερας μὲν δὴ παρεξῆκε ἡμέρας, ἐλπίζων αἰεί σφεας ἀποδρήσεσθαι· πέμπτῃ δέ, ὡς οὐκ ἀπαλλάσσοντο ἀλλά οἱ ἐφαίνοντο ἀναιδείῃ τε καὶ ἀβουλίῃ διαχρεώμενοι μένειν, πέμπει ἐπ᾽ αὐτοὺς Μήδους τε καὶ Κισσίους θυμωθείς, ἐντειλάμενος σφέας ζωγρήσαντας ἄγειν ἐς ὄψιν τὴν ἑωυτοῦ.",
+          "translation": "Saying these things he did not persuade Xerxes. Indeed, he let four days go by, always hoping that they would run away. But on the fifth, since they were not withdrawing but seemed to him to stay through characteristics of utter recklessness and poor judgement, he became angry and sent both Medes and Cissians against them, commanding them to capture them alive and lead them into his presence.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.210.2",
+          "greek": "ὡς δ᾽ ἐσέπεσον φερόμενοι ἐς τοὺς Ἕλληνας οἱ Μῆδοι, ἔπιπτον πολλοί, ἄλλοι δ᾽ ἐπεσήισαν, καὶ οὐκ ἀπηλαύνοντο, καίπερ μεγάλως προσπταίοντες. δῆλον δ᾽ ἐποίευν παντί τεῳ καὶ οὐκ ἥκιστα αὐτῷ βασιλέι, ὅτι πολλοὶ μὲν ἄνθρωποι εἶεν, ὀλίγοι δὲ ἄνδρες. ἐγίνετο δὲ ἡ συμβολὴ δι᾽ ἡμέρης.",
+          "translation": "The Medes fell upon the Greeks in a rush, many men were falling but others attacked in turn and they were not driven off, despite suffering great setbacks - they were making it clear to everyone and not least to the king himself that while there were many humans, there were few [real] men. The battle lasted throughout the day.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-211",
+      "text_id": "herodotus",
+      "number": 211,
+      "title": "Chapter 211",
+      "reference": "7.211",
+      "status": "published",
+      "greek": "ἐπείτε δὲ οἱ Μῆδοι τρηχέως περιείποντο, ἐνθαῦτα οὗτοι μὲν ὑπεξήισαν, οἱ δὲ Πέρσαι ἐκδεξάμενοι ἐπήισαν, τοὺς ἀθανάτους ἐκάλεε βασιλεύς, τῶν ἦρχε Ὑδάρνης, ὡς δὴ οὗτοί γε εὐπετέως κατεργασόμενοι.\n[2] ὡς δὲ καὶ οὗτοι συνέμισγον τοῖσι Ἕλλησι, οὐδὲν πλέον ἐφέροντο τῆς στρατιῆς τῆς Μηδικῆς ἀλλὰ τὰ αὐτά, ἅτε ἐν στεινοπόρῳ τε χώρῳ μαχόμενοι καὶ δόρασι βραχυτέροισι χρεώμενοι ἤ περ οἱ Ἕλληνες, καὶ οὐκ ἔχοντες πλήθεϊ χρήσασθαι.\n[3] Λακεδαιμόνιοι δὲ ἐμάχοντο ἀξίως λόγου, ἄλλα τε ἀποδεικνύμενοι ἐν οὐκ ἐπισταμένοισι μάχεσθαι ἐξεπιστάμενοι, καὶ ὅκως ἐντρέψειαν τὰ νῶτα, ἁλέες φεύγεσκον δῆθεν, οἱ δὲ βάρβαροι ὁρῶντες φεύγοντας βοῇ τε καὶ πατάγῳ ἐπήισαν, οἳ δ᾽ ἂν καταλαμβανόμενοι ὑπέστρεφον ἀντίοι εἶναι τοῖσι βαρβάροισι, μεταστρεφόμενοι δὲ κατέβαλλον πλήθεϊ ἀναριθμήτους τῶν Περσέων· ἔπιπτον δὲ καὶ αὐτῶν τῶν Σπαρτιητέων ἐνθαῦτα ὀλίγοι. ἐπεὶ δὲ οὐδὲν ἐδυνέατο παραλαβεῖν οἱ Πέρσαι τῆς ἐσόδου πειρώμενοι καὶ κατὰ τέλεα καὶ παντοίως προσβάλλοντες, ἀπήλαυνον ὀπίσω.",
+      "translation": "Since the Medes were being roughly handled, then while these withdrew gradually, the Persians, whom the king called Immortals, whom Hydarnes was commanding, took their place and attacked in turn; on the assumption that these men would easily succeed.\n\n[2] And when these men too engaged with the Greeks, they achieved nothing more than the army of the Medes, but the same things, because both fighting in a narrow pass and using spears shorter than the Greeks', they were unable to use this number.\n\n[3] The Spartans were fighting in a manner of esteem, revealing other things - knowing well how to fight amongst those who didn't, and in particular whenever they turned their backs and apparently flee en masse. The barbarians seeing them fleeing, with both shouting and din, would go after them but the Spartans when they were caught, would turn about so they were face to face with the barbarians.\nAnd having turned they would strike down countless Persians in a mass; when this happened few of the Spartiates themselves would fall. But when the Persians were able to seize nothing by making an attempt on the entrance to the pass, both attacking by ranks and in every other way, they retreated.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.211.1",
+          "greek": "ἐπείτε δὲ οἱ Μῆδοι τρηχέως περιείποντο, ἐνθαῦτα οὗτοι μὲν ὑπεξήισαν, οἱ δὲ Πέρσαι ἐκδεξάμενοι ἐπήισαν, τοὺς ἀθανάτους ἐκάλεε βασιλεύς, τῶν ἦρχε Ὑδάρνης, ὡς δὴ οὗτοί γε εὐπετέως κατεργασόμενοι.",
+          "translation": "Since the Medes were being roughly handled, then while these withdrew gradually, the Persians, whom the king called Immortals, whom Hydarnes was commanding, took their place and attacked in turn; on the assumption that these men would easily succeed.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.211.2",
+          "greek": "ὡς δὲ καὶ οὗτοι συνέμισγον τοῖσι Ἕλλησι, οὐδὲν πλέον ἐφέροντο τῆς στρατιῆς τῆς Μηδικῆς ἀλλὰ τὰ αὐτά, ἅτε ἐν στεινοπόρῳ τε χώρῳ μαχόμενοι καὶ δόρασι βραχυτέροισι χρεώμενοι ἤ περ οἱ Ἕλληνες, καὶ οὐκ ἔχοντες πλήθεϊ χρήσασθαι.",
+          "translation": "And when these men too engaged with the Greeks, they achieved nothing more than the army of the Medes, but the same things, because both fighting in a narrow pass and using spears shorter than the Greeks', they were unable to use this number.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p3",
+          "reference": "7.211.3",
+          "greek": "Λακεδαιμόνιοι δὲ ἐμάχοντο ἀξίως λόγου, ἄλλα τε ἀποδεικνύμενοι ἐν οὐκ ἐπισταμένοισι μάχεσθαι ἐξεπιστάμενοι, καὶ ὅκως ἐντρέψειαν τὰ νῶτα, ἁλέες φεύγεσκον δῆθεν, οἱ δὲ βάρβαροι ὁρῶντες φεύγοντας βοῇ τε καὶ πατάγῳ ἐπήισαν, οἳ δ᾽ ἂν καταλαμβανόμενοι ὑπέστρεφον ἀντίοι εἶναι τοῖσι βαρβάροισι, μεταστρεφόμενοι δὲ κατέβαλλον πλήθεϊ ἀναριθμήτους τῶν Περσέων· ἔπιπτον δὲ καὶ αὐτῶν τῶν Σπαρτιητέων ἐνθαῦτα ὀλίγοι. ἐπεὶ δὲ οὐδὲν ἐδυνέατο παραλαβεῖν οἱ Πέρσαι τῆς ἐσόδου πειρώμενοι καὶ κατὰ τέλεα καὶ παντοίως προσβάλλοντες, ἀπήλαυνον ὀπίσω.",
+          "translation": "The Spartans were fighting in a manner of esteem, revealing other things - knowing well how to fight amongst those who didn't, and in particular whenever they turned their backs and apparently flee en masse. The barbarians seeing them fleeing, with both shouting and din, would go after them but the Spartans when they were caught, would turn about so they were face to face with the barbarians.\nAnd having turned they would strike down countless Persians in a mass; when this happened few of the Spartiates themselves would fall. But when the Persians were able to seize nothing by making an attempt on the entrance to the pass, both attacking by ranks and in every other way, they retreated.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-212",
+      "text_id": "herodotus",
+      "number": 212,
+      "title": "Chapter 212",
+      "reference": "7.212",
+      "status": "published",
+      "greek": "ἐν ταύτῃσι τῇσι προσόδοισι τῆς μάχης λέγεται βασιλέα θηεύμενον τρὶς ἀναδραμεῖν ἐκ τοῦ θρόνου δείσαντα περὶ τῇ στρατιῇ. τότε μὲν οὕτω ἠγωνίσαντο, τῇ δ᾽ ὑστεραίῃ οἱ βάρβαροι οὐδὲν ἄμεινον ἀέθλεον. ἅτε γὰρ ὀλίγων ἐόντων, ἐλπίσαντες σφέας κατατετρωματίσθαι τε καὶ οὐκ οἵους τε ἔσεσθαι ἔτι χεῖρας ἀνταείρασθαι συνέβαλλον.\n[2] οἱ δὲ Ἕλληνες κατὰ τάξις τε καὶ κατὰ ἔθνεα κεκοσμημένοι ἦσαν, καὶ ἐν μέρεϊ ἕκαστοι ἐμάχοντο, πλὴν Φωκέων· οὗτοι δὲ ἐς τὸ ὄρος ἐτάχθησαν φυλάξοντες τὴν ἀτραπόν. ὡς δὲ οὐδὲν εὕρισκον ἀλλοιότερον οἱ Πέρσαι ἢ τῇ προτεραίῃ ἐνώρων, ἀπήλαυνον.",
+      "translation": "In these attacks of the battle, it is said that the king, while observing, jumped three times from his throne, fearing for his army. At that time they fought in this way but on the next [day] the barbarians contended no better in battle. For they joined battle believing that in as much as they were few, [the Greeks] would be both wounded and not able to raise their hands against them.\n\n[2] The Greeks were marshalled by ranks and nations, and each fought in turn, except the Phocians; these were drawn up up on the mountain to guard the shortcut. When the Persians found nothing different than what they saw on the previous [day], they departed.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.212.1",
+          "greek": "ἐν ταύτῃσι τῇσι προσόδοισι τῆς μάχης λέγεται βασιλέα θηεύμενον τρὶς ἀναδραμεῖν ἐκ τοῦ θρόνου δείσαντα περὶ τῇ στρατιῇ. τότε μὲν οὕτω ἠγωνίσαντο, τῇ δ᾽ ὑστεραίῃ οἱ βάρβαροι οὐδὲν ἄμεινον ἀέθλεον. ἅτε γὰρ ὀλίγων ἐόντων, ἐλπίσαντες σφέας κατατετρωματίσθαι τε καὶ οὐκ οἵους τε ἔσεσθαι ἔτι χεῖρας ἀνταείρασθαι συνέβαλλον.",
+          "translation": "In these attacks of the battle, it is said that the king, while observing, jumped three times from his throne, fearing for his army. At that time they fought in this way but on the next [day] the barbarians contended no better in battle. For they joined battle believing that in as much as they were few, [the Greeks] would be both wounded and not able to raise their hands against them.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.212.2",
+          "greek": "οἱ δὲ Ἕλληνες κατὰ τάξις τε καὶ κατὰ ἔθνεα κεκοσμημένοι ἦσαν, καὶ ἐν μέρεϊ ἕκαστοι ἐμάχοντο, πλὴν Φωκέων· οὗτοι δὲ ἐς τὸ ὄρος ἐτάχθησαν φυλάξοντες τὴν ἀτραπόν. ὡς δὲ οὐδὲν εὕρισκον ἀλλοιότερον οἱ Πέρσαι ἢ τῇ προτεραίῃ ἐνώρων, ἀπήλαυνον.",
+          "translation": "The Greeks were marshalled by ranks and nations, and each fought in turn, except the Phocians; these were drawn up up on the mountain to guard the shortcut. When the Persians found nothing different than what they saw on the previous [day], they departed.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-213",
+      "text_id": "herodotus",
+      "number": 213,
+      "title": "Chapter 213",
+      "reference": "7.213",
+      "status": "published",
+      "greek": "ἀπορέοντος δὲ βασιλέος ὅ τι χρήσηται τῷ παρεόντι πρήγματι, Ἐπιάλτης ὁ Εὐρυδήμου ἀνὴρ Μηλιεὺς ἦλθέ οἱ ἐς λόγους· ὃς μέγα τι παρὰ βασιλέος δοκέων οἴσεσθαι ἔφρασέ τε τὴν ἀτραπὸν τὴν διὰ τοῦ ὄρεος φέρουσαν ἐς Θερμοπύλας, καὶ διέφθειρε τοὺς ταύτῃ ὑπομείναντας Ἑλλήνων.\n[2] ὕστερον δὲ δείσας Λακεδαιμονίους ἔφυγε ἐς Θεσσαλίην, καί οἱ φυγόντι ὑπὸ τῶν Πυλαγόρων τῶν Ἀμφικτυόνων ἐς τὴν Πυλαίην συλλεγομένων ἀργύριον ἐπεκηρύχθη. χρόνῳ δὲ ὕστερον, κατῆλθε γὰρ ἐς Ἀντικύρην, ἀπέθανε ὑπὸ Ἀθηνάδεω ἀνδρὸς Τρηχινίου.\n[3] ὁ δὲ Ἀθηνάδης οὗτος ἀπέκτεινε μὲν Ἐπιάλτεα δι᾽ ἄλλην αἰτίην, τὴν ἐγὼ ἐν τοῖσι ὄπισθε λόγοισι σημανέω, ἐτιμήθη μέντοι ὑπὸ Λακεδαιμονίων οὐδὲν ἧσσον.",
+      "translation": "With the king at a loss in what way to deal with the present circumstance, Epialtes, son of Eurydemus, a Malian man, came to have discussions with him. He, thinking that he would take something great from the king, both revealed the shortcut across the mountain leading to Thermopylae, and destroyed those of the Greeks remaining there.\n\n[2] But later, in fear of the Spartans, he fled to Thessaly, and a price was put on his head while he was in exile by the Pylagoroi, when the Amphictyons were assembled at Thermopylae. Some time later, for he came back from exile to Anticyra, he was killed by a Trachinian man [called] Athenades.\n\n[3] This Athenades killed Epialtes for a different reason, which I will reveal in words later, however no less honoured by the Spartans.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.213.1",
+          "greek": "ἀπορέοντος δὲ βασιλέος ὅ τι χρήσηται τῷ παρεόντι πρήγματι, Ἐπιάλτης ὁ Εὐρυδήμου ἀνὴρ Μηλιεὺς ἦλθέ οἱ ἐς λόγους· ὃς μέγα τι παρὰ βασιλέος δοκέων οἴσεσθαι ἔφρασέ τε τὴν ἀτραπὸν τὴν διὰ τοῦ ὄρεος φέρουσαν ἐς Θερμοπύλας, καὶ διέφθειρε τοὺς ταύτῃ ὑπομείναντας Ἑλλήνων.",
+          "translation": "With the king at a loss in what way to deal with the present circumstance, Epialtes, son of Eurydemus, a Malian man, came to have discussions with him. He, thinking that he would take something great from the king, both revealed the shortcut across the mountain leading to Thermopylae, and destroyed those of the Greeks remaining there.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.213.2",
+          "greek": "ὕστερον δὲ δείσας Λακεδαιμονίους ἔφυγε ἐς Θεσσαλίην, καί οἱ φυγόντι ὑπὸ τῶν Πυλαγόρων τῶν Ἀμφικτυόνων ἐς τὴν Πυλαίην συλλεγομένων ἀργύριον ἐπεκηρύχθη. χρόνῳ δὲ ὕστερον, κατῆλθε γὰρ ἐς Ἀντικύρην, ἀπέθανε ὑπὸ Ἀθηνάδεω ἀνδρὸς Τρηχινίου.",
+          "translation": "But later, in fear of the Spartans, he fled to Thessaly, and a price was put on his head while he was in exile by the Pylagoroi, when the Amphictyons were assembled at Thermopylae. Some time later, for he came back from exile to Anticyra, he was killed by a Trachinian man [called] Athenades.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p3",
+          "reference": "7.213.3",
+          "greek": "ὁ δὲ Ἀθηνάδης οὗτος ἀπέκτεινε μὲν Ἐπιάλτεα δι᾽ ἄλλην αἰτίην, τὴν ἐγὼ ἐν τοῖσι ὄπισθε λόγοισι σημανέω, ἐτιμήθη μέντοι ὑπὸ Λακεδαιμονίων οὐδὲν ἧσσον.",
+          "translation": "This Athenades killed Epialtes for a different reason, which I will reveal in words later, however no less honoured by the Spartans.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-214",
+      "text_id": "herodotus",
+      "number": 214,
+      "title": "Chapter 214",
+      "reference": "7.214",
+      "status": "published",
+      "greek": "Ἐπιάλτης μὲν οὕτω ὕστερον τούτων ἀπέθανε, ἔστι δὲ ἕτερος λεγόμενος λόγος, ὡς Ὀνήτης τε ὁ Φαναγόρεω ἀνὴρ Καρύστιος καὶ Κορυδαλλὸς Ἀντικυρεὺς εἰσὶ οἱ εἴπαντες πρὸς βασιλέα τούτους τοὺς λόγους καὶ περιηγησάμενοι τὸ ὄρος τοῖσι Πέρσῃσι, οὐδαμῶς ἔμοιγε πιστός.\n[2] τοῦτο μὲν γὰρ τῷδε χρὴ σταθμώσασθαι, ὅτι οἱ τῶν Ἑλλήνων Πυλαγόροι ἐπεκήρυξαν οὐκ ἐπὶ Ὀνήτῃ τε καὶ Κορυδαλλῷ ἀργύριον ἀλλ᾽ ἐπὶ Ἐπιάλτῃ τῷ Τρηχινίῳ, πάντως κου τὸ ἀτρεκέστατον πυθόμενοι· τοῦτο δὲ φεύγοντα Ἐπιάλτην ταύτην τὴν αἰτίην οἴδαμεν.\n[3] εἰδείη μὲν γὰρ ἂν καὶ ἐὼν μὴ Μηλιεὺς ταύτην τὴν ἀτραπὸν Ὀνήτης, εἰ τῇ χώρῃ πολλὰ ὡμιληκὼς εἴη· ἀλλ᾽ Ἐπιάλτης γὰρ ἐστὶ ὁ περιηγησάμενος τὸ ὄρος κατὰ τὴν ἀτραπόν, τοῦτον αἴτιον γράφω.",
+      "translation": "Epialtes died later than these events. But there is another account told - that Onetes, son of Phanagoras, a man of Carystus and Corydallus of Anticyra are the ones who said these words to the kings and led the Persians round the mountain - to me at any rate it is no way reliable.\n\n[2] For while it is necessary to make a judgement from this that, of the Greeks, the Pylagori set a price on not Onetes and Corrydallus, but on the Trachinian Epialtes, having in my opinion, acquired the most exact [detail] - but we know that Epialtes was in exile because of this charge.\n\n[3] For while Onetes, even though he was not Malian, might have known this path if he often visited the land, rather it was Epialtes who led them on the path around the mountain - I record this man as responsible.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.214.1",
+          "greek": "Ἐπιάλτης μὲν οὕτω ὕστερον τούτων ἀπέθανε, ἔστι δὲ ἕτερος λεγόμενος λόγος, ὡς Ὀνήτης τε ὁ Φαναγόρεω ἀνὴρ Καρύστιος καὶ Κορυδαλλὸς Ἀντικυρεὺς εἰσὶ οἱ εἴπαντες πρὸς βασιλέα τούτους τοὺς λόγους καὶ περιηγησάμενοι τὸ ὄρος τοῖσι Πέρσῃσι, οὐδαμῶς ἔμοιγε πιστός.",
+          "translation": "Epialtes died later than these events. But there is another account told - that Onetes, son of Phanagoras, a man of Carystus and Corydallus of Anticyra are the ones who said these words to the kings and led the Persians round the mountain - to me at any rate it is no way reliable.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.214.2",
+          "greek": "τοῦτο μὲν γὰρ τῷδε χρὴ σταθμώσασθαι, ὅτι οἱ τῶν Ἑλλήνων Πυλαγόροι ἐπεκήρυξαν οὐκ ἐπὶ Ὀνήτῃ τε καὶ Κορυδαλλῷ ἀργύριον ἀλλ᾽ ἐπὶ Ἐπιάλτῃ τῷ Τρηχινίῳ, πάντως κου τὸ ἀτρεκέστατον πυθόμενοι· τοῦτο δὲ φεύγοντα Ἐπιάλτην ταύτην τὴν αἰτίην οἴδαμεν.",
+          "translation": "For while it is necessary to make a judgement from this that, of the Greeks, the Pylagori set a price on not Onetes and Corrydallus, but on the Trachinian Epialtes, having in my opinion, acquired the most exact [detail] - but we know that Epialtes was in exile because of this charge.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p3",
+          "reference": "7.214.3",
+          "greek": "εἰδείη μὲν γὰρ ἂν καὶ ἐὼν μὴ Μηλιεὺς ταύτην τὴν ἀτραπὸν Ὀνήτης, εἰ τῇ χώρῃ πολλὰ ὡμιληκὼς εἴη· ἀλλ᾽ Ἐπιάλτης γὰρ ἐστὶ ὁ περιηγησάμενος τὸ ὄρος κατὰ τὴν ἀτραπόν, τοῦτον αἴτιον γράφω.",
+          "translation": "For while Onetes, even though he was not Malian, might have known this path if he often visited the land, rather it was Epialtes who led them on the path around the mountain - I record this man as responsible.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-215",
+      "text_id": "herodotus",
+      "number": 215,
+      "title": "Chapter 215",
+      "reference": "7.215",
+      "status": "published",
+      "greek": "Ξέρξης δέ, ἐπεὶ ἤρεσε τὰ ὑπέσχετο ὁ Ἐπιάλτης κατεργάσασθαι, αὐτίκα περιχαρὴς γενόμενος ἔπεμπε Ὑδάρνεα καὶ τῶν ἐστρατήγεε Ὑδάρνης· ὁρμέατο δὲ περὶ λύχνων ἁφὰς ἐκ τοῦ στρατοπέδου. τὴν δὲ ἀτραπὸν ταύτην ἐξεῦρον μὲν οἱ ἐπιχώριοι Μηλιέες, ἐξευρόντες δὲ Θεσσαλοῖσι κατηγήσαντο ἐπὶ Φωκέας, τότε ὅτε οἱ Φωκέες φράξαντες τείχεϊ τὴν ἐσβολὴν ἦσαν ἐν σκέπῃ τοῦ πολέμου· ἔκ τε τόσου δὴ κατεδέδεκτο ἐοῦσα οὐδὲν χρηστὴ Μηλιεῦσι.",
+      "translation": "Xerxes, since the things which Epialtes promised to achieve pleased him, at once, having become overjoyed, he sent Hydarnes and those whom Hydarnes commanded. He set off out of the camp at around [the time of] the lighting of the lamps. The native Malians discovered this path, finding it when they led the Thessalians to the Phocians, at that time when the Phocians, having blocked the entrance to the pass with a wall, were protected from the war; indeed since then it was admitted that the path was in no way a good thing for the Malians.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.215.1",
+          "greek": "Ξέρξης δέ, ἐπεὶ ἤρεσε τὰ ὑπέσχετο ὁ Ἐπιάλτης κατεργάσασθαι, αὐτίκα περιχαρὴς γενόμενος ἔπεμπε Ὑδάρνεα καὶ τῶν ἐστρατήγεε Ὑδάρνης· ὁρμέατο δὲ περὶ λύχνων ἁφὰς ἐκ τοῦ στρατοπέδου. τὴν δὲ ἀτραπὸν ταύτην ἐξεῦρον μὲν οἱ ἐπιχώριοι Μηλιέες, ἐξευρόντες δὲ Θεσσαλοῖσι κατηγήσαντο ἐπὶ Φωκέας, τότε ὅτε οἱ Φωκέες φράξαντες τείχεϊ τὴν ἐσβολὴν ἦσαν ἐν σκέπῃ τοῦ πολέμου· ἔκ τε τόσου δὴ κατεδέδεκτο ἐοῦσα οὐδὲν χρηστὴ Μηλιεῦσι.",
+          "translation": "Xerxes, since the things which Epialtes promised to achieve pleased him, at once, having become overjoyed, he sent Hydarnes and those whom Hydarnes commanded. He set off out of the camp at around [the time of] the lighting of the lamps. The native Malians discovered this path, finding it when they led the Thessalians to the Phocians, at that time when the Phocians, having blocked the entrance to the pass with a wall, were protected from the war; indeed since then it was admitted that the path was in no way a good thing for the Malians.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-216",
+      "text_id": "herodotus",
+      "number": 216,
+      "title": "Chapter 216",
+      "reference": "7.216",
+      "status": "published",
+      "greek": "ἔχει δὲ ὧδε ἡ ἀτραπὸς αὕτη· ἄρχεται μὲν ἀπὸ τοῦ Ἀσωποῦ ποταμοῦ τοῦ διὰ τῆς διασφάγος ῥέοντος, οὔνομα δὲ τῷ ὄρεϊ τούτῳ καὶ τῇ ἀτραπῷ τὠυτὸ κεῖται, Ἀνόπαια· τείνει δὲ ἡ Ἀνόπαια αὕτη κατὰ ῥάχιν τοῦ ὄρεος, λήγει δὲ κατά τε Ἀλπηνὸν πόλιν, πρώτην ἐοῦσαν τῶν Λοκρίδων πρὸς τῶν Μηλιέων, καὶ κατὰ Μελαμπύγου τε καλεόμενον λίθον καὶ κατὰ Κερκώπων ἕδρας, τῇ καὶ τὸ στεινότατον ἐστί.",
+      "translation": "And this mountain path is like this; it starts from the Asypus river flowing through the gorge and the same name is used for this mountain and the path - Anopaea. This Anopaea stretches along the spine of the mountain and ends at the city of Alpenus, which is the first [city] of the Locrians in the direction of the Malians and at the stone called \"of the black-bottomed\" and of the seats of the Cercopes - and there it is at its narrowest.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.216.1",
+          "greek": "ἔχει δὲ ὧδε ἡ ἀτραπὸς αὕτη· ἄρχεται μὲν ἀπὸ τοῦ Ἀσωποῦ ποταμοῦ τοῦ διὰ τῆς διασφάγος ῥέοντος, οὔνομα δὲ τῷ ὄρεϊ τούτῳ καὶ τῇ ἀτραπῷ τὠυτὸ κεῖται, Ἀνόπαια· τείνει δὲ ἡ Ἀνόπαια αὕτη κατὰ ῥάχιν τοῦ ὄρεος, λήγει δὲ κατά τε Ἀλπηνὸν πόλιν, πρώτην ἐοῦσαν τῶν Λοκρίδων πρὸς τῶν Μηλιέων, καὶ κατὰ Μελαμπύγου τε καλεόμενον λίθον καὶ κατὰ Κερκώπων ἕδρας, τῇ καὶ τὸ στεινότατον ἐστί.",
+          "translation": "And this mountain path is like this; it starts from the Asypus river flowing through the gorge and the same name is used for this mountain and the path - Anopaea. This Anopaea stretches along the spine of the mountain and ends at the city of Alpenus, which is the first [city] of the Locrians in the direction of the Malians and at the stone called \"of the black-bottomed\" and of the seats of the Cercopes - and there it is at its narrowest.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-217",
+      "text_id": "herodotus",
+      "number": 217,
+      "title": "Chapter 217",
+      "reference": "7.217",
+      "status": "published",
+      "greek": "κατὰ ταύτην δὴ τὴν ἀτραπὸν καὶ οὕτω ἔχουσαν οἱ Πέρσαι, τὸν Ἀσωπὸν διαβάντες, ἐπορεύοντο πᾶσαν τὴν νύκτα, ἐν δεξιῇ μὲν ἔχοντες ὄρεα τὰ Οἰταίων, ἐν ἀριστερῇ δὲ τὰ Τρηχινίων. ἠώς τε δὴ διέφαινε καὶ οἳ ἐγένοντο ἐπ᾽ ἀκρωτηρίῳ τοῦ ὄρεος.\n[2] κατὰ δὲ τοῦτο τοῦ ὄρεος ἐφύλασσον, ὡς καὶ πρότερόν μοι εἴρηται, Φωκέων χίλιοι ὁπλῖται, ῥυόμενοί τε τὴν σφετέρην χώρην καὶ φρουρέοντες τὴν ἀτραπόν. ἡ μὲν γὰρ κάτω ἐσβολὴ ἐφυλάσσετο ὑπὸ τῶν εἴρηται· τὴν δὲ διὰ τοῦ ὄρεος ἀτραπὸν ἐθελονταὶ Φωκέες ὑποδεξάμενοι Λεωνίδῃ ἐφύλασσον.",
+      "translation": "Indeed by this path (as described) the Persians, having crossed the Asypus, marched for the whole night with the Oetaean mountains on this right and the Trachinians [ones] on this left. And indeed, dawn was glowing and they came to the summit of the mountain.\n\n[2] On this part of the mountain, 1000 hoplites of Phocians were keeping guard, as I have shown previously, both protecting their own land and guarding the path. The lower part of the pass was being guarded by those whom I have mentioned but Phocians volunteers, having promised Leonidas, were guarding the path through the mountain.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.217.1",
+          "greek": "κατὰ ταύτην δὴ τὴν ἀτραπὸν καὶ οὕτω ἔχουσαν οἱ Πέρσαι, τὸν Ἀσωπὸν διαβάντες, ἐπορεύοντο πᾶσαν τὴν νύκτα, ἐν δεξιῇ μὲν ἔχοντες ὄρεα τὰ Οἰταίων, ἐν ἀριστερῇ δὲ τὰ Τρηχινίων. ἠώς τε δὴ διέφαινε καὶ οἳ ἐγένοντο ἐπ᾽ ἀκρωτηρίῳ τοῦ ὄρεος.",
+          "translation": "Indeed by this path (as described) the Persians, having crossed the Asypus, marched for the whole night with the Oetaean mountains on this right and the Trachinians [ones] on this left. And indeed, dawn was glowing and they came to the summit of the mountain.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.217.2",
+          "greek": "κατὰ δὲ τοῦτο τοῦ ὄρεος ἐφύλασσον, ὡς καὶ πρότερόν μοι εἴρηται, Φωκέων χίλιοι ὁπλῖται, ῥυόμενοί τε τὴν σφετέρην χώρην καὶ φρουρέοντες τὴν ἀτραπόν. ἡ μὲν γὰρ κάτω ἐσβολὴ ἐφυλάσσετο ὑπὸ τῶν εἴρηται· τὴν δὲ διὰ τοῦ ὄρεος ἀτραπὸν ἐθελονταὶ Φωκέες ὑποδεξάμενοι Λεωνίδῃ ἐφύλασσον.",
+          "translation": "On this part of the mountain, 1000 hoplites of Phocians were keeping guard, as I have shown previously, both protecting their own land and guarding the path. The lower part of the pass was being guarded by those whom I have mentioned but Phocians volunteers, having promised Leonidas, were guarding the path through the mountain.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-218",
+      "text_id": "herodotus",
+      "number": 218,
+      "title": "Chapter 218",
+      "reference": "7.218",
+      "status": "published",
+      "greek": "ἔμαθον δὲ σφέας οἱ Φωκέες ὧδε ἀναβεβηκότας· ἀναβαίνοντες γὰρ ἐλάνθανον οἱ Πέρσαι τὸ ὄρος πᾶν ἐὸν δρυῶν ἐπίπλεον. ἦν μὲν δὴ νηνεμίη, ψόφου δὲ γινομένου πολλοῦ, ὡς οἰκὸς ἦν φύλλων ὑποκεχυμένων ὑπὸ τοῖσι ποσί, ἀνά τε ἔδραμον οἱ Φωκέες καὶ ἐνέδυνον τὰ ὅπλα, καὶ αὐτίκα οἱ βάρβαροι παρῆσαν.\n[2] ὡς δὲ εἶδον ἄνδρας ἐνδυομένους ὅπλα, ἐν θώματι ἐγένοντο· ἐλπόμενοι γὰρ οὐδένα σφι φανήσεσθαι ἀντίξοον ἐνεκύρησαν στρατῷ. ἐνθαῦτα Ὑδάρνης καταρρωδήσας μὴ οἱ Φωκέες ἔωσι Λακεδαιμόνιοι, εἴρετο Ἐπιάλτην ὁποδαπὸς εἴη ὁ στρατός, πυθόμενος δὲ ἀτρεκέως διέτασσε τοὺς Πέρσας ὡς ἐς μάχην.\n[3] οἱ δὲ Φωκέες ὡς ἐβάλλοντο τοῖσι τοξεύμασι πολλοῖσί τε καὶ πυκνοῖσι, οἴχοντο φεύγοντες ἐπὶ τοῦ ὄρεος τὸν κόρυμβον, ἐπιστάμενοι ὡς ἐπὶ σφέας ὁρμήθησαν ἀρχήν, καὶ παρεσκευάδατο ὡς ἀπολεόμενοι. οὗτοι μὲν δὴ ταῦτα ἐφρόνεον, οἱ δὲ ἀμφὶ Ἐπιάλτην καὶ Ὑδάρνεα Πέρσαι Φωκέων μὲν οὐδένα λόγον ἐποιεῦντο, οἳ δὲ κατέβαινον τὸ ὄρος κατὰ τάχος.",
+      "translation": "The Phocians learned that they had climbed up in the following way; for the Persians, climbing up, escaped their attention as the whole mountain was covered with oak trees. Indeed, while there was an absence of wind, when a great noise arose like leaves spread underneath feet, the Phocians jumped up and put in their weapons and at once the barbarians were there.\n\n[2] When they saw the men putting on their weapons, they were amazed, for they had met with an army while expecting no one to appear to oppose them: then Hydarnes, terrified that the Phocians might be Spartans, asked Epialtes from what the army came and, having found out exactly, marshalled the Persians for battle.\n\n[3] The Phocians, as they were being struck by many showers of arrows, went off in flight to the summit of the mountain, thinking that the Persians had rushed against them at the start and prepared to be destroyed. Indeed, while these men were thinking these things, the Persians with Epialtes and Hydarnes paid no heed to the Phocians but went down the mountain at top speed.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.218.1",
+          "greek": "ἔμαθον δὲ σφέας οἱ Φωκέες ὧδε ἀναβεβηκότας· ἀναβαίνοντες γὰρ ἐλάνθανον οἱ Πέρσαι τὸ ὄρος πᾶν ἐὸν δρυῶν ἐπίπλεον. ἦν μὲν δὴ νηνεμίη, ψόφου δὲ γινομένου πολλοῦ, ὡς οἰκὸς ἦν φύλλων ὑποκεχυμένων ὑπὸ τοῖσι ποσί, ἀνά τε ἔδραμον οἱ Φωκέες καὶ ἐνέδυνον τὰ ὅπλα, καὶ αὐτίκα οἱ βάρβαροι παρῆσαν.",
+          "translation": "The Phocians learned that they had climbed up in the following way; for the Persians, climbing up, escaped their attention as the whole mountain was covered with oak trees. Indeed, while there was an absence of wind, when a great noise arose like leaves spread underneath feet, the Phocians jumped up and put in their weapons and at once the barbarians were there.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.218.2",
+          "greek": "ὡς δὲ εἶδον ἄνδρας ἐνδυομένους ὅπλα, ἐν θώματι ἐγένοντο· ἐλπόμενοι γὰρ οὐδένα σφι φανήσεσθαι ἀντίξοον ἐνεκύρησαν στρατῷ. ἐνθαῦτα Ὑδάρνης καταρρωδήσας μὴ οἱ Φωκέες ἔωσι Λακεδαιμόνιοι, εἴρετο Ἐπιάλτην ὁποδαπὸς εἴη ὁ στρατός, πυθόμενος δὲ ἀτρεκέως διέτασσε τοὺς Πέρσας ὡς ἐς μάχην.",
+          "translation": "When they saw the men putting on their weapons, they were amazed, for they had met with an army while expecting no one to appear to oppose them: then Hydarnes, terrified that the Phocians might be Spartans, asked Epialtes from what the army came and, having found out exactly, marshalled the Persians for battle.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p3",
+          "reference": "7.218.3",
+          "greek": "οἱ δὲ Φωκέες ὡς ἐβάλλοντο τοῖσι τοξεύμασι πολλοῖσί τε καὶ πυκνοῖσι, οἴχοντο φεύγοντες ἐπὶ τοῦ ὄρεος τὸν κόρυμβον, ἐπιστάμενοι ὡς ἐπὶ σφέας ὁρμήθησαν ἀρχήν, καὶ παρεσκευάδατο ὡς ἀπολεόμενοι. οὗτοι μὲν δὴ ταῦτα ἐφρόνεον, οἱ δὲ ἀμφὶ Ἐπιάλτην καὶ Ὑδάρνεα Πέρσαι Φωκέων μὲν οὐδένα λόγον ἐποιεῦντο, οἳ δὲ κατέβαινον τὸ ὄρος κατὰ τάχος.",
+          "translation": "The Phocians, as they were being struck by many showers of arrows, went off in flight to the summit of the mountain, thinking that the Persians had rushed against them at the start and prepared to be destroyed. Indeed, while these men were thinking these things, the Persians with Epialtes and Hydarnes paid no heed to the Phocians but went down the mountain at top speed.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-219",
+      "text_id": "herodotus",
+      "number": 219,
+      "title": "Chapter 219",
+      "reference": "7.219",
+      "status": "published",
+      "greek": "τοῖσι δὲ ἐν Θερμοπύλῃσι Ἑλλήνων πρῶτον μὲν ὁ μάντις Μεγιστίης ἐσιδὼν ἐς τὰ ἱρὰ ἔφρασε τὸν μέλλοντα ἔσεσθαι ἅμα ἠοῖ σφι θάνατον, ἐπὶ δὲ καὶ αὐτόμολοι ἦσαν οἱ ἐξαγγείλαντες τῶν Περσέων τὴν περίοδον. οὗτοι μὲν ἔτι νυκτὸς ἐσήμηναν, τρίτοι δὲ οἱ ἡμεροσκόποι καταδραμόντες ἀπὸ τῶν ἄκρων ἤδη διαφαινούσης ἡμέρης.\n[2] ἐνθαῦτα ἐβουλεύοντο οἱ Ἕλληνες, καί σφεων ἐσχίζοντο αἱ γνῶμαι· οἳ μὲν γὰρ οὐκ ἔων τὴν τάξιν ἐκλιπεῖν, οἳ δὲ ἀντέτεινον. μετὰ δὲ τοῦτο διακριθέντες οἳ μὲν ἀπαλλάσσοντο καὶ διασκεδασθέντες κατὰ πόλις ἕκαστοι ἐτράποντο, οἳ δὲ αὐτῶν ἅμα Λεωνίδῃ μένειν αὐτοῦ παρεσκευάδατο.",
+      "translation": "The prophet Megistias, having examined the sacrificial offerings, first revealed to those of the Greeks in Thermopylae that death was going to be upon them at dawn, and then deserters came too who were announcing the flanking manoeuvre of the Persians. These men told them this while it was still night, and thirdly, the day-watchers having run down from the heights by the time that day was starting to appear.\n\n[2] The Greeks then planned and their opinions were split - for some were against abandoning their post but others refused to agree. After this, having parted, some separated and scattered each turning to their own city but others of them prepared to remain right there with Leonidas.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.219.1",
+          "greek": "τοῖσι δὲ ἐν Θερμοπύλῃσι Ἑλλήνων πρῶτον μὲν ὁ μάντις Μεγιστίης ἐσιδὼν ἐς τὰ ἱρὰ ἔφρασε τὸν μέλλοντα ἔσεσθαι ἅμα ἠοῖ σφι θάνατον, ἐπὶ δὲ καὶ αὐτόμολοι ἦσαν οἱ ἐξαγγείλαντες τῶν Περσέων τὴν περίοδον. οὗτοι μὲν ἔτι νυκτὸς ἐσήμηναν, τρίτοι δὲ οἱ ἡμεροσκόποι καταδραμόντες ἀπὸ τῶν ἄκρων ἤδη διαφαινούσης ἡμέρης.",
+          "translation": "The prophet Megistias, having examined the sacrificial offerings, first revealed to those of the Greeks in Thermopylae that death was going to be upon them at dawn, and then deserters came too who were announcing the flanking manoeuvre of the Persians. These men told them this while it was still night, and thirdly, the day-watchers having run down from the heights by the time that day was starting to appear.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.219.2",
+          "greek": "ἐνθαῦτα ἐβουλεύοντο οἱ Ἕλληνες, καί σφεων ἐσχίζοντο αἱ γνῶμαι· οἳ μὲν γὰρ οὐκ ἔων τὴν τάξιν ἐκλιπεῖν, οἳ δὲ ἀντέτεινον. μετὰ δὲ τοῦτο διακριθέντες οἳ μὲν ἀπαλλάσσοντο καὶ διασκεδασθέντες κατὰ πόλις ἕκαστοι ἐτράποντο, οἳ δὲ αὐτῶν ἅμα Λεωνίδῃ μένειν αὐτοῦ παρεσκευάδατο.",
+          "translation": "The Greeks then planned and their opinions were split - for some were against abandoning their post but others refused to agree. After this, having parted, some separated and scattered each turning to their own city but others of them prepared to remain right there with Leonidas.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-220",
+      "text_id": "herodotus",
+      "number": 220,
+      "title": "Chapter 220",
+      "reference": "7.220",
+      "status": "published",
+      "greek": "λέγεται δὲ καὶ ὡς αὐτός σφεας ἀπέπεμψε Λεωνίδης, μὴ ἀπόλωνται κηδόμενος· αὐτῷ δὲ καὶ Σπαρτιητέων τοῖσι παρεοῦσι οὐκ ἔχειν εὐπρεπέως ἐκλιπεῖν τὴν τάξιν ἐς τὴν ἦλθον φυλάξοντες ἀρχήν.\n[2] ταύτῃ καὶ μᾶλλον τὴν γνώμην πλεῖστος εἰμί, Λεωνίδην, ἐπείτε ᾔσθετο τοὺς συμμάχους ἐόντας ἀπροθύμους καὶ οὐκ ἐθέλοντας συνδιακινδυνεύειν, κελεῦσαι σφέας ἀπαλλάσσεσθαι, αὐτῷ δὲ ἀπιέναι οὐ καλῶς ἔχειν· μένοντι δὲ αὐτοῦ κλέος μέγα ἐλείπετο, καὶ ἡ Σπάρτης εὐδαιμονίη οὐκ ἐξηλείφετο.\n[3] ἐκέχρηστο γὰρ ὑπὸ τῆς Πυθίης τοῖσι Σπαρτιήτῃσι χρεωμένοισι περὶ τοῦ πολέμου τούτου αὐτίκα κατ᾽ ἀρχὰς ἐγειρομένου, ἢ Λακεδαίμονα ἀνάστατον γενέσθαι ὑπὸ τῶν βαρβάρων ἢ τὴν βασιλέα σφέων ἀπολέσθαι. ταῦτα δέ σφι ἐν ἔπεσι ἑξαμέτροισι χρᾷ λέγοντα ὧδε.\n[4] ὑμῖν δ᾽, ὦ Σπάρτης οἰκήτορες εὐρυχόροιο, ἢ μέγα ἄστυ ἐρικυδὲς ὑπ᾽ ἀνδράσι Περσεΐδῃσι πέρθεται, ἢ τὸ μὲν οὐχί, ἀφ᾽ Ἡρακλέους δὲ γενέθλης πενθήσει βασιλῆ φθίμενον Λακεδαίμονος οὖρος. οὐ γὰρ τὸν ταύρων σχήσει μένος οὐδὲ λεόντων ἀντιβίην· Ζηνὸς γὰρ ἔχει μένος· οὐδέ ἑ φημί σχήσεσθαι, πρὶν τῶνδ᾽ ἕτερον διὰ πάντα δάσηται. ταῦτά τε δὴ ἐπιλεγόμενον Λεωνίδην, καὶ βουλόμενον κλέος καταθέσθαι μούνων Σπαρτιητέων, ἀποπέμψαι τοὺς συμμάχους μᾶλλον ἢ γνώμῃ διενειχθέντας οὕτω ἀκόσμως οἴχεσθαι τοὺς οἰχομένους.",
+      "translation": "It is also said that Leonidas himself sent them away, anxious that they would be destroyed [but he considered] it was not honourable for him and the Spartiates who were present to leave the battle-line to which they had come to guard it, in the beginning.\n\n[2] And I am most strongly inclined to this view - that Leonidas, when he realised that the allies were unenthusiastic and not willing to share the danger, ordered them to depart - but that it was not right for him to go away. Great renown would be left for him if he stayed right there and the good fortune of Sparta would not be wiped out.\n\n[3] To the Spartiates enquiring about this war at once at the first moment it broke out, the response had been given by the Pythia that either Sparta would be ruined by the barbarians or their king would be killed. She responded in words in hexameters saying the following.\n\n[4] For you, inhabitants of spacious Sparta, either a great, glorious city will be destroyed by brave descendents of Perseus or, if not that, the boundary of Lacedaemon will mourn a dead king from the line of Heracles. For the might of bulls nor lions will not restrain him in violent hostility, for he has the might of Zeus. I say that he will not be restrained before he divides entirely up one of the two. Considering this and wishing to lay up a store of glory for the Spartans alone, Leonidas sent away the allies rather than them leaving in disorder because of a difference in opinion.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.220.1",
+          "greek": "λέγεται δὲ καὶ ὡς αὐτός σφεας ἀπέπεμψε Λεωνίδης, μὴ ἀπόλωνται κηδόμενος· αὐτῷ δὲ καὶ Σπαρτιητέων τοῖσι παρεοῦσι οὐκ ἔχειν εὐπρεπέως ἐκλιπεῖν τὴν τάξιν ἐς τὴν ἦλθον φυλάξοντες ἀρχήν.",
+          "translation": "It is also said that Leonidas himself sent them away, anxious that they would be destroyed [but he considered] it was not honourable for him and the Spartiates who were present to leave the battle-line to which they had come to guard it, in the beginning.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.220.2",
+          "greek": "ταύτῃ καὶ μᾶλλον τὴν γνώμην πλεῖστος εἰμί, Λεωνίδην, ἐπείτε ᾔσθετο τοὺς συμμάχους ἐόντας ἀπροθύμους καὶ οὐκ ἐθέλοντας συνδιακινδυνεύειν, κελεῦσαι σφέας ἀπαλλάσσεσθαι, αὐτῷ δὲ ἀπιέναι οὐ καλῶς ἔχειν· μένοντι δὲ αὐτοῦ κλέος μέγα ἐλείπετο, καὶ ἡ Σπάρτης εὐδαιμονίη οὐκ ἐξηλείφετο.",
+          "translation": "And I am most strongly inclined to this view - that Leonidas, when he realised that the allies were unenthusiastic and not willing to share the danger, ordered them to depart - but that it was not right for him to go away. Great renown would be left for him if he stayed right there and the good fortune of Sparta would not be wiped out.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p3",
+          "reference": "7.220.3",
+          "greek": "ἐκέχρηστο γὰρ ὑπὸ τῆς Πυθίης τοῖσι Σπαρτιήτῃσι χρεωμένοισι περὶ τοῦ πολέμου τούτου αὐτίκα κατ᾽ ἀρχὰς ἐγειρομένου, ἢ Λακεδαίμονα ἀνάστατον γενέσθαι ὑπὸ τῶν βαρβάρων ἢ τὴν βασιλέα σφέων ἀπολέσθαι. ταῦτα δέ σφι ἐν ἔπεσι ἑξαμέτροισι χρᾷ λέγοντα ὧδε.",
+          "translation": "To the Spartiates enquiring about this war at once at the first moment it broke out, the response had been given by the Pythia that either Sparta would be ruined by the barbarians or their king would be killed. She responded in words in hexameters saying the following.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p4",
+          "reference": "7.220.4",
+          "greek": "ὑμῖν δ᾽, ὦ Σπάρτης οἰκήτορες εὐρυχόροιο, ἢ μέγα ἄστυ ἐρικυδὲς ὑπ᾽ ἀνδράσι Περσεΐδῃσι πέρθεται, ἢ τὸ μὲν οὐχί, ἀφ᾽ Ἡρακλέους δὲ γενέθλης πενθήσει βασιλῆ φθίμενον Λακεδαίμονος οὖρος. οὐ γὰρ τὸν ταύρων σχήσει μένος οὐδὲ λεόντων ἀντιβίην· Ζηνὸς γὰρ ἔχει μένος· οὐδέ ἑ φημί σχήσεσθαι, πρὶν τῶνδ᾽ ἕτερον διὰ πάντα δάσηται. ταῦτά τε δὴ ἐπιλεγόμενον Λεωνίδην, καὶ βουλόμενον κλέος καταθέσθαι μούνων Σπαρτιητέων, ἀποπέμψαι τοὺς συμμάχους μᾶλλον ἢ γνώμῃ διενειχθέντας οὕτω ἀκόσμως οἴχεσθαι τοὺς οἰχομένους.",
+          "translation": "For you, inhabitants of spacious Sparta, either a great, glorious city will be destroyed by brave descendents of Perseus or, if not that, the boundary of Lacedaemon will mourn a dead king from the line of Heracles. For the might of bulls nor lions will not restrain him in violent hostility, for he has the might of Zeus. I say that he will not be restrained before he divides entirely up one of the two. Considering this and wishing to lay up a store of glory for the Spartans alone, Leonidas sent away the allies rather than them leaving in disorder because of a difference in opinion.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-221",
+      "text_id": "herodotus",
+      "number": 221,
+      "title": "Chapter 221",
+      "reference": "7.221",
+      "status": "published",
+      "greek": "μαρτύριον δέ μοι καὶ τόδε οὐκ ἐλάχιστον τούτου πέρι γέγονε, ὅτι καὶ τὸν μάντιν ὃς εἵπετο τῇ στρατιῇ ταύτῃ, Μεγιστίην τὸν Ἀκαρνῆνα, λεγόμενον εἶναι τὰ ἀνέκαθεν ἀπὸ Μελάμποδος, τοῦτον εἴπαντα ἐκ τῶν ἱρῶν τὰ μέλλοντά σφι ἐκβαίνειν, φανερός ἐστι Λεωνίδης ἀποπέμπων, ἵνα μὴ συναπόληταί σφι. ὁ δὲ ἀποπεμπόμενος αὐτὸς μὲν οὐκ ἀπέλιπε, τὸν δὲ παῖδα συστρατευόμενον, ἐόντα οἱ μουνογενέα, ἀπέπεμψε.",
+      "translation": "And this is not the least evidence I have about this [matter] - that Leonidas clearly, in order that he didn't die along with them, sent away the prophet, the Acarnanian, said to be descended from Melampuos, Megistias who was following this army and who told him what would turn out to happen for them from the sacrifices. But he, being sent away himself, did not leave but sent away the child who was on campaign with him and was the only one born to him.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.221.1",
+          "greek": "μαρτύριον δέ μοι καὶ τόδε οὐκ ἐλάχιστον τούτου πέρι γέγονε, ὅτι καὶ τὸν μάντιν ὃς εἵπετο τῇ στρατιῇ ταύτῃ, Μεγιστίην τὸν Ἀκαρνῆνα, λεγόμενον εἶναι τὰ ἀνέκαθεν ἀπὸ Μελάμποδος, τοῦτον εἴπαντα ἐκ τῶν ἱρῶν τὰ μέλλοντά σφι ἐκβαίνειν, φανερός ἐστι Λεωνίδης ἀποπέμπων, ἵνα μὴ συναπόληταί σφι. ὁ δὲ ἀποπεμπόμενος αὐτὸς μὲν οὐκ ἀπέλιπε, τὸν δὲ παῖδα συστρατευόμενον, ἐόντα οἱ μουνογενέα, ἀπέπεμψε.",
+          "translation": "And this is not the least evidence I have about this [matter] - that Leonidas clearly, in order that he didn't die along with them, sent away the prophet, the Acarnanian, said to be descended from Melampuos, Megistias who was following this army and who told him what would turn out to happen for them from the sacrifices. But he, being sent away himself, did not leave but sent away the child who was on campaign with him and was the only one born to him.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-222",
+      "text_id": "herodotus",
+      "number": 222,
+      "title": "Chapter 222",
+      "reference": "7.222",
+      "status": "published",
+      "greek": "οἱ μέν νυν σύμμαχοι οἱ ἀποπεμπόμενοι οἴχοντό τε ἀπιόντες καὶ ἐπείθοντο Λεωνίδῃ, Θεσπιέες δὲ καὶ Θηβαῖοι κατέμειναν μοῦνοι παρὰ Λακεδαιμονίοισι. τούτων δὲ Θηβαῖοι μὲν ἀέκοντες ἔμενον καὶ οὐ βουλόμενοι· κατεῖχε γὰρ σφέας Λεωνίδης ἐν ὁμήρων λόγῳ ποιεύμενος· Θεσπιέες δὲ ἑκόντες μάλιστα, οἳ οὐκ ἔφασαν ἀπολιπόντες Λεωνίδην καὶ τοὺς μετ᾽ αὐτοῦ ἀπαλλάξεσθαι, ἀλλὰ καταμείναντες συναπέθανον. ἐστρατήγεε δὲ αὐτῶν Δημόφιλος Διαδρόμεω.",
+      "translation": "Some of the dismissed allies left in order both to go away and obey Leonidas but the Thespians and Thebans remained alone beside the Spartans. And of these men, the Thebans were remaining reluctantly and not wanting to. For Leonidas was keeping them back, treating them as hostages.  The Thespians were very willing - they said that they would not depart, having abandoned Leonidas and those with him, but would die alongside him, having remained. Demophilus, son of Diadromes, was in command of them.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.222.1",
+          "greek": "οἱ μέν νυν σύμμαχοι οἱ ἀποπεμπόμενοι οἴχοντό τε ἀπιόντες καὶ ἐπείθοντο Λεωνίδῃ, Θεσπιέες δὲ καὶ Θηβαῖοι κατέμειναν μοῦνοι παρὰ Λακεδαιμονίοισι. τούτων δὲ Θηβαῖοι μὲν ἀέκοντες ἔμενον καὶ οὐ βουλόμενοι· κατεῖχε γὰρ σφέας Λεωνίδης ἐν ὁμήρων λόγῳ ποιεύμενος· Θεσπιέες δὲ ἑκόντες μάλιστα, οἳ οὐκ ἔφασαν ἀπολιπόντες Λεωνίδην καὶ τοὺς μετ᾽ αὐτοῦ ἀπαλλάξεσθαι, ἀλλὰ καταμείναντες συναπέθανον. ἐστρατήγεε δὲ αὐτῶν Δημόφιλος Διαδρόμεω.",
+          "translation": "Some of the dismissed allies left in order both to go away and obey Leonidas but the Thespians and Thebans remained alone beside the Spartans. And of these men, the Thebans were remaining reluctantly and not wanting to. For Leonidas was keeping them back, treating them as hostages.  The Thespians were very willing - they said that they would not depart, having abandoned Leonidas and those with him, but would die alongside him, having remained. Demophilus, son of Diadromes, was in command of them.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-223",
+      "text_id": "herodotus",
+      "number": 223,
+      "title": "Chapter 223",
+      "reference": "7.223",
+      "status": "published",
+      "greek": "Ξέρξης δὲ ἐπεὶ ἡλίου ἀνατείλαντος σπονδὰς ἐποιήσατο, ἐπισχὼν χρόνον ἐς ἀγορῆς κου μάλιστα πληθώρην πρόσοδον ἐποιέετο· καὶ γὰρ ἐπέσταλτο ἐξ Ἐπιάλτεω οὕτω· ἀπὸ γὰρ τοῦ ὄρεος ἡ κατάβασις συντομωτέρη τε ἐστὶ καὶ βραχύτερος ὁ χῶρος πολλὸν ἤ περ ἡ περίοδός τε καὶ ἀνάβασις.\n[2] οἵ τε δὴ βάρβαροι οἱ ἀμφὶ Ξέρξην προσήισαν, καὶ οἱ ἀμφὶ Λεωνίδην Ἕλληνες, ὡς τὴν ἐπὶ θανάτῳ ἔξοδον ποιεύμενοι, ἤδη πολλῶ μᾶλλον ἢ κατ᾽ ἀρχὰς ἐπεξήισαν ἐς τὸ εὐρύτερον τοῦ αὐχένος. τὸ μὲν γὰρ ἔρυμα τοῦ τείχεος ἐφυλάσσετο, οἳ δὲ ἀνὰ τὰς προτέρας ἡμέρας ὑπεξιόντες ἐς τὰ στεινόπορα ἐμάχοντο.\n[3] τότε δὲ συμμίσγοντες ἔξω τῶν στεινῶν ἔπιπτον πλήθεϊ πολλοὶ τῶν βαρβάρων· ὄπισθε γὰρ οἱ ἡγεμόνες τῶν τελέων ἔχοντες μάστιγας ἐρράπιζον πάντα ἄνδρα, αἰεὶ ἐς τὸ πρόσω ἐποτρύνοντες. πολλοὶ μὲν δὴ ἐσέπιπτον αὐτῶν ἐς τὴν θάλασσαν καὶ διεφθείροντο, πολλῷ δ᾽ ἔτι πλεῦνες κατεπατέοντο ζωοὶ ὑπ᾽ ἀλλήλων· ἦν δὲ λόγος οὐδεὶς τοῦ ἀπολλυμένου.\n[4] ἅτε γὰρ ἐπιστάμενοι τὸν μέλλοντα σφίσι ἔσεσθαι θάνατον ἐκ τῶν περιιόντων τὸ ὄρος, ἀπεδείκνυντο ῥώμης ὅσον εἶχον μέγιστον ἐς τοὺς βαρβάρους, παραχρεώμενοί τε καὶ ἀτέοντες.",
+      "translation": "With the sun having set, when Xerxes made his libations, pausing for a time until what was roughly the busiest time of the market, made his attack - for the instruction was given to do this by Epialtes, for the descent from the mountain is more direct and the ground to cover is much shorter than either the flanking or the ascent.\n\n[2] Indeed the barbarians, accompanying Xerxes attacked and the Greeks around Leonidas, knowing that they were marking their advance with the prospect of death, now went out much further than before into the broader part of the pass. For the barricade of the wall was being guarded in previous days, withdrawing to the narrows, they were fighting there. \n\n[3] And then/now, engaging outside of the narrows, many of the barbarians were falling in a mass - for the leaders of the ranks, holding whips, behind them were striking everyone, always them onwards. Indeed many of them were falling into the sea and dying but still many more were trampled alive by the others - no notice was taken of the people being killed. \n\n[4] For in as much as the Greeks knew that death was about to come upon them, brought about by those coming round the mountain, they displayed the most intense strength they had against the barbarians - being reckless and without thought of life.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.223.1",
+          "greek": "Ξέρξης δὲ ἐπεὶ ἡλίου ἀνατείλαντος σπονδὰς ἐποιήσατο, ἐπισχὼν χρόνον ἐς ἀγορῆς κου μάλιστα πληθώρην πρόσοδον ἐποιέετο· καὶ γὰρ ἐπέσταλτο ἐξ Ἐπιάλτεω οὕτω· ἀπὸ γὰρ τοῦ ὄρεος ἡ κατάβασις συντομωτέρη τε ἐστὶ καὶ βραχύτερος ὁ χῶρος πολλὸν ἤ περ ἡ περίοδός τε καὶ ἀνάβασις.",
+          "translation": "With the sun having set, when Xerxes made his libations, pausing for a time until what was roughly the busiest time of the market, made his attack - for the instruction was given to do this by Epialtes, for the descent from the mountain is more direct and the ground to cover is much shorter than either the flanking or the ascent.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.223.2",
+          "greek": "οἵ τε δὴ βάρβαροι οἱ ἀμφὶ Ξέρξην προσήισαν, καὶ οἱ ἀμφὶ Λεωνίδην Ἕλληνες, ὡς τὴν ἐπὶ θανάτῳ ἔξοδον ποιεύμενοι, ἤδη πολλῶ μᾶλλον ἢ κατ᾽ ἀρχὰς ἐπεξήισαν ἐς τὸ εὐρύτερον τοῦ αὐχένος. τὸ μὲν γὰρ ἔρυμα τοῦ τείχεος ἐφυλάσσετο, οἳ δὲ ἀνὰ τὰς προτέρας ἡμέρας ὑπεξιόντες ἐς τὰ στεινόπορα ἐμάχοντο.",
+          "translation": "Indeed the barbarians, accompanying Xerxes attacked and the Greeks around Leonidas, knowing that they were marking their advance with the prospect of death, now went out much further than before into the broader part of the pass. For the barricade of the wall was being guarded in previous days, withdrawing to the narrows, they were fighting there.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p3",
+          "reference": "7.223.3",
+          "greek": "τότε δὲ συμμίσγοντες ἔξω τῶν στεινῶν ἔπιπτον πλήθεϊ πολλοὶ τῶν βαρβάρων· ὄπισθε γὰρ οἱ ἡγεμόνες τῶν τελέων ἔχοντες μάστιγας ἐρράπιζον πάντα ἄνδρα, αἰεὶ ἐς τὸ πρόσω ἐποτρύνοντες. πολλοὶ μὲν δὴ ἐσέπιπτον αὐτῶν ἐς τὴν θάλασσαν καὶ διεφθείροντο, πολλῷ δ᾽ ἔτι πλεῦνες κατεπατέοντο ζωοὶ ὑπ᾽ ἀλλήλων· ἦν δὲ λόγος οὐδεὶς τοῦ ἀπολλυμένου.",
+          "translation": "And then/now, engaging outside of the narrows, many of the barbarians were falling in a mass - for the leaders of the ranks, holding whips, behind them were striking everyone, always them onwards. Indeed many of them were falling into the sea and dying but still many more were trampled alive by the others - no notice was taken of the people being killed.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p4",
+          "reference": "7.223.4",
+          "greek": "ἅτε γὰρ ἐπιστάμενοι τὸν μέλλοντα σφίσι ἔσεσθαι θάνατον ἐκ τῶν περιιόντων τὸ ὄρος, ἀπεδείκνυντο ῥώμης ὅσον εἶχον μέγιστον ἐς τοὺς βαρβάρους, παραχρεώμενοί τε καὶ ἀτέοντες.",
+          "translation": "For in as much as the Greeks knew that death was about to come upon them, brought about by those coming round the mountain, they displayed the most intense strength they had against the barbarians - being reckless and without thought of life.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-224",
+      "text_id": "herodotus",
+      "number": 224,
+      "title": "Chapter 224",
+      "reference": "7.224",
+      "status": "published",
+      "greek": "δόρατα μέν νυν τοῖσι πλέοσι αὐτῶν τηνικαῦτα ἤδη ἐτύγχανε κατεηγότα, οἳ δὲ τοῖσι ξίφεσι διεργάζοντο τοὺς Πέρσας. καὶ Λεωνίδης τε ἐν τούτῳ τῷ πόνῳ πίπτει ἀνὴρ γενόμενος ἄριστος καὶ ἕτεροι μετ᾽ αὐτοῦ ὀνομαστοὶ Σπαρτιητέων, τῶν ἐγὼ ὡς ἀνδρῶν ἀξίων γενομένων ἐπυθόμην τὰ οὐνόματα, ἐπυθόμην δὲ καὶ ἁπάντων τῶν τριηκοσίων.\n[2] καὶ δὴ Περσέων πίπτουσι ἐνθαῦτα ἄλλοι τε πολλοὶ καὶ ὀνομαστοί, ἐν δὲ δὴ καὶ Δαρείου δύο παῖδες Ἀβροκόμης τε καὶ Ὑπεράνθης, ἐκ τῆς Ἀρτάνεω θυγατρὸς Φραταγούνης γεγονότες Δαρείῳ. ὁ δὲ Ἀρτάνης Δαρείου μὲν τοῦ βασιλέος ἦν ἀδελφεός, Ὑστάσπεος δὲ τοῦ Ἀρσάμεος παῖς· ὃς καὶ ἐκδιδοὺς τὴν θυγατέρα Δαρείῳ τὸν οἶκον πάντα τὸν ἑωυτοῦ ἐπέδωκε, ὡς μούνης οἱ ἐούσης ταύτης τέκνου.",
+      "translation": "Now the spears for the majority of the men already happened to be broken but the men were killing the Persians with swords.  And/even Leonidas, becoming the bravest man fell in this struggle and the other distinguished men of the Spartan with him, whose names I learnt as they were of worthy men - and indeed I have learnt [the names] of all 300. \n\n[2] And indeed many others of the Persians - renowned ones at that - fell there - and indeed among them two sons of Darius.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.224.1",
+          "greek": "δόρατα μέν νυν τοῖσι πλέοσι αὐτῶν τηνικαῦτα ἤδη ἐτύγχανε κατεηγότα, οἳ δὲ τοῖσι ξίφεσι διεργάζοντο τοὺς Πέρσας. καὶ Λεωνίδης τε ἐν τούτῳ τῷ πόνῳ πίπτει ἀνὴρ γενόμενος ἄριστος καὶ ἕτεροι μετ᾽ αὐτοῦ ὀνομαστοὶ Σπαρτιητέων, τῶν ἐγὼ ὡς ἀνδρῶν ἀξίων γενομένων ἐπυθόμην τὰ οὐνόματα, ἐπυθόμην δὲ καὶ ἁπάντων τῶν τριηκοσίων.",
+          "translation": "Now the spears for the majority of the men already happened to be broken but the men were killing the Persians with swords.  And/even Leonidas, becoming the bravest man fell in this struggle and the other distinguished men of the Spartan with him, whose names I learnt as they were of worthy men - and indeed I have learnt [the names] of all 300.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.224.2",
+          "greek": "καὶ δὴ Περσέων πίπτουσι ἐνθαῦτα ἄλλοι τε πολλοὶ καὶ ὀνομαστοί, ἐν δὲ δὴ καὶ Δαρείου δύο παῖδες Ἀβροκόμης τε καὶ Ὑπεράνθης, ἐκ τῆς Ἀρτάνεω θυγατρὸς Φραταγούνης γεγονότες Δαρείῳ. ὁ δὲ Ἀρτάνης Δαρείου μὲν τοῦ βασιλέος ἦν ἀδελφεός, Ὑστάσπεος δὲ τοῦ Ἀρσάμεος παῖς· ὃς καὶ ἐκδιδοὺς τὴν θυγατέρα Δαρείῳ τὸν οἶκον πάντα τὸν ἑωυτοῦ ἐπέδωκε, ὡς μούνης οἱ ἐούσης ταύτης τέκνου.",
+          "translation": "And indeed many others of the Persians - renowned ones at that - fell there - and indeed among them two sons of Darius.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-225",
+      "text_id": "herodotus",
+      "number": 225,
+      "title": "Chapter 225",
+      "reference": "7.225",
+      "status": "published",
+      "greek": "Ξέρξεώ τε δὴ δύο ἀδελφεοὶ ἐνθαῦτα πίπτουσι μαχόμενοι, καὶ ὑπὲρ τοῦ νεκροῦ τοῦ Λεωνίδεω Περσέων τε καὶ Λακεδαιμονίων ὠθισμὸς ἐγίνετο πολλός, ἐς ὃ τοῦτόν τε ἀρετῇ οἱ Ἕλληνες ὑπεξείρυσαν καὶ ἐτρέψαντο τοὺς ἐναντίους τετράκις. τοῦτο δὲ συνεστήκεε μέχρι οὗ οἱ σὺν Ἐπιάλτῃ παρεγένοντο.\n[2] ὡς δὲ τούτους ἥκειν ἐπύθοντο οἱ Ἕλληνες, ἐνθεῦτεν ἤδη ἑτεροιοῦτο τὸ νεῖκος· ἔς τε γὰρ τὸ στεινὸν τῆς ὁδοῦ ἀνεχώρεον ὀπίσω, καὶ παραμειψάμενοι τὸ τεῖχος ἐλθόντες ἵζοντο ἐπὶ τὸν κολωνὸν πάντες ἁλέες οἱ ἄλλοι πλὴν Θηβαίων. ὁ δὲ κολωνὸς ἐστὶ ἐν τῇ ἐσόδῳ, ὅκου νῦν ὁ λίθινος λέων ἕστηκε ἐπὶ Λεωνίδῃ.\n[3] ἐν τούτῳ σφέας τῷ χώρῳ ἀλεξομένους μαχαίρῃσι, τοῖσι αὐτῶν ἐτύγχανον ἔτι περιεοῦσαι, καὶ χερσὶ καὶ στόμασι κατέχωσαν οἱ βάρβαροι βάλλοντες, οἳ μὲν ἐξ ἐναντίης ἐπισπόμενοι καὶ τὸ ἔρυμα τοῦ τείχεος συγχώσαντες, οἳ δὲ περιελθόντες πάντοθεν περισταδόν.",
+      "translation": "Indeed two brothers of Xerxes fell fighting there and there was much jostling over the body of Leonidas by both the Persians and the Spartans, until the Greeks, in their valour, dragged it away and sent their enemy running four times. This combat continued until the men with Epialtes appeared.\n\n[2] When the Greeks learnt that these men had come from then on the contest finally turned. For they withdrew back to the narrow part of the pass and, having gone past the wall, they went and took their position on the hill, and close-packed except the Thebans. The hill is in the entrance of the pass where the stone lion in honour of Leonidas now stands.\n\n[3] In this place, defending themselves with daggers if they still happened to have them and with hands and mouths, the barbarians buried them by throwing missiles - some attacking from opposite them and demolishing the defensive wall and others going around them from all sides all around.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.225.1",
+          "greek": "Ξέρξεώ τε δὴ δύο ἀδελφεοὶ ἐνθαῦτα πίπτουσι μαχόμενοι, καὶ ὑπὲρ τοῦ νεκροῦ τοῦ Λεωνίδεω Περσέων τε καὶ Λακεδαιμονίων ὠθισμὸς ἐγίνετο πολλός, ἐς ὃ τοῦτόν τε ἀρετῇ οἱ Ἕλληνες ὑπεξείρυσαν καὶ ἐτρέψαντο τοὺς ἐναντίους τετράκις. τοῦτο δὲ συνεστήκεε μέχρι οὗ οἱ σὺν Ἐπιάλτῃ παρεγένοντο.",
+          "translation": "Indeed two brothers of Xerxes fell fighting there and there was much jostling over the body of Leonidas by both the Persians and the Spartans, until the Greeks, in their valour, dragged it away and sent their enemy running four times. This combat continued until the men with Epialtes appeared.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.225.2",
+          "greek": "ὡς δὲ τούτους ἥκειν ἐπύθοντο οἱ Ἕλληνες, ἐνθεῦτεν ἤδη ἑτεροιοῦτο τὸ νεῖκος· ἔς τε γὰρ τὸ στεινὸν τῆς ὁδοῦ ἀνεχώρεον ὀπίσω, καὶ παραμειψάμενοι τὸ τεῖχος ἐλθόντες ἵζοντο ἐπὶ τὸν κολωνὸν πάντες ἁλέες οἱ ἄλλοι πλὴν Θηβαίων. ὁ δὲ κολωνὸς ἐστὶ ἐν τῇ ἐσόδῳ, ὅκου νῦν ὁ λίθινος λέων ἕστηκε ἐπὶ Λεωνίδῃ.",
+          "translation": "When the Greeks learnt that these men had come from then on the contest finally turned. For they withdrew back to the narrow part of the pass and, having gone past the wall, they went and took their position on the hill, and close-packed except the Thebans. The hill is in the entrance of the pass where the stone lion in honour of Leonidas now stands.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p3",
+          "reference": "7.225.3",
+          "greek": "ἐν τούτῳ σφέας τῷ χώρῳ ἀλεξομένους μαχαίρῃσι, τοῖσι αὐτῶν ἐτύγχανον ἔτι περιεοῦσαι, καὶ χερσὶ καὶ στόμασι κατέχωσαν οἱ βάρβαροι βάλλοντες, οἳ μὲν ἐξ ἐναντίης ἐπισπόμενοι καὶ τὸ ἔρυμα τοῦ τείχεος συγχώσαντες, οἳ δὲ περιελθόντες πάντοθεν περισταδόν.",
+          "translation": "In this place, defending themselves with daggers if they still happened to have them and with hands and mouths, the barbarians buried them by throwing missiles - some attacking from opposite them and demolishing the defensive wall and others going around them from all sides all around.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    },
+    {
+      "id": "herodotus-226",
+      "text_id": "herodotus",
+      "number": 226,
+      "title": "Chapter 226",
+      "reference": "7.226",
+      "status": "published",
+      "greek": "Λακεδαιμονίων δὲ καὶ Θεσπιέων τοιούτων γενομένων ὅμως λέγεται ἀνὴρ ἄριστος γενέσθαι Σπαρτιήτης Διηνέκης· τὸν τόδε φασὶ εἰπεῖν τὸ ἔπος πρὶν ἢ συμμῖξαι σφέας τοῖσι Μήδοισι, πυθόμενον πρός τευ τῶν Τρηχινίων ὡς ἐπεὰν οἱ βάρβαροι ἀπίωσι τὰ τοξεύματα, τὸν ἥλιον ὑπὸ τοῦ πλήθεος τῶν ὀιστῶν ἀποκρύπτουσι· τοσοῦτο πλῆθος αὐτῶν εἶναι.\n[2] τὸν δὲ οὐκ ἐκπλαγέντα τούτοισι εἰπεῖν ἐν ἀλογίῃ ποιεύμενον τὸ Μήδων πλῆθος, ὡς πάντα σφι ἀγαθὰ ὁ Τρηχίνιος ξεῖνος ἀγγέλλοι, εἰ ἀποκρυπτόντων τῶν Μήδων τὸν ἥλιον ὑπὸ σκιῇ ἔσοιτο πρὸς αὐτοὺς ἡ μάχη καὶ οὐκ ἐν ἡλίῳ.",
+      "translation": "While the Spartans and Thespians conducted themselves in such a way, nevertheless the man who acquitted himself best is said to be Diecenes, the Spartiate. They say he said the following words before they joined battle with the Medes - having learnt from one of the Trachinians that when the barbarians fired their arrows they hid the sun with the number of arrows - so great was their number.\n\n[2] He was not dismayed by these things but, making light of the number of the Medes, he said the Trachinian stranger brought them nothing but good news - if the Medes hid the sun, they would fight against them in the shade and not in the sun.",
+      "translation_type": "supplied",
+      "source": "Original project: herodgr.txt / herodtrans.txt",
+      "topic_ids": [],
+      "units": [
+        {
+          "id": "p1",
+          "reference": "7.226.1",
+          "greek": "Λακεδαιμονίων δὲ καὶ Θεσπιέων τοιούτων γενομένων ὅμως λέγεται ἀνὴρ ἄριστος γενέσθαι Σπαρτιήτης Διηνέκης· τὸν τόδε φασὶ εἰπεῖν τὸ ἔπος πρὶν ἢ συμμῖξαι σφέας τοῖσι Μήδοισι, πυθόμενον πρός τευ τῶν Τρηχινίων ὡς ἐπεὰν οἱ βάρβαροι ἀπίωσι τὰ τοξεύματα, τὸν ἥλιον ὑπὸ τοῦ πλήθεος τῶν ὀιστῶν ἀποκρύπτουσι· τοσοῦτο πλῆθος αὐτῶν εἶναι.",
+          "translation": "While the Spartans and Thespians conducted themselves in such a way, nevertheless the man who acquitted himself best is said to be Diecenes, the Spartiate. They say he said the following words before they joined battle with the Medes - having learnt from one of the Trachinians that when the barbarians fired their arrows they hid the sun with the number of arrows - so great was their number.",
+          "glosses": [],
+          "grammar_notes": []
+        },
+        {
+          "id": "p2",
+          "reference": "7.226.2",
+          "greek": "τὸν δὲ οὐκ ἐκπλαγέντα τούτοισι εἰπεῖν ἐν ἀλογίῃ ποιεύμενον τὸ Μήδων πλῆθος, ὡς πάντα σφι ἀγαθὰ ὁ Τρηχίνιος ξεῖνος ἀγγέλλοι, εἰ ἀποκρυπτόντων τῶν Μήδων τὸν ἥλιον ὑπὸ σκιῇ ἔσοιτο πρὸς αὐτοὺς ἡ μάχη καὶ οὐκ ἐν ἡλίῳ.",
+          "translation": "He was not dismayed by these things but, making light of the number of the Medes, he said the Trachinian stranger brought them nothing but good news - if the Medes hid the sun, they would fight against them in the shade and not in the sun.",
+          "glosses": [],
+          "grammar_notes": []
+        }
+      ],
+      "alignment": "subsection"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "demo-participles",
+      "title": "Participles",
+      "category": "Verbs & verbal forms",
+      "status": "sample",
+      "difficulty": "developing",
+      "summary": "Demonstration topic · a place for your future notes, worked examples and practice.",
+      "explanation": "This is an interface demonstration, not a grammar explanation. Import reviewed notes to replace this entry.",
+      "examples": [],
+      "exercises": [],
+      "related_ids": [
+        "demo-cases"
+      ],
+      "topic_ids": []
+    },
+    {
+      "id": "demo-cases",
+      "title": "Cases & their uses",
+      "category": "Nouns & syntax",
+      "status": "sample",
+      "difficulty": "foundation",
+      "summary": "Demonstration topic · explanations and examples are awaiting import.",
+      "explanation": "Your supplied grammar notes will appear here.",
+      "examples": [],
+      "exercises": [],
+      "related_ids": [
+        "demo-participles"
+      ],
+      "topic_ids": []
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "demo-vocabulary",
+      "title": "Vocabulary card preview",
+      "greek": "[Greek headword]",
+      "english": "[Supplied meaning]",
+      "status": "sample",
+      "topic_ids": [
+        "demo-cases"
+      ],
+      "notes": "Interface demonstration only. Import reviewed vocabulary entries."
+    }
+  ],
+  "unseen": [
+    {
+      "id": "demo-unseen-001",
+      "number": 1,
+      "title": "Prose passage preview",
+      "author": "Author to be supplied",
+      "genre": "Prose",
+      "difficulty": "foundation",
+      "status": "sample",
+      "origin": "adapted",
+      "source": "Interface demonstration; no passage has been supplied.",
+      "topic_ids": [
+        "demo-participles"
+      ],
+      "greek": "",
+      "translation": "",
+      "glosses": [],
+      "hints": [
+        "Optional hints will appear here when supplied."
+      ]
+    },
+    {
+      "id": "demo-unseen-002",
+      "number": 2,
+      "title": "Verse passage preview",
+      "author": "Author to be supplied",
+      "genre": "Verse",
+      "difficulty": "advanced",
+      "status": "sample",
+      "origin": "original",
+      "source": "Interface demonstration; no passage has been supplied.",
+      "topic_ids": [
+        "demo-cases"
+      ],
+      "greek": "",
+      "translation": "",
+      "glosses": [],
+      "hints": []
+    }
+  ],
+  "compositions": [
+    {
+      "id": "demo-composition-001",
+      "number": 1,
+      "title": "Sentence exercise preview",
+      "format": "sentences",
+      "difficulty": "foundation",
+      "status": "sample",
+      "topic_ids": [
+        "demo-cases"
+      ],
+      "english": "",
+      "model_greek": "",
+      "vocabulary": [],
+      "hints": [
+        "Optional syntax hints will appear here when supplied."
+      ],
+      "alternatives": [],
+      "notes": "Import an English prompt and reviewed model Greek to use this exercise."
+    },
+    {
+      "id": "demo-composition-002",
+      "number": 2,
+      "title": "Continuous prose preview",
+      "format": "continuous",
+      "difficulty": "advanced",
+      "status": "sample",
+      "topic_ids": [
+        "demo-participles"
+      ],
+      "english": "",
+      "model_greek": "",
+      "vocabulary": [],
+      "hints": [],
+      "alternatives": [],
+      "notes": "This slot demonstrates support for longer composition exercises."
+    }
+  ],
+  "annotations": [],
+  "questions": []
+}
